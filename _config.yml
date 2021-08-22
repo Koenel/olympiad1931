@@ -32,6 +32,8 @@ github_username:  Koenel
 theme: minima
 plugins:
   - jekyll-feed
+  # I hope this will include my pages and make the more visible to finally use the css
+include: [_pages]
 collections:
   organiser:
     output: true
@@ -43,8 +45,8 @@ collections:
 # add Sass as css folder -  individual components will be compiled into css -- not sure if I will need this
 sass:
   sass-dir: _sass
-# I hope this will include my pages and make the more visible to finally use the css
-include: [_pages]
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

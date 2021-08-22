@@ -1,0 +1,15 @@
+body {
+    background:lightskyblue;
+}
+h1 {
+    text-decoration: overline;
+    color: maroon;
+}
+p {
+    color: grey;
+}
+
+.title2 {
+    color: green;
+}
+

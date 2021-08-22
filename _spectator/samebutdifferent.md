@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: exhibit
 title: Same but different
 category: class-struggle
 tag: ticket
