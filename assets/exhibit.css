@@ -1,3 +1,8 @@
+header {
+    background: rgb(5, 5, 63);  
+}
+
+}
 body {
     background:lightskyblue;
 }
@@ -5,11 +10,21 @@ h1 {
     text-decoration: overline;
     color: maroon;
 }
-p {
-    color: grey;
-}
-
-.title2 {
+#title {
     color: green;
+    padding: 20px;
+    border: 3px black;
 }
 
+#exhibitimage {
+    border: 6px solid black;
+    padding: 1em;
+    margin: 0.5em;
+    float: right;
+    height: 30em;
+    width: 50em;
+}
+
+#comment {
+    color: darkred;
+}
