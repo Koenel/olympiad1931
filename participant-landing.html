@@ -1,0 +1,11 @@
+---
+layout: collectionindex
+title: Participant Collection
+---
+
+<h1>Welcome to the participant collection!</h1>
+<p>Here, you could click through collection content.</p>
+
+{% for object in site.participant %}
+    {% include collection-button.html %}
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: collectionindex
+title: Organiser Collection
+---
+
+<h1>Welcome to the organiser collection!</h1>
+<p>Here, you could click through collection content.</p>
+
+{% for object in site.organiser %}
+    {% include collection-button.html %}
+{% endfor %}

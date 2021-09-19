@@ -1,0 +1,18 @@
+.top {
+    background: rgb(3, 3, 53);
+    margin: 50px;
+    padding: 30px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.page-heading {
+    color: rgb(245, 184, 184)
+}
+
+h1 {
+    font-size: 3.5em;
+}
