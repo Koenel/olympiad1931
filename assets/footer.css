@@ -1,0 +1,14 @@
+.wrapper {
+    background-color: rgb(255, 245, 233);
+}
+.footer-heading {
+    color: rgb(90, 98, 98);
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+p {
+    padding: 20px;
+    font-family: sans-serif;
+}
