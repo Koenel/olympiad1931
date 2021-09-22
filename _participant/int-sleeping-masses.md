@@ -17,7 +17,10 @@ The masses had to be fed. Again, the organisers resorted to a centralised arrang
 </div> 
 <div class="resources">
     <div class="resources-title">Resources:</div>
-        <p>Festführer</p>
-        <p>Der Kuckuck, 3rd year, no.7, 15th February 1931, p.3</p>
-        <p>Zotter, Stefanie. 1996. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany</p>
+        <ul>
+            <li>Festführer</li>
+            <li>Der Kuckuck, 3rd year, no.7, 15th February 1931, p.3</li>
+            <li>Zotter, Stefanie. 1996. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany</li>
+        </ul>
+    </div>
 </div>
