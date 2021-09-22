@@ -16,7 +16,9 @@ image-descr: Ester Korholin signs autographs for the Austria ice hockey team
 </div>
 <div class="resources">
     <div class="resources-title">Resources:</div>
-        <p>--. “Impi Lahtinen erzählt…” (interview conducted 7 February 1931), Kronen Zeitung 8 February 1931, p7</p>
-        <p>Das Kleine Blatt, 6 Feb 1931, p. 14</p>
+        <ul>
+            <li>--. “Impi Lahtinen erzählt…” (interview conducted 7 February 1931), Kronen Zeitung 8 February 1931, p7</li>
+            <li>Das Kleine Blatt, 6 Feb 1931, p. 14</li>
+        </ul>
     </div>
 </div>
