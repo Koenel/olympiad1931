@@ -20,7 +20,7 @@
 
 title: The Worker's Winter Olympiad 1931
 email: k20111151@kcl.ac.uk
-description: It provides a digital archive for the 1931 Worker's Winter Olympiad that took place in Mürzzuschlag, Austria.
+description: This project provides a digital archive for the 1931 Worker's Winter Olympiad that took place in Mürzzuschlag, Austria.
 # >-this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://workerswinterolympiad1931.netlify.app 
