@@ -3,10 +3,6 @@ body {
     background:rgb(139, 195, 243);
 }
 /*the title is taken from the md metadata and wrapped in this tag. Every category (participant, spectator, organiser) gets a slightly different colour for their title */
-.text-info {
-    background-color: white;
-    margin: 0.8em;
-}
 #title {
     color: rgb(5, 5, 197);
     padding: 20px;
@@ -31,16 +27,4 @@ p {
 /*this is a span element that is used for in-line italics for sources that are referenced in the body*/
 .source {
     font-style: italic;
-}
-
-.resources {
-    padding-top: 0.4rem;
-    padding-bottom: 0.4rem;
-    margin: 0.8em;
-}
-
-.resources-list {
-    font-size: 0.8em;
-    color: black;
-    font-family: sans-serif;
 }
