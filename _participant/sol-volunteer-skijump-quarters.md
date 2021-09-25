@@ -15,7 +15,7 @@ Image: 79, IMG_20210624_115008.jpg
 <section class="vh-50" style="background-color: #eee;">
   <div class="container py-sm-5 h-50">
     <div class="row d-flex align-items-center h-20">
-      <div class="col col-md-9 mb-3 mb-md-1">
+      <div class="col col-md-9 mb-3 mb-md-1" id="style3">
         <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
           <blockquote class="blockquote pb-2">
             <p class="inlinequote">
