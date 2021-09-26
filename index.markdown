@@ -14,5 +14,5 @@ permalink: /home/
 </div>
 <!--<img src="../media/IMG_20210624_115503.jpg" class="img-fluid">-->
 <div class="choose-path">
-    <h2 class="homeh2">Please choose the path you would like to take:</h2>
+    <h2 class="homeh2">Please choose the path you would like to take</h2>
 </div>
