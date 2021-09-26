@@ -1,0 +1,96 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    justify-content: space-around;
+    align-self: center;
+    background-color: tomato;
+}
+
+/*taken from: https://www.w3schools.com/howto/howto_css_animate_buttons.asp, then added buttons on image: https://www.w3schools.com/howto/howto_css_button_on_image.asp */
+.btn {
+    position: relative;
+    background-color: #23d3da;
+    border: thin;
+    font-size: 23px;
+    color: #32034d;
+    padding: 15px;
+    width: 180px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+  }
+  
+  .button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+  }
+
+  .container-fluid {
+    width: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  /* Container needed to position the button. Adjust the width as needed
+.container {
+  position: relative;
+  width: 50%;
+}
+
+Make the image responsive
+.container img {
+  width: 100%;
+  height: auto;
+}
+Style the button and place it in the middle of the container/image
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: turquoise;
+}*/
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content:"";
+  display: table;
+  clear: both;
+}
