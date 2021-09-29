@@ -17,3 +17,20 @@
 h1 {
     font-size: 3.5em;
 }
+
+#searchbutton {
+    /*position: absolute;*/
+    background-color: #4b9b40;
+    border: thin;
+    font-size: 15px;
+    color: #32034d;
+    padding: auto;
+    width: auto;
+    align-items: center;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
