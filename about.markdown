@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aboutpages
 title: About the event and its socio-political background
 permalink: /about/
 ---

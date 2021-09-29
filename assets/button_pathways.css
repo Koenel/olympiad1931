@@ -4,7 +4,6 @@ nav ul {
     padding-left: 0;
     justify-content: space-around;
     align-self: center;
-    background-color: tomato;
 }
 
 /*taken from: https://www.w3schools.com/howto/howto_css_animate_buttons.asp, then added buttons on image: https://www.w3schools.com/howto/howto_css_button_on_image.asp */
