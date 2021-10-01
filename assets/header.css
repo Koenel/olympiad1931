@@ -2,7 +2,7 @@
     background-image: linear-gradient(rgba(3, 3, 40, 0.9), rgb(3, 3, 53, 1));
     margin: auto;
     padding: 30px;
-    height: 400px;
+    height: 150px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

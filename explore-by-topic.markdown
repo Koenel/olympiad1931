@@ -4,14 +4,16 @@ title: Explore the exhibition by topic
 permalink: /explore-by-topic/
 ---
 <!-- taken from: https://stackoverflow.com/questions/28100220/jekyll-display-collection-by-category-->
-{{ page.category }}
 
 {% assign educat = site.participant | where: "category", "education" %}
 
 {% assign classsolsorted = site.organiser | sort: "category" %}
 
+<!--assign given categories into groups in order to process them in a for-loop-->
+
 {% assign groups = site.participant | group_by: "category" | sort: "name" %}
 
+<!--This for-loop displays the groups that have been assigned above, however, displaying the title does not work yet-->
 {% for group in groups %}
     {{ group.name }}
     {% for item in groups.item %}
