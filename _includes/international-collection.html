@@ -1,0 +1,17 @@
+{% assign edus = site.participant | where: "category", "international" %}
+
+{% for object in edus %}
+    {{ object.title }}
+{% endfor %}
+
+{% assign edus = site.spectator | where: "category", "international" %}
+
+{% for object in edus %}
+    <a href="{{ object.url }}">{{ object.title }}</a>
+{% endfor %}
+
+{% assign edus = site.organiser | where: "category", "international" %}
+
+{% for object in edus %}
+    {{ object.title }}
+{% endfor %}

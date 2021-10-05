@@ -1,7 +1,7 @@
 ---
 layout: organiser
 title: A protective force of workers to defend democracy
-category: class struggle
+category: class-struggle
 tag: Julius Deutsch
 year: 1931
 medium: photograph
