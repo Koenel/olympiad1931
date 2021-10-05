@@ -14,9 +14,25 @@ permalink: /explore-by-topic/
 {% assign groups = site.participant | group_by: "category" | sort: "name" %}
 
 <!--This for-loop displays the groups that have been assigned above, however, displaying the title does not work yet-->
-{% for group in groups %}
+<!--{% for group in groups %}
     {{ group.name }}
     {% for item in groups.item %}
         {{item.title}}
     {% endfor %}
-{% endfor %}
+{% endfor %}-->
+
+<h1 class="category-title"> Class struggle </h1>
+{% include education-collection.html %}
+
+<h1 class="category-title"> Education </h1>
+{% include education-collection.html %}
+
+<h1 class="category-title"> Equality </h1>
+{% include equality-collection.html %}
+
+
+<h1 class="category-title"> International </h1>
+{% include international-collection.html %}
+
+<h1 class="category-title"> Solidarity </h1>
+{% include solidarity-collection.html %}

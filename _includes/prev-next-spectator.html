@@ -1,0 +1,35 @@
+<!--try this:https://dmitryrogozhny.com/blog/adding-previous-next-post-navigation-->
+<h1>something is here</h1>
+<!--taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid-->
+{% assign sorted_pages = site.spectator | sort:"name" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endfor %}
+
+<!--<div class="navigation"></div>-->
+{% for object in site.spectator %}
+    {% assign next = page.index | plus: 1 %}
+    {% assign prev = page.index | minus: 1 %}
+    {% if prev == object.index %}
+        {% assign prevpage = object %}
+    {% endif %}
+    {% if next == object.index %}
+        {% assign nextpage = object %}
+    {% endif %}
+{% endfor %}
+
+<div class="button prevpage">
+    <button type="button" class="btn btn-sm">
+        {% if prevpage %}
+        <a href="{{ prevpage.url }}">{{ prevpage.category }}</a>
+        {% endif %}
+    </button>
+</div>
+
+<div class="button nextpage">
+    <button type="button" class="btn btn-sm">
+        {% if nextpage %}
+        <a href="{{ nextpage.url }}">{{ nextpage.category }}</a>
+        {% endif %}
+    </button>
+</div>

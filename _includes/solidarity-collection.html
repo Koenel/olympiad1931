@@ -1,0 +1,17 @@
+{% assign edus = site.participant | where: "category", "solidarity" %}
+
+{% for object in edus %}
+    {{ object.title }}
+{% endfor %}
+
+{% assign edus = site.spectator | where: "category", "solidarity" %}
+
+{% for object in edus %}
+    {{ object.title }}
+{% endfor %}
+
+{% assign edus = site.organiser | where: "category", "solidarity" %}
+
+{% for object in edus %}
+    {{ object.title }}
+{% endfor %}

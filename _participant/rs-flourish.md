@@ -1,7 +1,7 @@
 ---
 layout: participant
 title: Paramilitary presence at the Olympiad
-category: class struggle
+category: class-struggle
 tag: Republikanischer Schutzbund
 year: 1931
 medium: photograph

@@ -1,0 +1,56 @@
+body {
+    background-image: linear-gradient(rgb(3, 3, 53, 1), rgba(3, 3, 40, 0.6));
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(151, 51, 51);
+    padding: 2%;
+}
+#category {
+    color: rgb(230, 163, 163);
+    padding: 0%;
+    font-size: 2rem;
+}
+
+.infotext {
+    background-color: rgb(214, 239, 255);
+    padding: 2%;
+}
+p {
+    font-size: 1.3rem;
+    color: black;
+    font-family: sans-serif;
+}
+/*for in-line resource citation*/
+#source {
+    font-style: italic;
+}
+
+#quotetitle {
+    color: maroon;
+}
+/*reduce maximum image size and center image. Image is wrapped in a div-element, so the margin: auto property can be applied*/
+#exhibit-image {
+    -moz-text-size-adjust: auto;
+    text-align: center;
+    max-width: 85%;
+    max-height: 85%;
+    margin: auto;
+}
+
+.resources {
+    color: rgb(31, 28, 28);
+    font-family: sans-serif;
+}
+
+.resource-title {
+    font-size: 1.4em;
+    color: rgb(190, 80, 36);
+    font-weight: 600;
+}
+
+li {
+    font-size: 1.2em;
+}
