@@ -1,15 +1,40 @@
 ---
 layout: aboutpages
 title: About the event and its socio-political background
-permalink: /about/
+permalink: /about-venue/
 ---
-<h2>A demonstration of strength</h2>
-Following the first Olympiads, the second Winter and Summer Olympiad was set to take place in Austria.
-<h2>Remote, but dedicated</h2>
-There are various reasons, why the small town of Mürzzuschlag with is barely 10.000 inhabitants was chosen to host a mass sporting event like the Olympiad.
 
-<h2>The Linzer Programm</h2>
-The so-called Linzer Programm was the key document which would define the key policies of the social democratic party and their clubs from its inception in 1926 to the prohibition of the party in 1934. It clearly acknowledges Marxism and class struggle as well as the necessity that socialism is a stepping stone for society to move from capitalism to communism. While it acknowledges the achievements of the first republic such as suffrages and social welfare, its militant tone was interpreted as proclamation of class war by political opponents. It proved disastrous for the social democratic party’s standing and groups like the Heimwehr, the Christian socialist party’s paramilitary wing, profited from gaining new members as a consequence (Austria Forum).
+<h1>The Olympiad and its venue </h1>
+<p><span class="information">Following the first Olympiads, the second Winter and Summer Olympiad was set to take place in Austria. The Winter Olympiad in Mürzzuschlag was the first of two major sports events that were held in Austria in 1931. Both, the Winter and the Summer Olympiad, were significant events of the demonstration of the strength of social democracy and the working class as well as sports as a mass movement. The Summer Olympiad, that took place in Vienna, was larger than the event in Mürzzuschlag, attracting more athletes and spectators. It’s better documented, too, in various books and websites, and the main stadium in Vienna is still in use to this day as a sports and event location.</span></p>
+<h2>Here are some facts about the Winter Olympiad:</h2>
+<div class="facts-list">
+    <ul>
+        <li>5th February – 8th February 1931</li>
+        <li>8 international groups competed</li>
+        <li>327 athlethes, 276 men and 51 women</li>
+        <li>204 Austrian athletes competed</li>
+        <li>Finnish athletes dominated the competitions</li>
+    </ul>
+</div>
+<h3>Why was Mürzzuschlag chosen as a venue?</h3>
+<p><span class="information">When Vienna received the honour of hosting the second Summer Olympiad, the winter sports clubs demanded their own games. Due to its location, the area was not fit to host winter games too. Therefore, the organisers scouted Austria for a suitable alternative. Although Austria is dominated by the alps, this would not guarantee cold winters but not necessarily rich in snow. There were various criteria that such a location needed to fulfill:</span></p>
+<div class="facts-list">
+    <ul>
+        <li>advantageous weather condition</li>
+        <li>winters rich in snow</li>
+        <li>close to industrial centres</li>
+        <li>easily accessible by public transport (trains)</li>
+        <li>local organisers who had some experience in hosting larger events</li>
+        <li>a strong social democratic party</li>
+    </ul>
+</div>
+<p><span class="information">Mürzzuschlag fulfilled all the requested criteria. First, Mürzzuschlag is situated roughly 100km south of Vienna and 100k north of Graz, two major Austrian cities and a major train line, the Südbahn (southern train) had an important station in town. Situated at the Eastern outskirts of the alps, the town is surrounded by mountains higher than 1000m that had very good chances to be covered snow every winter.</span></p> 
+<p><span class="information">Second, Mürzzuschlag had already had some experience in hosting major winter events. In 1893, Toni Schruf, who supported also the Olympiad in 1931, initiated the first winter games that were one of the first in Europe to promote skiing which was then still a novelty for the rich bourgeoise. By 1931, skiing had become a sport that the working class took an interest in too. Theodor Hüttenegger, the leader of the local technical committee, could provide sufficient knowledge of the area and infrastructure to organise and plan a major event like this.</span></p>
+<p><span class="information">Third, the town’s 8000 strong population had voted a predominantly social democratic municipal council, and many members of the public were members of the local workers’ clubs like the football, gymnastics and cycling club, or the various singing groups and music clubs that supported the Olympiad’s evening events.</span></p>
+
+
+
+
 
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

@@ -1,0 +1,55 @@
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(151, 51, 51);
+    padding: 1%;
+}
+.abstract-listing {
+    background-color: burlywood;
+}
+.abstract-text {
+    color: cornflowerblue;
+}
+
+.category-title {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(151, 51, 51);;
+    font-size: 2em;
+    padding: 2%;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 600;
+    color: darkgoldenrod;
+    padding: 2%;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 500;
+    color: darkgoldenrod;
+    padding: 1%;
+}
+
+.information {
+    font-size: 1.2em;
+    color: lightgray;
+    padding-bottom:3%;
+    padding-left: 2%;
+}
+
+.facts-list {
+    font-size: 1.2em;
+    color: lightgray;
+    /*content: "\2022";*/
+    list-style-type: square;
+    display: inline-block;
+    font-weight: bold;
+    border-left: solid 3px burlywood;
+}
+
+.emphasis {
+    font-weight: 600;
+}

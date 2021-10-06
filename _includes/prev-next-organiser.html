@@ -7,7 +7,7 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
 {% endfor %}-->
 
 <!--<div class="navigation"></div>-->
-{% for object in site.spectator %}
+{% for object in site.organiser %}
     {% assign next = page.index | plus: 1 %}
     {% assign prev = page.index | minus: 1 %}
     {% if prev == object.index %}
@@ -18,24 +18,6 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
     {% endif %}
 {% endfor %}
 
-<<<<<<< HEAD
-<div class="button-nav-collection">
-    <div class="button-prevpage">
-        <button type="button" class="btn btn-md">
-            {% if prevpage %}
-            <a href="{{ prevpage.url }}">{{ prevpage.category }}</a>
-            {% endif %}
-        </button>
-    </div>
-
-    <div class="button-nextpage">
-        <button type="button" class="btn btn-md">
-            {% if nextpage %}
-            <a href="{{ nextpage.url }}">{{ nextpage.category }}</a>
-            {% endif %}
-        </button>
-    </div>
-=======
 <div class="button prevpage">
     <button type="button" class="btn btn-sm">
         {% if prevpage %}
@@ -50,5 +32,4 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
         <a href="{{ nextpage.url }}">{{ nextpage.category }}</a>
         {% endif %}
     </button>
->>>>>>> main
 </div>

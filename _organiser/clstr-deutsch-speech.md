@@ -8,6 +8,7 @@ medium: photograph
 image-path: /../media/IMG_20210624_122209.jpg
 image-descr: Julius Deutsch, leader of ASKÖ since 1926, founder of Republikanischer Schutzbund in 1924
 references: https://www.geschichtewiki.wien.gv.at/Julius_Deutsch; Deutsch, Julius. Wir grüßen euch! Festführer, 1931, p. 5
+index: 1
 ---
 <div id="exhibit-image"><img src="/../media/Dr._Julius_Deutsch.jpg" class="img-fluid" alt="Julius Deutsch, leader of the ASKÖ"></div>
 <div class="infotext">

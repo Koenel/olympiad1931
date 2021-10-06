@@ -8,6 +8,7 @@ medium: photograph
 image-path: /../media/IMG_20210624_122209.jpg
 image-descr: Members of the Republikanischer Schutzbund were not only enforcing order and safety but also showing their presence as musicians.
 references: Austria Forum, 'Linzer Programm (Sozialdemokratie), https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie), verifziert von Karl Glaubauf, 2013'. 10th October 2019, accessed 07 August 2021; Das Rote Wien, Republikanischer Schutzbund, http://www.dasrotewien.at/seite/republikanischer-schutzbund; Geschichtewiki, Republikanischer Schutzbund, https://www.geschichtewiki.wien.gv.at/Republikanischer_Schutzbund, accessed 07 August 2021
+index: 1
 ---
 <div class="grid-item" style="background-color: white" id="exhibit-image"><img src="/../media/IMG_20210624_122209.jpg" class="img-fluid" alt="Members of the Republikanischer Schutzbund playing a flourish of trumpets">
 <div class="text-info">
