@@ -1,3 +1,19 @@
 .button {
     color: cadetblue;
 }
+/* float ensures they are on the same line, one left, one right */
+.button-prevpage {
+    border: 3px;
+    text-align: left;
+    float: left;
+    margin: 30px;
+    background-color: rgb(235, 225, 213);
+}
+
+.button-nextpage {
+    border: 3px;
+    text-align: right;
+    float: right;
+    margin: 30px;
+    background-color: rgb(235, 225, 213);
+}

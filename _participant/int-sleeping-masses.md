@@ -7,6 +7,7 @@ year: 1931
 medium: photograph
 image-path: /../media/hungarian_team_quarters.png
 image-descr: The Hungarian team in their quarters, preparing for the next competition (Der Kuckuck, Photo Ingbro)
+index: 4
 ---
 <div class="grid-item" style="background-color: white" id="exhibit-image"><img src="/../media/hungarian_team_quarters.png" class="img-fluid" alt="The Hungarian team in their quarters, preparing for the next competition">
 <div class="text-info">

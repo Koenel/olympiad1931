@@ -22,17 +22,17 @@ permalink: /explore-by-topic/
 {% endfor %}-->
 
 <h1 class="category-title"> Class struggle </h1>
-{% include education-collection.html %}
+<div class="abstract-listing">{% include education-collection.html %}</div>
 
 <h1 class="category-title"> Education </h1>
-{% include education-collection.html %}
+<div class="abstract-listing">{% include education-collection.html %}</div>
 
 <h1 class="category-title"> Equality </h1>
-{% include equality-collection.html %}
+<div class="abstract-listing">{% include equality-collection.html %}</div>
 
 
 <h1 class="category-title"> International </h1>
-{% include international-collection.html %}
+<div class="abstract-listing">{% include international-collection.html %}</div>
 
 <h1 class="category-title"> Solidarity </h1>
-{% include solidarity-collection.html %}
+<div class="abstract-listing">{% include solidarity-collection.html %}</div>

@@ -7,6 +7,7 @@ year: 1930
 medium: photograph
 image-path: /../media/IMG_20210624_115008.jpg
 image-descr: Volunteers worked throughout summer to create a ski jump of international standards.
+index: 5
 ---
 <div class="grid-item" style="background-color: white" id="exhibit-image"><img src="/../media/IMG_20210624_115008.jpg" class="img-fluid" alt="Idealist volunteers building the ski jump for the Olympiad"></div>
 Image: 79, IMG_20210624_115008.jpg

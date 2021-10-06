@@ -5,8 +5,10 @@ pic: ../media/bets-dneueblatt130206.png
 ---
 
 <h1>Welcome to the organiser collection!</h1>
-<p>Here, you could click through collection content.</p>
+<p><span class="information">Here, you could click through collection content.</span></p>
 
 {% for object in site.organiser %}
     {% include collection-button.html %}
 {% endfor %}
+
+{% include backbutton.html %}

@@ -4,8 +4,10 @@ title: Spectator Collection
 ---
 
 <h1>Welcome to the spectator collection!</h1>
-<p>Here, you could click through collection content.</p>
+<p><span class="information">Here, you could click through collection content.</span></p>
 
 {% for object in site.spectator %}
     {% include collection-button.html %}
 {% endfor %}
+
+{% include backbutton.html %}

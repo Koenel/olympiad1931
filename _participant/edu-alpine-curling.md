@@ -7,6 +7,7 @@ year: 1931
 medium: photograph
 image-path: /../media/ester_korholin_autographs_for_austrian_ice_hockey.png
 image-descr: Alpine curling was a local discipline
+index: 2
 ---
 <div class="grid-item" style="background-color: white" id="exhibit-image"><img src="/../media/ester_korholin_autographs_for_austrian_ice_hockey.png" class="img-fluid" alt="Alpine curling was a local discipline">
 <div class="text-info">

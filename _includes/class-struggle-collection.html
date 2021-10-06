@@ -1,17 +1,17 @@
 {% assign edus = site.participant | where: "category", "class-struggle" %}
-
 {% for object in edus %}
-    {{ object.title }}
+    <a href="{{ object.url }}">{{ object.title }}</a>
+    <div class="abstract-text">{{ object.abstract }}</div>
 {% endfor %}
 
 {% assign edus = site.spectator | where: "category", "class-struggle" %}
-
 {% for object in edus %}
-    {{ object.title }}
+    <a href="{{ object.url }}">{{ object.title }}</a>
+    <div class="abstract-text">{{ object.abstract }}</div>
 {% endfor %}
 
 {% assign edus = site.organiser | where: "category", "class-struggle" %}
-
 {% for object in edus %}
-    {{ object.title }}
+    <a href="{{ object.url }}">{{ object.title }}</a>
+    <div class="abstract-text">{{ object.abstract }}</div>
 {% endfor %}

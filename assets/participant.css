@@ -2,6 +2,16 @@
 body {
     background:rgb(139, 195, 243);
 }
+
+/*reduce maximum image size and center image. Image is wrapped in a div-element, so the margin: auto property can be applied*/
+#exhibit-image {
+    -moz-text-size-adjust: auto;
+    text-align: center;
+    max-width: 85%;
+    max-height: 85%;
+    margin: auto;
+}
+
 /*the title is taken from the md metadata and wrapped in this tag. Every category (participant, spectator, organiser) gets a slightly different colour for their title */
 #title {
     color: rgb(5, 5, 197);
@@ -9,22 +19,53 @@ body {
     font-weight: 700;
     font-size: 2.5em;
 }
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(151, 51, 51);
+    padding: 2%;
+}
+#category {
+    color: rgb(230, 163, 163);
+    padding: 0%;
+    font-size: 2rem;
+}
+
+.infotext {
+    background-color: rgb(214, 239, 255);
+    padding: 2%;
+}
 /*this is for general paragraphs and the same for all categories*/
 /*text elements*/
 p {
-    font-size: 1.1em;
+    font-size: 1.3rem;
     color: black;
     font-family: sans-serif;
 }
 
-.resources-title {
-    font-size: 1.3em;
-    color: rgb(40, 41, 88);
-    font-weight: 600;
+#quotetitle {
+    color: maroon;
+}
+
+
+.resources {
+    color: rgb(31, 28, 28);
     font-family: sans-serif;
 }
+
+.resource-title {
+    font-size: 1.4em;
+    color: rgb(190, 80, 36);
+    font-weight: 600;
+}
+
+li {
+    font-size: 1.2em;
+}
+
 /*span elements*/
 /*this is a span element that is used for in-line italics for sources that are referenced in the body*/
-.source {
+#source {
     font-style: italic;
 }
