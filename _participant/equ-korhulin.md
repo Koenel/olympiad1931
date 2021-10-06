@@ -2,11 +2,13 @@
 layout: participant
 title: Women reach for gold
 category: equality
+guide: participant
 tag: Ski jump
 year: 1931
 medium: photograph
 image-path: /../media/ester_korholin_autographs_for_austrian_ice_hockey.png
 image-descr: Ester Korholin signs autographs for the Austria ice hockey team
+lang: en
 index: 3
 abstract: The Winter Olympiad 1931 was one of the first events in which women could compete. Some of the female athletes were very popular and the media was highly interested in them.
 ---

@@ -2,11 +2,13 @@
 layout: organiser-grid
 title: Organisation for the masses
 category: education
+guide: organiser
 tag: Ski jump
 year: 1932
 medium: photograph
 image-path: /../media/IMG_20210624_114316.jpg
 image-descr: Extensive explanation of the requirements for building a ski jump to Olympiad standards
+lang: en
 index: 2
 ---
 <body>

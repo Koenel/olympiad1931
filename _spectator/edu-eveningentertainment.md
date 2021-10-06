@@ -2,12 +2,14 @@
 layout: spectator
 title: Evening entertainment
 category: education
+guide: spectator
 tag: entertainment
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_122146.jpg
 image-descr: Spectators at an evening event
 references: N/A
+lang: en
 index: 2
 ---
 <body>

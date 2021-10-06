@@ -2,12 +2,14 @@
 layout: spectator
 title: Women in skating
 category: equality
+guide: spectator
 tag: women's skating
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_123823.jpg
 image-descr: Elfriede Gönner figure skating to victory
 references: N/A
+lang: en
 index: 3
 ---
 <body>

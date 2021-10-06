@@ -2,12 +2,14 @@
 layout: organiser-grid
 title: The Death of Otto Schwarz
 category: solidarity
+guide: organiser
 tag: death
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_122209.jpg
 image-descr: The death of athlete Otto Schwarz was largely due to averse weather conditions, but the community supported deceased's parents
 references: N/A
+lang: en
 index: 5
 ---
 Overall, the Olympiad could be considered a success for the socialist movement, showcasing their international solidarity, Austria’s hospitality and sporting integrity. However, the Olympiad was overshadowed by Otto Schwarz’ accident which proved to showcase the working classes communal support. Schwarz, an athlete from Aussig (now Ústí nad Labem, Czechoslovakia), participated in the 30km race. Josef Fischer’s eyewitness account “Im Kampf mit Schnee und Sturm” (Fighting against snow and storm) shows the weather conditions on Friday made it almost impossible to realise the race. Teams who prepared the slopes and laid the telephone cables struggled with masses of new snow that impeded their progress throughout the day. Fischer, one of the team leaders, recounts that the ascend to the mountain hut where the skiers would sleep the night before the race, took three hours because they had to bring red and blue flags to mark the slopes the next morning. On Friday morning, Fischer considered foregoing the first half kilometre because cornices obstructed the race course. Still, the teams completed their signposting, slope preparations and telephone lines in the early hours of Saturday morning.

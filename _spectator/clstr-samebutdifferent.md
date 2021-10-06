@@ -2,12 +2,14 @@
 layout: spectator
 title: Same but different
 category: class-struggle
+guide: spectator
 tag: ticket
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_113052.jpg
 image-descr: ticket for head teacher Albert Knotz that grants entrance to all evening events throughout the Olympiad
 references: Alpenländische Wochenschau, Jan 1931
+lang: en
 index: 1
 ---
 <body>

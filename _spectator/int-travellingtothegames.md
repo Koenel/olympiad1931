@@ -2,12 +2,14 @@
 layout: spectator
 title: Travelling to the games and showcasing internationality
 category: international
+guide: spectator
 tag: ticket
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_111808.jpg
 image-descr: A discount ticket for the national rail service
 references: N/A
+lang: en
 index: 4
 ---
 <body>
