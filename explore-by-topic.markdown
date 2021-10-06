@@ -1,5 +1,5 @@
 ---
-layout: aboutpages
+layout: orderedbytopic
 title: Explore the exhibition by topic
 permalink: /explore-by-topic/
 ---
