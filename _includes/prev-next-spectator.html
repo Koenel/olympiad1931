@@ -18,7 +18,6 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
     {% endif %}
 {% endfor %}
 
-<<<<<<< HEAD
 <div class="button-nav-collection">
     <div class="button-prevpage">
         <button type="button" class="btn btn-md">
@@ -35,20 +34,4 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
             {% endif %}
         </button>
     </div>
-=======
-<div class="button prevpage">
-    <button type="button" class="btn btn-sm">
-        {% if prevpage %}
-        <a href="{{ prevpage.url }}">{{ prevpage.category }}</a>
-        {% endif %}
-    </button>
-</div>
-
-<div class="button nextpage">
-    <button type="button" class="btn btn-sm">
-        {% if nextpage %}
-        <a href="{{ nextpage.url }}">{{ nextpage.category }}</a>
-        {% endif %}
-    </button>
->>>>>>> main
 </div>
