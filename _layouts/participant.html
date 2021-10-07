@@ -17,11 +17,9 @@
             {% include header.html %}
         </div>
 
-        Currently viewing: <h1 id="category">{{ page.category }}</h1>
-        <h1 id="title">{{ page.title }}</h1>
+        Guide: <h1 id="guide-category">{{ page.guide}}</h1> Category: <h1 id="category">{{ page.category }}</h1>
 
         {{ content }}
-
         {% include prev-next-participant.html %}
 
     {% include footer.html %}

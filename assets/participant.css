@@ -26,6 +26,12 @@ h1 {
     color: rgb(151, 51, 51);
     padding: 2%;
 }
+
+#guide-category {
+    color: rgb(189, 156, 129);
+    padding: 0%;
+}
+
 #category {
     color: rgb(230, 163, 163);
     padding: 0%;

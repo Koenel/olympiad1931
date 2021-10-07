@@ -5,7 +5,6 @@ taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-w
 {% for node in sorted_pages %}
   <li><a href="{{node.url}}">{{node.title}}</a></li>
 {% endfor %}-->
-
 <!--<div class="navigation"></div>-->
 {% for object in site.spectator %}
     {% assign next = page.index | plus: 1 %}

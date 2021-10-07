@@ -1,17 +1,22 @@
-{% assign edus = site.participant | where: "category", "solidarity" %}
-{% for object in edus %}
-    <a href="{{ object.url }}">{{ object.title }}</a>
-    <div class="abstract-text">{{ object.abstract }}</div>
-{% endfor %}
+<div class="row-collection">
+    <div class="column-collection">{% assign edus = site.participant | where: "category", "solidarity" %}
+        <div class="img"><img src="../media/IMG_20210624_115008.jpg" class="img-thumbnail"></div>
+        {% for object in edus %}
+            <a href="{{ object.url }}">{{ object.title }}</a>
+            <div class="abstract-text">{{ object.abstract }}</div>
+        {% endfor %}</div>
 
-{% assign edus = site.spectator | where: "category", "solidarity" %}
-{% for object in edus %}
-    <a href="{{ object.url }}">{{ object.title }}</a>
-    <div class="abstract-text">{{ object.abstract }}</div>
-{% endfor %}
+    <div class="column-collection">{% assign edus = site.spectator | where: "category", "solidarity" %}
+        <div class="img"><img src="../media/IMG_20210624_121340.jpg" class="img-thumbnail"></div>
+        {% for object in edus %}
+            <a href="{{ object.url }}">{{ object.title }}</a>
+            <div class="abstract-text">{{ object.abstract }}</div>
+        {% endfor %}</div>
 
-{% assign edus = site.organiser | where: "category", "solidarity" %}
-{% for object in edus %}
-    <a href="{{ object.url }}">{{ object.title }}</a>
-    <div class="abstract-text">{{ object.abstract }}</div>
-{% endfor %}
+    <div class="column-collection">{% assign edus = site.organiser | where: "category", "solidarity" %}
+        <div class="img"><img src="../media/kaempfen_siegen_dneueblatt_310205.png" class="img-thumbnail"></div>
+        {% for object in edus %}
+            <a href="{{ object.url }}">{{ object.title }}</a>
+            <div class="abstract-text">{{ object.abstract }}</div>
+        {% endfor %}</div>
+</div>

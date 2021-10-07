@@ -19,6 +19,17 @@ h1 {
     color: maroon;
 }
 
+#guide-category {
+    color: rgb(228, 200, 200);
+    padding: 0%;
+}
+
+#category {
+    color: rgb(230, 163, 163);
+    padding: 0%;
+    font-size: 2rem;
+}
+
 p {
     font-size: 1.5em;
     color: black;
