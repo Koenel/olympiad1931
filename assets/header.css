@@ -1,5 +1,5 @@
 .top {
-    background-image: linear-gradient(rgba(3, 3, 40, 0.9), rgb(3, 3, 53, 1));
+    background-image: linear-gradient(rgba(215, 206, 199, 0.9), rgb(215, 206, 199, 0.4));
     margin: auto;
     padding: 30px;
     height: 150px;
@@ -10,7 +10,7 @@
     align-items: center;
 }
 .page-heading {
-    color: rgb(245, 184, 184);
+    color: rgb(118, 50, 63);
     text-align: right;
 }
 
@@ -20,7 +20,7 @@ h1 {
 
 #searchbutton {
     /*position: absolute;*/
-    background-color: #4b9b40;
+    background-color: #565656;
     border: thin;
     font-size: 15px;
     color: #32034d;

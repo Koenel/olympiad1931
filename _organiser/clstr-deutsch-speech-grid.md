@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
 title: A protective force of workers to defend democracy
-category: classstrgl_grid
+category: class-struggle
 guide: organiser
 tag: Julius Deutsch
 year: 1931
@@ -13,7 +13,7 @@ lang: en
 index: 1
 ---
 <div class="grid-container">
-    <div class="grid-item" style="background-color: white" id="exhibit-image"><img src="/../media/Dr._Julius_Deutsch.jpg" class="img-fluid" alt="Julius Deutsch, leader of the ASKÖ"></div>
+    <div class="grid-item" id="exhibit-image"><img src="/../media/Dr._Julius_Deutsch.jpg" class="img-fluid" alt="Julius Deutsch, leader of the ASKÖ">{{ page.image-descr }}</div>
     <div class="grid-item" class="infotext">
         <p>From a working-class perspective, class struggle refers to demanding the same rights as the bourgeoise and safeguarding achievements and rights that benefit the working class. This struggle should be peaceful but could be enforced by other means if necessary, as the Linzer Programm stated. A key figure in the more militant formation of branches of the socialist democrats was Julius Deutsch (1884-1968), a member of parliament for the social democratic party during the years of the first republic, from 1920 to 1933. In 1924, he founded the Republikanischer Schutzbund, the worker’s paramilitary organisation, as a response to the growing influence of the Christian socialist Heimwehr. In addition, he was president of the ASKOE from 1926 onwards, promoting sports. Sports were not only useful to create feelings of community but to strengthen the working-class both in their health standards and their ability to physically defend their rights. This view was later amplified by the National Socialist movement that put a decisive focus on the correlation of physical health and combat strength (Diplomarbeit).</p>
         <p>As leader of the ASKOE, Deutsch was expected to join the events in Mürzzuschlag and motivate the competitors as well as the crowds. He gave numerous speeches, often highlighting the achievements of the working class so far, but also focusing on their role as gatekeepers of democracy. In the Festführer, his text takes a strong combative tone:</p>
@@ -31,4 +31,3 @@ index: 1
         <p>Still, in February 1931, Deutsch’s speech is hopeful and motivational. He addresses the youth as a driving force for change and highlights that the difficulties, that the working-class faces, are not unique to the Austrian context. As an international phenomenon, solidarity with other countries, who fight against the same oppression and for their quality of life, his speech emphasises that the Austrian working class is not alone, their effort not in vain. Even a remote place like the quiet valley of the river Mürz can be a centre of friendship, solidarity and combative spirit.</p>
     </div>
 </div>
-<button class="next-content-button">Next<button>

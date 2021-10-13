@@ -1,9 +1,9 @@
 header {
-    background: rgb(5, 5, 63);  
+    background: rgb(215, 206, 201);  
 }
 
 body {
-    background:lightskyblue;
+    background: rgb(215, 206, 201);
 }
 .top {
     background: linear-gradient(27, 57, 88, 0);
