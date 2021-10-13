@@ -3,7 +3,7 @@
 }*/
 
 body {
-    background:rgb(236, 246, 255);
+    background:rgb(228, 222, 212);
 }
 .top {
     background: linear-gradient(27, 57, 88, 0);
@@ -15,8 +15,15 @@ body {
     align-items: center;
 }
 
+.infotext {
+    background-color: rgb(255, 252, 248);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
 #guide-category {
-    color: rgb(228, 200, 200);
+    color: rgb(118, 50, 63);
     padding: 0%;
 }
 
@@ -40,23 +47,35 @@ p {
     font-family: sans-serif;
 }
 #title {
-    color: darkblue;
+    color: rgb(86, 86, 86);
     padding: 20px;
     font-weight: 700;
     font-size: 2.5em;
 }
 
 #exhibit-image {
-    border: 6px solid black;
     padding: 1em;
     margin: 0.5em;
     float: left;
    /* height: 40em;
     width: 20em;*/
 }
-/*.infotext {
-    background: rgb(236, 236, 213);
-}*/
+
+.resources {
+    color: rgb(31, 28, 28);
+    font-family: sans-serif;
+}
+
+.resource-title {
+    font-size: 1.4em;
+    color: rgb(190, 80, 36);
+    font-weight: 600;
+}
+
+li {
+    font-size: 1.2em;
+}
+
 #comment {
     color: darkred;
 }
