@@ -1,20 +1,20 @@
 h1 {
     font-family: sans-serif;
     font-weight: 700;
-    color: rgb(151, 51, 51);
+    color: rgb(54,29,46);
     padding: 1%;
 }
 .abstract-listing {
-    background-color: burlywood;
+    background-color: rgb(222,230,247);
 }
 .abstract-text {
-    color: cornflowerblue;
+    color: rgb(23, 25, 27);
 }
 
 .category-title {
     font-family: sans-serif;
     font-weight: 700;
-    color: rgb(151, 51, 51);;
+    color: rgb(127,50,97);
     font-size: 2em;
     padding: 2%;
 }
@@ -22,34 +22,39 @@ h1 {
 h2 {
     font-family: sans-serif;
     font-weight: 600;
-    color: darkgoldenrod;
+    color: rgb(91,134,123);
     padding: 2%;
 }
 
 h3 {
     font-family: sans-serif;
     font-weight: 500;
-    color: darkgoldenrod;
+    color: rgb(91,134,123);
     padding: 1%;
 }
 
 .information {
     font-size: 1.2em;
-    color: lightgray;
+    color: black;
     padding-bottom:3%;
     padding-left: 2%;
 }
 
 .facts-list {
     font-size: 1.2em;
-    color: lightgray;
+    color: black;
     /*content: "\2022";*/
     list-style-type: square;
     display: inline-block;
     font-weight: bold;
-    border-left: solid 3px burlywood;
+    border-left: solid 3px rgb(0,61,0);
 }
 
 .emphasis {
     font-weight: 600;
+}
+/*span elements*/
+/*this is a span element that is used for in-line italics for sources that are referenced in the body*/
+#source {
+    font-style: italic;
 }

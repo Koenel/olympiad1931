@@ -1,20 +1,20 @@
 <div class="row-collection">
     <div class="column-collection">{% assign edus = site.participant | where: "category", "education" %}
-        <div class="img"><img src="../media/eisstock.jpg" class="img-thumbnail"></div>
+        <div class="img"><img src="../media/eisstock.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
     <div class="column-collection">{% assign edus = site.spectator | where: "category", "education" %}
-        <div class="img"><img src="../media/IMG_20210624_122146.jpg" class="img-thumbnail"></div>
+        <div class="img"><img src="../media/IMG_20210624_122146.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
     <div class="column-collection">{% assign edus = site.organiser | where: "category", "education" %}
-        <div class="img"><img src="../media/oatsz_ski_jump_pic4-clinometer.png" class="img-thumbnail"></div>
+        <div class="img"><img src="../media/oatsz_ski_jump_pic4-clinometer.png" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>

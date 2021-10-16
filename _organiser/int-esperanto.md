@@ -15,6 +15,7 @@ image-descr3: Translators for Esperanto supported the communication during the W
 references: N/A
 lang: en
 index: 4
+abstract: The working class wanted to fight for their common cause together with their brothers and sisters from abroad. At the time, very few members of the working class only know their native language. It was decided to use the planned language Esperanto to support transnational communication.
 ---
 <body>
     <div class="infotext">
@@ -51,15 +52,15 @@ index: 4
         <div class="resources">
             <div class="resource-title">Resources:</div>
                 <ul>
-                    <li>Karlander, David. 2020. “Ideological indeterminacy: Worker Esperantism in 1920s Sweden“ Language and Communication 71, 95-107. https://doi.org/10.1016/j.langcom.2019.12.004</li>
-                    <li>Diez, Robert. 1931. „Esperanto und wir Arbeiterturner.“ Oesterreichische Arbeiter-Turn- und Sport-Zeitung, p.8,9</li>
-                    <li>Deutsch, J. 1931. “Ni salutas vin!“ Festführer, p.6</li>
+                    <li>Karlander, D. 2020. “Ideological indeterminacy: Worker Esperantism in 1920s Sweden“ <span id="source">Language and Communication</span> 71, pp.95-107 [online] Available at: <a href="https://doi.org/10.1016/j.langcom.2019.12.004">https://doi.org/10.1016/j.langcom.2019.12.004</a> [Accessed 10 September 2021]</li>
+                    <li>Diez, R. 1931. Esperanto und wir Arbeiterturner. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p.8,9</li>
+                    <li>Deutsch, J. 1931. Ni salutas vin! <span id="source">Festführer</span>, p.6</li>
                 </ul>
             <div class="resource-title">Pictures:</div>
                 <ul>
-                    <li>Harnisch, Walter, Meiselmann, Arnold. 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII.</li> 
+                    <li>Harnisch, W., Meiselmann, A. 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII.</li> 
                     <li>Wintersportmuseum. Identification card, back.</li>
-                    <li>Matuzewski, Ignacy. 1910. Ludwig Zamenhof at his desk in Warsaw, Wikimedia Commons. https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg. Accessed 13 October 2021.</li>
+                    <li>Matuzewski, I. 1910. Ludwig Zamenhof at his desk in Warsaw. <span id="source">Wikimedia Commons</span>. <a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
                 </ul>
         </div>
     </div>

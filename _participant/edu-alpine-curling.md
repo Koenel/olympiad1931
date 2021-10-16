@@ -10,6 +10,7 @@ image-path: /../media/ester_korholin_autographs_for_austrian_ice_hockey.png
 image-descr: Alpine curling was a local discipline
 lang: en
 index: 2
+abstract: The athletes were invited to partake in a local sport as a symbol of international friendship, Alpine curling.
 ---
 <div class="infotext">
   <h1  id="title">{{ page.title }}</h1>

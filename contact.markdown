@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: aboutpages
 title: Contact
 permalink: /contact/
 ---

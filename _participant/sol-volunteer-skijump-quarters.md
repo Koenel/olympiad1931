@@ -10,6 +10,7 @@ image-path: /../media/IMG_20210624_115008.jpg
 image-descr: Volunteers worked throughout summer to create a ski jump of international standards.
 lang: en
 index: 5
+abstract: The success of the Olympiad in 1931 largely dependent on the support and dedication of local volunteers, from providing quarters to building the venues.
 ---
 <div class="infotext">
   <h1  id="title">{{ page.title }}</h1>
