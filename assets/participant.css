@@ -1,6 +1,6 @@
 /* the overall text body is wrapped in this tag*/
 body {
-    background:rgb(139, 195, 243);
+    background:rgb(237,232,234);
 }
 
 /*reduce maximum image size and center image. Image is wrapped in a div-element, so the margin: auto property can be applied*/
@@ -12,34 +12,34 @@ body {
     margin: auto;
 }
 
+h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(0,61,0);
+    padding: 2%;
+}
+
 /*the title is taken from the md metadata and wrapped in this tag. Every category (participant, spectator, organiser) gets a slightly different colour for their title */
 #title {
-    color: rgb(5, 5, 197);
+    color: rgb(0,61,0);
     padding: 20px;
     font-weight: 700;
     font-size: 2.5em;
 }
 
-h1 {
-    font-family: sans-serif;
-    font-weight: 700;
-    color: rgb(151, 51, 51);
-    padding: 2%;
-}
-
 #guide-category {
-    color: rgb(189, 156, 129);
+    color: rgb(54,29,46);
     padding: 0%;
 }
 
 #category {
-    color: rgb(230, 163, 163);
+    color: rgb(0,102,0);
     padding: 0%;
     font-size: 2rem;
 }
 
 .infotext {
-    background-color: rgb(214, 239, 255);
+    background-color: rgb(241,241,249);
     padding: 2%;
 }
 /*this is for general paragraphs and the same for all categories*/
@@ -50,10 +50,15 @@ p {
     font-family: sans-serif;
 }
 
+/*span elements*/
+/*this is a span element that is used for in-line italics for sources that are referenced in the body*/
+#source {
+    font-style: italic;
+}
+
 #quotetitle {
     color: maroon;
 }
-
 
 .resources {
     color: rgb(31, 28, 28);
@@ -62,16 +67,10 @@ p {
 
 .resource-title {
     font-size: 1.4em;
-    color: rgb(190, 80, 36);
+    color: rgb(0,102,0);
     font-weight: 600;
 }
 
 li {
     font-size: 1.2em;
-}
-
-/*span elements*/
-/*this is a span element that is used for in-line italics for sources that are referenced in the body*/
-#source {
-    font-style: italic;
 }

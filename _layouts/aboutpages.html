@@ -1,10 +1,14 @@
 <!--This layout defines what is presented on the top navigation bar items-->
 <!DOCTYPE html>
     <hmtl>
-    {% include head.html %}
+        <div id="homescreen">
+            {% include head.html %}</div>
+    <link href="../assets/header.css" rel="stylesheet">
+    <link href="../assets/home.css" rel="stylesheet">
     <link href="../assets/backbutton.css" rel="stylesheet">
     <link href="../assets/aboutpages.css" rel="stylesheet">
-
+        <body>
     {{ content }}
     {% include backbutton.html %}
     {% include footer.html %}
+        </body>

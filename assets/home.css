@@ -1,36 +1,36 @@
 body{
-    background-color: rgb(3, 3, 40);
+    background-color: rgb(237,232,234);
 }
 #homescreen{
-    background-color: rgb(3, 3, 40);
+    background-color: rgb(93,50,80);
     width: 100%;
 }
 
 #webpagetitle{
     font-family: sans-serif;
     font-size: 3em;
-    color: brown;
+    color: rgb(127,50,97);
 }
 .start-heading {
-    color: whitesmoke;
+    color: rgb(0,61,0);
     text-align: center;
 }
 
 main{
-    background-color: rgb(3, 3, 53);
+    background-color: rgb(237,232,234);
     margin: auto;
     padding: 3%;
     align-content: center;
 }
 .homeh2 {
     font-size: 2em;
-    color: turquoise;
+    color: rgb(0,102,0);
     font-family: sans-serif;
     font-weight: 500;
     text-align: center;
 }
 .intro-text {
-    color: white;
+    color: black;
     font-family: sans-serif;
     font-size: 1.2rem;
 }

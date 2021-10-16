@@ -10,6 +10,7 @@ image-path: /../media/hungarian_team_quarters.png
 image-descr: The Hungarian team in their quarters, preparing for the next competition (Der Kuckuck, Photo Ingbro)
 lang: en
 index: 4
+abstract: In a town of 8000 people, it was difficult to find a place to sleep for everyone.
 ---
 <div class="infotext">
     <h1  id="title">{{ page.title }}</h1>
@@ -23,7 +24,7 @@ index: 4
             <ul>
                 <li>Festführer</li>
                 <li>Der Kuckuck, 3rd year, no.7, 15th February 1931, p.3</li>
-                <li>Zotter, Stefanie. 1996. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany</li>
+                <li>Zotter, Stefanie. 1996. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
             </ul>
     </div>
 </div>
