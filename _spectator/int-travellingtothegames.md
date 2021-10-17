@@ -29,10 +29,15 @@ abstract: Although national rail services eventually supported the games by offe
             <div class="resource-title">Resources</div>
             <ul>
                 <li>Oesterreichische Arbeiter-Turn- und Sport_Zeitung January 1931, 10</li>
-                <li>Festführer, 28</li>
-                <li>Der Arbeiterwille, „Weitere Fahrbegünstigungen und Besuche der Winterolympiade“, Nr 344, Graz, 15 Dec 1930, p4 (accessed 29 August 2021, https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search )</li>
-                <li>Mars, „Das heiß Förderung des Fremdenverkehrs“, Der Abend No 27, 17th year, 3rd Feb 1931, p6 (accessed 29 August 2021, https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search )</li>
-                <li>Monthly salary of a worker in Germany in 1931: 192RM https://www.was-war-wann.de/historische_werte/monatslohn.html</li>
+                <li>Gastgeb, H. 1931. Wichtige Bestimmungen für Fahrbegünstigungen auf den Österreich. Bundesbahnen, Aspangbahn, Graz-Köflacher und Zillertaler Bahn. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna. p. 28</li>
+                <li>Anon. 1930. Weitere Fahrbegünstigungen und Besuche der Winterolympiade.<span id="source">Der Arbeiterwille</span>, Nr 344, Graz, 15 Dec 1930, p.4 (accessed 29 August 2021, https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search )</li>
+                <li>Mars. 1931. Das heiß Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, No 27, 17th year, 3rd Feb 1931, p.6 (accessed 29 August 2021, https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search )</li>
+                <li>Anon, n.d. Monthly salary of a worker in Germany in 1931: 192RM https://www.was-war-wann.de/historische_werte/monatslohn.html</li>
+            </ul>
+        </div>
+        <div class="grid-item" class="resources">
+            <div class="resource-title">Pictures</div>
+            <ul>
             </ul>
         </div>
     </div>
