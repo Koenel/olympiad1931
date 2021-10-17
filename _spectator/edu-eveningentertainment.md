@@ -3,32 +3,39 @@ layout: spectator
 title: Evening entertainment
 category: education
 guide: spectator
-tag: entertainment
+tag: ticket
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_122146.jpg
 image-descr: Spectators at an evening event at the Koburg Haus in MÜrzzuschlag
-image-path2:
-image-descr2: Theodor Hüttenegger and ... presented a print of the torch parade to open their contribution to the Oesterreichische Arbeiter-Turn- und Sport-Zeitung in January 1931. 
-references: N/A
+image-path2: /../media/IMG_20210624_113052.jpg
+image-descr2: Headteacher Albert Knotz' legimitation card allowed him to enter the Koburghaus and the events there at any time, free of charge.
+references: Alpenländische Wochenschau, Jan 1931
 lang: en
-index: 2
-abstract: Evening entertainment was provided indoors and outdoors to share local culture and political messages.
+index: 1
+abstract: Tickets were reasonably priced but access was still limited. Those with connections or of higher social standing could enjoy more sophisticated evening entertainment than the masses.
 ---
 <body>
     <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
-        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_122146.jpg" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
-        <p>While most people came for the sports, there was a need to create sufficient after-competition-events that would appeal to a culturally interested audience. However, only a fraction of the 8000 spectators (Das Kleine Blatt, 7 Feb 1931, p6) was able to participate in these events if they were held indoors. Everyone who wanted to enjoy the concerts, acts and presentations needed tickets. Those who had an event pass could participate in one of the evening events, depending on capacity. This was included in the ticket price of 1.50 or 3.50 Shillings. The opening ceremony and the closing ceremony were invitation-only.</p>
+        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_122146.jpg" class="img-fluid" alt="{{ page.image-descr }}"> {{ page.image-descr }} </div>
+        <p>Although the Linzer Programm clearly states that it fosters democracy and intends to work on the equality of those in the workforce, social standing still played a role in the participation of mass events such as the 1931 Workers’ Winter Olympiad. While everybody was allowed to purchase a ticket to the event and train travel was subsidised to allow as many people as possible to come and overcome financial restrictions (Zotter, 1996, p.44), not everybody could partake in the evening events that took place indoors. Here, people in the public eye were priviledge to gain access, as the ticket below shows.</p>
+        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_113052.jpg" class="img-fluid" alt="{{ page.image-descr2 }}"> {{ page.image-descr2 }}</div>
+        <p>It is worthwhile noting, that not only Albert Knotz’ prestigious social status as head teacher is mentioned but also his membership of the politically right-wing Koburgerhaus club where many events were hosted during the Olympiad. The building, now demolished, provided one of the largest function rooms in Mürzzuschlag. From the ticket, it is not clear whether Knotz would only participate as a spectator or if he might have had another duty during the events. However, his profession does not mark him as a member of the working class but as somebody who could be sympathetic to their course. However, the available material does not provide any further clues to Knotz’ opinion on the working class efforts.</p>
         <p>Three venues were used on four consecutive days. Below, you can find a list of events and links to some of the music that was played on each night.</p>
-        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_122146.jpg" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
-        <p>Free events were open to everyone. One of the most notable was the so-called Fackelzug (torch parade). As night fell, athletes and organisers moved in a parade through the town, ending their walk at the Ganzsteinschanze, illuminating the area with torches. Simultaneously, fires were light on the mountaintops across, creating an impressive sight. The following night, the audience was entertained by special athletic performances of the figure skaters at the ice-skating rink.</p>
     </div>
     <div class="resources">
         <div class="resource-title">Resources:</div>
             <ul>
-                <li>Festführer</li>
-                <li>Oesterreichische Arbeiter-Turn- und Sport-Zeitung, January 1931</li>
+                <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
+                <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+            </ul>
+    </div>
+    <div class="resources">
+        <div class="resource-title">Pictures:</div>
+            <ul>
+                <li>Winter!Sport!Museum! 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                <li>Stadtamt Mürzzuschlag. 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
             </ul>
     </div>
 </body>

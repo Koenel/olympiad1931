@@ -22,9 +22,16 @@ abstract: By 1931, there were paramilitary groups like the Republikanischer Schu
     <div class="resources">
         <div class="resource-title">Resources:</div>
             <ul>
-                <li><a href="https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie)">Austria Forum, 'Linzer Programm (Sozialdemokratie)</a>, verifziert von Karl Glaubauf, 2013'. 10th October 2019, accessed 07 August 2021</li>
-                <li><a href="http://www.dasrotewien.at/seite/republikanischer-schutzbund">Das Rote Wien, Republikanischer Schutzbund</a>, accessed 07 August 2021</li>
-                <li><a href="https://www.geschichtewiki.wien.gv.at/Republikanischer_Schutzbund">Geschichtewiki, Republikanischer Schutzbund</a>, accessed 07 August 2021</li>
+                <li>Anon (verified by Karl Glaubauf, 2013). 2019. Linzer Programm (Sozialdemokratie). <span id="source">Austria Forum</span> [online] Available at: <a href="https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie)">https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie)</a>, [Accessed 07 August 2021]</li>
+                <li>Anon. n.d. Republikanischer Schutzbund. <span id="source">Das rote Wien</span>[online] Available at: <a href="http://www.dasrotewien.at/seite/republikanischer-schutzbund">http://www.dasrotewien.at/seite/republikanischer-schutzbund</a> [Accessed 07 August 2021]</li>
+                <li>Bauer, O. 1926. Programm der Sozialdemokratischen Arbeiterpartei Deutschösterreichs. Sandkühler, H., de la Vega, R., eds). <span id="source">Austromarxismus</span> [online] Available at:<a href="http://www.otto-bauer.net/linzer_programm.pdf">http://www.otto-bauer.net/linzer_programm.pdf</a> [Accessed 07 August 2021]</li>
+                <li>Anon,n.d. Republikanischer Schutzbund. <span id="source">Geschichtewiki</span> [online] Available at: <a href="https://www.geschichtewiki.wien.gv.at/Republikanischer_Schutzbund">https://www.geschichtewiki.wien.gv.at/Republikanischer_Schutzbund</a> [Accessed 07 August 2021]</li>
+            </ul>
+    </div>
+    <div class="resources">
+        <div class="resource-title">Pictures:</div>
+            <ul>
+                <li>Photo Ingbro, 1931. Republikanischer Schutzbund at the Olympics [photograph] (Winter!Sport!Museum!, Mürzzuschlag)</li>
             </ul>
     </div>
 </div>

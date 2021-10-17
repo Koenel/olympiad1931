@@ -6,7 +6,6 @@ permalink: /contact/
 <h1> About this project</h1>
 This digital artefact was created as apart of a practical master thesis to obtain a master's degree in Digital Humanities at King's College London. The purpose of this digital archive is to provide visitors and those who cannot physically visit the Winter!Sport!Museum! in Mürzzuschlag, Austria, with the opportunity to explore one element of their expansive collection in more detail. The chosen aspect of the collection, the 2nd Workers Winter Olympics, features in the museum itself where its local and sportive importance is highlighted. In this virtual exhibition, the focus is on providing an alternative socio-political context and allow users to explore the archival content in more depth as this cannot be featured in the physical exhibition.
 <h1> Thank you for visiting this website </h1>
-If you have any questions about this project or suggestions how we can improve our content, please send us an email!
 <!--code taken from: https://mdbootstrap.com/docs/b4/jquery/forms/contact/-->
 <!--Section: Contact v.2-->
 <section class="mb-4">

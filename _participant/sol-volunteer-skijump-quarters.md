@@ -7,14 +7,14 @@ tag: Ski jump
 year: 1930
 medium: photograph
 image-path: /../media/IMG_20210624_115008.jpg
-image-descr: Volunteers worked throughout summer to create a ski jump of international standards.
+image-descr: Idealist Volunteers worked throughout summer to create a ski jump of international standards
 lang: en
 index: 5
 abstract: The success of the Olympiad in 1931 largely dependent on the support and dedication of local volunteers, from providing quarters to building the venues.
 ---
 <div class="infotext">
   <h1  id="title">{{ page.title }}</h1>
-  <div class="grid-item" id="exhibit-image"><img src="/../media/IMG_20210624_115008.jpg" class="img-fluid" alt="Idealist volunteers building the ski jump for the Olympiad">Volunteers were needed to build the perfect ski jump. Their work was ambitious and tedious</div>
+  <div class="grid-item" id="exhibit-image"><img src="/../media/IMG_20210624_115008.jpg" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
   <p>The success of the Winter Olympics was highly dependent on the solidarity and support of the local population who was not only encouraged to watch the games, but also to support the event by opening up their homes to athletes and spectators alike and offering lodgings. For example, the newspaper Das Kleine Blatt quotes a local railway worker:</p>
   <!--quote taken from: https://mdbootstrap.com/docs/standard/extended/quotes/-->
   <section class="vh-50" style="background-color: #eee;">
@@ -59,13 +59,19 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
   </section>
   <!--<div class="quote">original part<div class="quote">“Oft san ma vier, fünf Nächt net z’Haus käme. Wenn’s net anderscht geht, müassen ma in aner Nacht glei dreimal aufspritza.Und a jedes Spritzen braucht so drei Stund…“</div>(Das Kleine Blatt, 6 Feb 1931, p2).-->
   <p>(We would often not come home for four or five nights. If there is no other way, we need to spray three times a night. And every spray takes around three hours…)</p>
-  <p>Similarly, a team of volunteers was responsible for excavating and building the ski jump at Ganzsteinwiese. They had already started their work in the warmer summer months while the soil was still warm and soft, using shovels and wheel barrows to dig off and raise the ground wherever needed to build a jump that would allow jumps of 40metres and further. Theodor “Turl” Hüttenegger, organiser, wrote two extensive articles on the calculations and physics consideration that are necessary to complete such an enterprise successfully (Oesterreichische Arbeiter-Turn- und Sport-Zeitung, October and November 1932). It is worth highlighting that volunteers were not paid to toil hard for the event but their solidarity with the socialist movement and their interest in winter sports were deciding factors for their peak performances.</p>
+  <p>Similarly, a team of volunteers was responsible for excavating and building the ski jump at Ganzsteinwiese. They had already started their work in the warmer summer months while the soil was still warm and soft, using shovels and wheel barrows to dig off and raise the ground wherever needed to build a jump that would allow jumps of 40metres and further. Theodor “Turl” Hüttenegger, organiser, wrote two extensive articles on the calculations and physics consideration that are necessary to complete such an enterprise successfully (Oesterreichische Arbeiter-Turn- und Sport-Zeitung, 1932a, pp.91-92). It is worth highlighting that volunteers were not paid to toil hard for the event but their solidarity with the socialist movement and their interest in winter sports were deciding factors for their peak performances.</p>
   <div class="resources">
     <div class="resource-title">Resources:</div>
       <ul class="resources-list">
-        <li>Oesterreichische Arbeiter-Turn- und Sport-Zeitung, No. 10/ 9th year, October and November 1932</li>
-        <li>Sonderberichterstatter, „Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade.“ Das Kleine Blatt, 6 Feb 1931, p2</li>
+        <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
+        <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
+        <li>Anon. 1931. Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p.2</li>
       </ul>
-    </div>
+  </div>
+  <div class="resources">
+    <div class="resource-title">Pictures:</div>
+      <ul class="resources-list">
+        <li>Winter!Sport!Museum! 1930. Idealisten beim Bau der Olympiaschanze (Ganzstein) (Winter!Sport!Museum!, Mürzzuschlag)</li>
+      </ul>
   </div>
 </div>

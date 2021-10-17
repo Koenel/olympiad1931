@@ -27,7 +27,8 @@ abstract: Following the Olympics, Theodor Hüttenegger shared his experience and
         <div class="resources">
             <div class="resource-title">Resources:</div>
                 <ul>
-                    <li>Hüttenegger, T. 1932. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October and November 1932</li>
+                    <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
+                    <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
                 </ul>
         </div>
         <div class="resources">
