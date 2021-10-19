@@ -34,8 +34,8 @@ abstract: Tickets were reasonably priced but access was still limited. Those wit
     <div class="resources">
         <div class="resource-title">Pictures:</div>
             <ul>
-                <li>Winter!Sport!Museum! 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
-                <li>Stadtamt Mürzzuschlag. 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
             </ul>
     </div>
 </body>

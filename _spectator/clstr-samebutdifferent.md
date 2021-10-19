@@ -58,8 +58,8 @@ abstract: Evening entertainment was provided indoors and outdoors to share local
     <div class="resources">
       <div class="resource-title">Pictures:</div>
           <ul>
-            <li>Hüttenegger, T., Püchler. 1931. Torchparade Woodcut (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung<span>, January 1931. p.1)</li>
-            <li>Winter!Sport!Museum! 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
+            <li>Hüttenegger, T., Püchler, 1931. Torchparade Woodcut (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung<span>, January 1931. p.1)</li>
+            <li>Anon, 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
           </ul>
     </div>
   </div>

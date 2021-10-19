@@ -22,7 +22,7 @@ abstract: The athletes were invited to partake in a local sport as a symbol of i
         <div class="col col-md-9 mb-3 mb-md-1">
           <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">
-              <p class="inlinequote">“Das Eisschießen, das beim Olympia das erst Mal in einer großen Konkurrenz durchgeführt werden soll, sit wohl der eigenartigste Wintersport der Alpenländer, besser gesagt, eine spezifische Erscheinung der abgeschlossenen Täler der Ostalpen.“
+              <p class="inlinequote">“Das Eisschießen, das beim Olympia das erst Mal in einer großen Konkurrenz durchgeführt werden soll, ist wohl der eigenartigste Wintersport der Alpenländer, besser gesagt, eine spezifische Erscheinung der abgeschlossenen Täler der Ostalpen.“
               </p>
             </blockquote>
           <figcaption class="blockquote-footer mb-0 font-italic">
