@@ -11,4 +11,10 @@
     {{ content }}
     {% include backbutton.html %}
     {% include footer.html %}
+
+    <script>
+        $(document).ready(function(){
+          $('[data-toggle="popover"]').popover();   
+        });
+    </script>
         </body>
