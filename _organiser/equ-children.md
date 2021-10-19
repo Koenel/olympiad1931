@@ -12,6 +12,7 @@ image-path2: /../media/IMG_20210624_115718.jpg
 image-descr2: Children on their way to the Ganzsteinschanze-area to showcase their skiing skills
 references: N/A
 lang: en
+ref: equ-org
 index: 3
 abstract: Children were important for sustaining recruitment for the social democratic cause. Therefore, children had their own competition, much to the delight of local and international guests.
 ---

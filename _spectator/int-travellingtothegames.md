@@ -12,6 +12,7 @@ image-path2: /../media/IMG_20210624_111808.jpg
 image-descr2: The national rail services offered discounted tickets to visit the Winter and the Summer Olympiad.Ticket for Paul Wetterich from Mürzzuschlag, to visit the Summer Olympiad in Vienna.
 references: N/A
 lang: en
+ref: int-spe
 index: 4
 abstract: Although national rail services eventually supported the games by offering additional services, travelling to and from Mürzzuschlag remained challenging.
 ---

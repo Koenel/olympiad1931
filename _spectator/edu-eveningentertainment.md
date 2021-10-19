@@ -12,6 +12,7 @@ image-path2: /../media/IMG_20210624_113052.jpg
 image-descr2: Headteacher Albert Knotz' legimitation card allowed him to enter the Koburghaus and the events there at any time, free of charge.
 references: Alpenländische Wochenschau, Jan 1931
 lang: en
+ref: edu-spe
 index: 1
 abstract: Tickets were reasonably priced but access was still limited. Those with connections or of higher social standing could enjoy more sophisticated evening entertainment than the masses.
 ---

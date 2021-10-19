@@ -10,6 +10,7 @@ image-path: /../media/hungarian_team_quarters.png
 image-descr: In their quarters, the Hungarian team prepares for the next competition
 lang: en
 index: 4
+ref: int-par
 abstract: In a town of 8000 people, it was difficult to find a place to sleep for everyone. Locals were asked to open their homes when other options failed.
 ---
 <div class="infotext">

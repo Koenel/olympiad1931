@@ -12,6 +12,7 @@ image-descr: The death of athlete Otto Schwarz was largely due to averse weather
 image-descr2: Area around Mürzzuschlag. Area where Otto Schwarz had his accident in red (Sonnwendstein), hospital area in Mürzzuschlag in green
 references: N/A
 lang: en
+ref: sol-org
 index: 5
 abstract: Unfortunately, athlete Otto Schwarz lost his life after an unexpected accident, due to averse weather conditions.
 ---

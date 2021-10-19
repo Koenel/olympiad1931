@@ -14,6 +14,7 @@ image-descr2: Ludwig Zamenhof at his desk in Warsaw, 1910
 image-descr3: Translators for Esperanto supported the communication during the Winter and Summer Olympiad. They received identity cards that granted them access to train stations, venues, etc.
 references: N/A
 lang: en
+ref: int-org
 index: 4
 abstract: The working class wanted to fight for their common cause together with their brothers and sisters from abroad. At the time, very few members of the working class only know their native language. It was decided to use the planned language Esperanto to support transnational communication.
 ---

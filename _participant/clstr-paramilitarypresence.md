@@ -11,6 +11,7 @@ image-descr: Members of the Republikanischer Schutzbund were not only enforcing 
 references: Austria Forum, 'Linzer Programm (Sozialdemokratie), https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie), verifziert von Karl Glaubauf, 2013'. 10th October 2019, accessed 07 August 2021; Das Rote Wien, Republikanischer Schutzbund, http://www.dasrotewien.at/seite/republikanischer-schutzbund; Geschichtewiki, Republikanischer Schutzbund, https://www.geschichtewiki.wien.gv.at/Republikanischer_Schutzbund, accessed 07 August 2021
 lang: en
 index: 1
+ref: clstr-par
 abstract: By 1931, there were paramilitary groups like the Republikanischer Schutzbund that affiliated with particular political parties. The Republikanischer Schutzbund did not only provide security, but also contributed to organisational success of the Olympiad.
 ---
 <div class="infotext">

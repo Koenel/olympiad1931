@@ -20,6 +20,8 @@
         Guide: <h1 id="guide-category">{{ page.guide}}</h1> Category: <h1 id="category">{{ page.category }}</h1>
 
         {{ content }}
-        {% include prev-next-participant.html %}
+        <div class="navmenu">
+            {% include prev-next-participant.html %}
+        </div>
 
     {% include footer.html %}

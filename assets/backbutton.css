@@ -1,5 +1,24 @@
-.button {
-    color: cadetblue;
+/*styling guide landing page buttons*/
+.overview {
+    color: whitesmoke;
+    background-color: rgb(91,134,123);
+    padding: 8px;
+    margin-bottom: 20px;
+}
+/*style flexbox for previous and next buttons*/
+.navmenu {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -moz-flex-direction: row;
+  flex: 3;
+  flex-direction: row;
+  justify-content: right;
+  align-items: stretch;
+  flex-wrap: wrap;
 }
 /* float ensures they are on the same line, one left, one right */
 .button-prevpage {
@@ -18,7 +37,7 @@
     float: right;
     margin-bottom: 50px;
     margin-right: 20px;
-    background-color: rgb(91,134,123);
+    background-color: rgb(139, 219, 178);
     padding: 5px;
 }
 

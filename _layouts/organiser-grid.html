@@ -18,7 +18,8 @@
         You're viewing: <h2 id="guide-category">{{ page.guide}}></h2><h1 id="category">{{ page.category }}</h1>
 
         {{ content }}
-
-        {% include prev-next-organiser.html %}
+        <div class="navmenu">
+            {% include prev-next-organiser.html %}
+        </div>
 
     {% include footer.html %}

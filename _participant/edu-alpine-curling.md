@@ -10,6 +10,7 @@ image-path: /../media/eisstock.jpg
 image-descr: Alpine curling was a local discipline. Here are the winners of the competition, the AEK Mitterdorf i. Mürztal, a local club.
 lang: en
 index: 2
+ref: edu-par
 abstract: The athletes were invited to partake in a local sport as a symbol of international friendship, Alpine curling.
 ---
 <div class="infotext">

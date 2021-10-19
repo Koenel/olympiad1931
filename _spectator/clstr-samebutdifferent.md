@@ -13,6 +13,7 @@ image-descr2: Theodor Hüttenegger and Püchler presented a print of the torch p
 references: N/A
 lang: en
 index: 2
+ref: clstr-spe
 abstract: Evening entertainment was provided indoors and outdoors to share local culture and political messages.
 ---
 <body>
@@ -51,8 +52,8 @@ abstract: Evening entertainment was provided indoors and outdoors to share local
       <div class="resource-title">Resources:</div>
           <ul>
               <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-              <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung<span>, January 1931. p.1</li>
-              <li>Anon. 1931. Fünftausend Gäste in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 7 Feb 1931, p.6</li>
+              <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1</li>
+              <li>Anon. 1931. Fünftausend Gäste in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 7 February 1931, p.6</li>
           </ul>
     </div>
     <div class="resources">
