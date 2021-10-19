@@ -11,6 +11,7 @@ image-descr: A so-called Libelle was used to measure the angle of ascend and des
 image-path2: /../media/oatsz_ski_jump_pic4-clinometer.png
 image-descr2: The beams needed to be levelled and cut in the correct angles. Hüttenegger's team used a clinometer to ensure the accuracy of their work.
 lang: en
+ref: edu-org
 index: 2
 abstract: Following the Olympics, Theodor Hüttenegger shared his experience and knowledge on building a ski jump to international standards with a wider audience in the magazine Oesterreichische Arbeiter-Turn- und Sportzeitschrift
 ---

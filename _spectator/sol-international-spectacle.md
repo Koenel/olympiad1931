@@ -12,6 +12,7 @@ image-path2: ../media/IMG_20210624_121340.jpg
 image-descr2: Final parade on Saturday, political figures lead the way. Dr Karl Renner, Julius Deutsch, Dr Eldersch (from left to right)
 references: N/A
 lang: en
+ref: sol-spe
 index: 5
 abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the community of workers across countries, languages and cultures.
 ---

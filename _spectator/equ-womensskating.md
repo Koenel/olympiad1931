@@ -12,6 +12,7 @@ image-path2: ../media/IMG_20210624_123845.jpg
 image-descr2: Elfriede Gönner and her partner Rudolf Lang won the couple competition on Saturday, 7th February 1931.
 references: N/A
 lang: en
+ref: equ-spe
 index: 3
 abstract: Women had only recently started to compete in major competitions. At the Olympics in Mürzzuschlag, women competeted in nordic skiing and figure skating.
 ---

@@ -11,6 +11,7 @@ image-path2: /../media/latinen_korovaervi-relax-dkleineblatt_3102088.png
 image-descr: Ester Korholin, Finnish skiing athlete, signs autographs for the Austrian ice hockey team
 image-descr2: Impi Latinen and teammate Heikki Korovaervi, also a married couple outside the competition, relax in their quarters in central Mürzzuschlag.
 lang: en
+ref: equ-par
 index: 3
 abstract: The Winter Olympiad 1931 was one of the first events in which women could compete. Some of the female athletes were very popular and the media was highly interested in them.
 ---

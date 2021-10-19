@@ -9,6 +9,7 @@ medium: photograph
 image-path: /../media/IMG_20210624_122209.jpg
 image-descr: Julius Deutsch, leader of ASKÖ since 1926, founder of Republikanischer Schutzbund in 1924
 lang: en
+ref: clstr-org
 index: 1
 abstract: Julius Deutsch and the social democrats were aware of the difficult political climate in Austria in the 1930s. Their political agend was much more foreceful than usually, motivating their supporters but also scaring other political parties.
 ---
