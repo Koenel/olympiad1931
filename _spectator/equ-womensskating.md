@@ -26,16 +26,16 @@ abstract: Women had only recently started to compete in major competitions. At t
         <div class="grid-item" class="resources">
             <div class="resource-title">Resources</div>
                 <ul>
-                    <li>Tomlinson, A. 2010. Henie, Sonja. <span id="source">A Dictionary of Sports Studies</span>. Oxford, Oxford University Press. [online] Available at: <a href="https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568">https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568</a> [Accessed: 3 September 2021] </li>
-                    <li>Anon. 1931. Die Eislaufwettbewerbe. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 2/8th year, February 1931, pp.16-17.</li>
-                    <li>Anon. 1931. Ein Triumpf der Finnen! <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, p.14</li>
-                    <li>Anon. 1931. Sieben Nationen im friedlichen Wettkampf. <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, pp.2-3</li>
+                    <li>Tomlinson, A., 2010. Henie, Sonja. <span id="source">A Dictionary of Sports Studies</span>. Oxford, Oxford University Press. [online] Available at: <a href="https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568">https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568</a> [Accessed: 3 September 2021] </li>
+                    <li>Anon, 1931. Die Eislaufwettbewerbe. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 2/8th year, February 1931, pp.16-17.</li>
+                    <li>Anon, 1931. Ein Triumpf der Finnen! <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, p.14</li>
+                    <li>Anon, 1931. Sieben Nationen im friedlichen Wettkampf. <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, pp.2-3</li>
                 </ul>
         <div class="grid-item" class="resources">
             <div class="resource-title">Pictures</div>
                 <ul>
-                    <li>Winter!Sport!Museum! 1931. Gönner Elfriede competing in ice scating (Winter!Sport!Museum!, Mürzzuschlag)</li>
-                    <li>Winter!Sport!Museum! 1931. Pair skating on 7th February 1931, winners Gönner Elfriede and Lang Rudolf (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Anon, 1931. Gönner Elfriede competes in ice scating (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Anon, 1931. Pair skating on 7th February 1931, winners Gönner Elfriede and Lang Rudolf (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul>
         </div>
     </div>
