@@ -12,7 +12,7 @@ image-path2: /../media/torch_woodcut.jpg
 image-descr2: Theodor Hüttenegger and Püchler presented a print of the torch parade to open their contribution to the Oesterreichische Arbeiter-Turn- und Sport-Zeitung in January 1931. 
 references: N/A
 lang: en
-index: 2
+index: 1
 ref: clstr-spe
 abstract: Evening entertainment was provided indoors and outdoors to share local culture and political messages.
 ---

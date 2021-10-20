@@ -13,7 +13,7 @@ image-descr2: Headteacher Albert Knotz' legimitation card allowed him to enter t
 references: Alpenländische Wochenschau, Jan 1931
 lang: en
 ref: edu-spe
-index: 1
+index: 2
 abstract: Tickets were reasonably priced but access was still limited. Those with connections or of higher social standing could enjoy more sophisticated evening entertainment than the masses.
 ---
 <body>

@@ -30,6 +30,9 @@
     background-color: rgb(91,134,123);
     padding: 5px;
 }
+.prevbutton {
+  color: aliceblue;
+}
 
 .button-nextpage {
     border: 3px;
@@ -37,8 +40,14 @@
     float: right;
     margin-bottom: 50px;
     margin-right: 20px;
-    background-color: rgb(139, 219, 178);
+    background-color: rgb(91,134,123);
     padding: 5px;
+}
+.nextbutton {
+  color: aliceblue;
+}
+.overviewbutton {
+  color:aliceblue;
 }
 
 .column-collection {
