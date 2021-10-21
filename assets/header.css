@@ -3,7 +3,7 @@
     background: rgb(93,50,80);
     margin: auto;
     padding: 30px;
-    height: 150px;
+    height: 100px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

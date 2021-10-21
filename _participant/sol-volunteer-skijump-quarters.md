@@ -25,7 +25,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
           <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">
               <p class="inlinequote">
-              Ich möcht’ an Weaner bei mir einquartier’n. Auf Revanche. Im Summer kumm i dann nach Wean.
+              Ich möcht’ an Weaner bei mir einquartier’n. Auf Revanche. Im Summer kumm i dann nach Wean.<a href="#" class="translation" data-toggle="popover" title="I would like to host somebody from Vienna. For a deal. Then, in summer, I go to Vienna."> Translation</a>
               </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0 font-italic">
@@ -47,7 +47,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
           <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">
               <p class="inlinequote">
-              Oft san ma vier, fünf Nächt net z’Haus käme. Wenn’s net anderscht geht, müassen ma in aner Nacht glei dreimal aufspritza.Und a jedes Spritzen braucht so drei Stund…
+              Oft san ma vier, fünf Nächt net z’Haus käme. Wenn’s net anderscht geht, müassen ma in aner Nacht glei dreimal aufspritza.Und a jedes Spritzen braucht so drei Stund…<a href="#" class="translation" data-toggle="popover" title="We would often not come home for four or five nights. If there is no other way, we need to spray three times a night. And every spray takes around three hours…"> Translation</a>
               </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0 font-italic">
@@ -64,15 +64,15 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
   <div class="resources">
     <div class="resource-title">Resources:</div>
       <ul class="resources-list">
-        <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
-        <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
-        <li>Anon. 1931. Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p.2</li>
+        <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
+        <li>Hüttenegger, T., 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
+        <li>Anon, 1931. Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p.2</li>
       </ul>
   </div>
   <div class="resources">
     <div class="resource-title">Pictures:</div>
       <ul class="resources-list">
-        <li>Winter!Sport!Museum! 1930. Idealisten beim Bau der Olympiaschanze (Ganzstein) (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Anon, 1930. Idealisten beim Bau der Olympiaschanze (Ganzstein) (Winter!Sport!Museum!, Mürzzuschlag)</li>
       </ul>
   </div>
 </div>

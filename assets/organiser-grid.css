@@ -2,6 +2,12 @@ body {
     background:rgb(237,232,234);
 }
 
+/*this adds more spacing to the pathway that shows users where they are in the resource*/
+.pathwayinguide {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
 #exhibit-image {
     -moz-text-size-adjust: auto;
     text-align: center;
@@ -123,4 +129,17 @@ button {
 }
 .content-area {
     background-color: rgb(251, 240, 226);
+}
+/*adding in-line informative popups*/
+.link-info {
+    color: darkgreen;
+    font-weight: 600;
+    text-decoration-line: none;
+}
+
+/*adding in-line translation popups*/
+.translation {
+    color: rgb(70, 6, 70);
+    font-weight:600;
+    text-decoration-line: none;
 }

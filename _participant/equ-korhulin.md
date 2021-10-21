@@ -31,7 +31,7 @@ abstract: The Winter Olympiad 1931 was one of the first events in which women co
         <div class="resource-title">Pictures:</div>
             <ul>
                 <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
-                <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Norovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8th February 1931, p.11)</li>
+                <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Norovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8 February 1931, p.11)</li>
             </ul>
     </div>
 </div>

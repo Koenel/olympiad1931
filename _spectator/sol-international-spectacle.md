@@ -34,7 +34,7 @@ abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the c
                     <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
                     <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag, Oesterreichische Arbeiter- Turn- und Sport-Zeitung, pp. 14-19.</li>
                     <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 12</li>
-                    <li>Gastgeb, H. Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Veinna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
+                    <li>Gastgeb, H., Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Vienna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
                 </ul>
         </div>
         <div class="grid-item" class="resources">

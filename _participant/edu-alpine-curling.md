@@ -42,8 +42,8 @@ abstract: The athletes were invited to partake in a local sport as a symbol of i
     <div class="resources">
       <div class="resource-title">Resources:</div>
           <ul>
-              <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-              <li>Hüttenegger, T. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931, pp.4-5.</li>
+              <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
+              <li>Hüttenegger, T., 1931. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931, pp.4-5.</li>
           </ul>
     </div>
     <div class="resources">
