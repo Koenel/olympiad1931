@@ -14,8 +14,12 @@ Men and women competed in the Olympics, but not all disciplines were open to bot
     <ul>
         <li>Skiing</li>
         <li>Ice hockey</li>
-        <li>Ski Jump</li>
-        <li>speed skating</li>
-        <li>figure skating</li>
+        <li>Ski Jumping</li>
+        <li>Ice skating</li>
+        <li>Luge</li>
     </ul>
 </div>
+<h2>Results</h2>
+<div class="information">
+Here are some of the results. This list will be expanded and is only for testing purposes.
+<div class="grid-item" id="exhibit-image"><img src="/../media/results_sample.jpg" class="img-fluid" alt="Results and winners">Results and winners</div>

@@ -16,7 +16,7 @@ index: 2
 abstract: Following the Olympics, Theodor Hüttenegger shared his experience and knowledge on building a ski jump to international standards with a wider audience in the magazine Oesterreichische Arbeiter-Turn- und Sportzeitschrift
 ---
 <body>
-    <div class="info-text">
+    <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
         <div class="grid-item" id="exhibit-image"><img src="/../media/oatsz_ski_jump_pic3-libelle.png" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
         <p>Sharing knowledge and educating the working class was one of the vital components of the social democratic cause. Bauer and his followers believed that the working class needed to educate themselves in science and arts to create their own take on culture, an alternative to the bourgeoise.</p>
@@ -33,7 +33,7 @@ abstract: Following the Olympics, Theodor Hüttenegger shared his experience and
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">Pictures:</div>
                 <ul>
                     <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
                     <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>

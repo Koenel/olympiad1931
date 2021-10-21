@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
-    <div id="homescreen">
-    {% include head.html %}
+    <html>
+        <div id="homescreen">
+            {% include head.html %}</div>
+    <link href="../assets/header.css" rel="stylesheet">
+    <link href="../assets/home.css" rel="stylesheet">
     <body>
-        <div>
+        <div id="webpagetitle">{{ site.title}}</div>
             <main>{{ content }}
             {% include navigation.html %}</main>
-        </div>
         {% include footer.html %}
-    </div> 

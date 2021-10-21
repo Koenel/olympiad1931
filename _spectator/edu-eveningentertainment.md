@@ -24,19 +24,19 @@ abstract: Tickets were reasonably priced but access was still limited. Those wit
         <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_113052.jpg" class="img-fluid" alt="{{ page.image-descr2 }}"> {{ page.image-descr2 }}</div>
         <p>It is worthwhile noting, that not only Albert Knotz’ prestigious social status as head teacher is mentioned but also his membership of the politically right-wing Koburgerhaus club where many events were hosted during the Olympiad. The building, now demolished, provided one of the largest function rooms in Mürzzuschlag. From the ticket, it is not clear whether Knotz would only participate as a spectator or if he might have had another duty during the events. However, his profession does not mark him as a member of the working class but as somebody who could be sympathetic to their course. However, the available material does not provide any further clues to Knotz’ opinion on the working class efforts.</p>
         <p>Three venues were used on four consecutive days. Below, you can find a list of events and links to some of the music that was played on each night.</p>
-    </div>
-    <div class="resources">
-        <div class="resource-title">Resources:</div>
-            <ul>
-                <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-                <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
-            </ul>
-    </div>
-    <div class="resources">
-        <div class="resource-title">Pictures:</div>
-            <ul>
-                <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
-                <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
-            </ul>
+        <div class="resources">
+            <div class="resource-title">Resources:</div>
+                <ul>
+                    <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
+                    <li>Zotter, S., 1996.<span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+                </ul>
+        </div>
+        <div class="resources">
+            <div class="resource-title">Pictures:</div>
+                <ul>
+                    <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                </ul>
+        </div>
     </div>
 </body>
