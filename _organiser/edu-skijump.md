@@ -35,8 +35,8 @@ abstract: Following the Olympics, Theodor Hüttenegger shared his experience and
         <div class="resources">
             <div class="resource-title">Resources:</div>
                 <ul>
-                    <li>Anon. 1932. Libelle. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. </li>
-                    <li>Anon. 1932. Clinometer. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. </li>
+                    <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
+                    <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
                 </ul>
         </div>
     </div>

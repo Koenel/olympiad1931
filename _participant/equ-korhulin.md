@@ -9,7 +9,7 @@ medium: photograph
 image-path: /../media/ester_korholin_autographs_for_austrian_ice_hockey.png
 image-path2: /../media/latinen_korovaervi-relax-dkleineblatt_3102088.png
 image-descr: Ester Korholin, Finnish skiing athlete, signs autographs for the Austrian ice hockey team
-image-descr2: Impi Latinen and teammate Heikki Korovaervi, also a married couple outside the competition, relax in their quarters in central Mürzzuschlag.
+image-descr2: Impi Latinen and teammate Heikki Norovaervi, also a married couple outside the competition, relax in their quarters in central Mürzzuschlag.
 lang: en
 ref: equ-par
 index: 3
@@ -25,13 +25,13 @@ abstract: The Winter Olympiad 1931 was one of the first events in which women co
     <div class="resources">
         <div class="resource-title">Resources:</div>
             <ul>
-                <li>Anon. 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
-                <li>Anon. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
+                <li>Anon, 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
+                <li>Anon, 1931. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
             </ul>
         <div class="resource-title">Pictures:</div>
             <ul>
-                <li>Photo Ingbro. 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
-                <li>Das Kleine Blatt.1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Korovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8th February 1931, p.11)</li>
+                <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
+                <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Norovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8th February 1931, p.11)</li>
             </ul>
     </div>
 </div>

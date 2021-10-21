@@ -7,7 +7,7 @@ tag: ticket
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_122146.jpg
-image-descr: Spectators at an evening event at the Koburg Haus in MÜrzzuschlag
+image-descr: Spectators at an evening event at the Koburg Haus in Mürzzuschlag
 image-path2: /../media/IMG_20210624_113052.jpg
 image-descr2: Headteacher Albert Knotz' legimitation card allowed him to enter the Koburghaus and the events there at any time, free of charge.
 references: Alpenländische Wochenschau, Jan 1931

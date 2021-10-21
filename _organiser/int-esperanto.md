@@ -59,9 +59,9 @@ abstract: The working class wanted to fight for their common cause together with
                 </ul>
             <div class="resource-title">Pictures:</div>
                 <ul>
-                    <li>Harnisch, W., Meiselmann, A. 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII.</li> 
-                    <li>Wintersportmuseum. Identification card, back.</li>
-                    <li>Matuzewski, I. 1910. Ludwig Zamenhof at his desk in Warsaw. <span id="source">Wikimedia Commons</span>. <a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
+                    <li>Harnisch, W., Meiselmann, A., 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII (Winter!Sport!Museum!, Mürzzuschlag).</li> 
+                    <li>Anon, 1931. Identification card, back (Winter!Sport!Museum!, Mürzzuschlag).</li>
+                    <li>Matuzewski, I., 1910. Ludwig Zamenhof at his desk in Warsaw. <span id="source">Wikimedia Commons</span>. <a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
                 </ul>
         </div>
     </div>

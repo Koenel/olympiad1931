@@ -16,9 +16,7 @@
         <div class="top">
             {% include header.html %}
         </div>
-
-        Guide: <h1 id="guide-category">{{ page.guide}}</h1> Category: <h1 id="category">{{ page.category }}</h1>
-
+        {% include pathwayinguide.html %}
         {{ content }}
         <div class="navmenu">
             {% include prev-next-participant.html %}
