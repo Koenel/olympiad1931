@@ -1,0 +1,13 @@
+<!--This layout defines the welcome page where one can find the instructions-->
+<!DOCTYPE html>
+    <html>
+
+    <div id="homescreen">{% include head.html %}</div>
+    <link href="../assets/header.css" rel="stylesheet">
+    <link href="../assets/home.css" rel="stylesheet">
+    <link href="../assets/aboutpages.css" rel="stylesheet">
+    <body>
+        <div id="webpagetitle">{{ site.title}}</div>
+            <main>{{ content }}
+            {% include enter-museum.html %}</main>
+        {% include footer.html %}
