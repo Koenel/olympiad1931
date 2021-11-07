@@ -25,7 +25,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
           <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">
               <p class="inlinequote">
-              Ich möcht’ an Weaner bei mir einquartier’n. Auf Revanche. Im Summer kumm i dann nach Wean.<a href="#" class="translation" data-toggle="popover" title="I would like to host somebody from Vienna. For a deal. Then, in summer, I go to Vienna."> Translation</a>
+              Ich möcht’ an Weaner bei mir einquartier’n. Auf Revanche. Im Summer kumm i dann nach Wean.<a href="#" class="translation" data-toggle="tooltip" title="I would like to host somebody from Vienna. For a deal. Then, in summer, I go to Vienna."> Translation</a>
               </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0 font-italic">
@@ -36,7 +36,6 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
       </div>
     </div>
   </section>
-  <!--<div class="quote">original part “Ich möcht’ an Weaner bei mir einquartier’n. Auf Revanche. Im Summer kumm i dann nach Wean.“</div> (Das Kleine Blatt, 6 Feb 1931, p2).-->
   <p>As can be seen above, money was not the only way to repay the favour. Hosting somebody from Vienna would offer an opportunity to gain new contacts and the favour would be repaid in time for the Summer Olympiad later the same year. 
   In addition, the local community was needed to create and maintain the facilities of the event. Prior to February 1931, Franz Karger and his thirteen-person team had been taking care of the ice rink for seven weeks. Most nights, they sprayed on a new layer of water and waited for it to freeze before they could sweep and smooth it to create the perfect surface. Das Kleine Blatt quotes Karger:</p>
   <!--quote taken from: https://mdbootstrap.com/docs/standard/extended/quotes/ I've changed the margin bottom mb to 4 to space out the elements more, and from lg to md. so it now reads mb-4 mb-md-2 instead of mb-4 mb-lg-2. py defines the top background heading-->
@@ -47,7 +46,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
           <figure class="bg-white p-3 rounded" style="border-left: .25rem solid #a34e78;">
             <blockquote class="blockquote pb-2">
               <p class="inlinequote">
-              Oft san ma vier, fünf Nächt net z’Haus käme. Wenn’s net anderscht geht, müassen ma in aner Nacht glei dreimal aufspritza.Und a jedes Spritzen braucht so drei Stund…<a href="#" class="translation" data-toggle="popover" title="We would often not come home for four or five nights. If there is no other way, we need to spray three times a night. And every spray takes around three hours…"> Translation</a>
+              Oft san ma vier, fünf Nächt net z’Haus käme. Wenn’s net anderscht geht, müassen ma in aner Nacht glei dreimal aufspritza.Und a jedes Spritzen braucht so drei Stund…<a href="#" class="translation" data-toggle="tooltip" title="We would often not come home for four or five nights. If there is no other way, we need to spray three times a night. And every spray takes around three hours…"> Translation</a>
               </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0 font-italic">
