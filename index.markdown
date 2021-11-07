@@ -7,7 +7,7 @@ title: home
 permalink: /home/
 ---
 <div class="home-content" class="mx-auto">
-    <div class="row">
+    <div class="d-flex flex-row">
         <div class="col-sm-4">
             <img src="../media/IMG_20210624_112140.jpg" class="img-fluid" id="logo" alt="Event logo">"Mürzzuschlag, Second Winter Sport Olympiad, SASI"
         </div>
