@@ -23,8 +23,6 @@ body{
 
 main{
     background-color: rgb(237,232,234);
-    margin: auto;
-    padding: 3%;
     align-content: center;
 }
 .homeh2 {
@@ -46,4 +44,11 @@ main{
 .home-content {
     background-image: url("1634292929902_cut.jpg");
     opacity: 0.8;
+}
+
+/*Image on welcome page is display small enough*/
+#start-image {
+    display: flex;
+    max-width: auto;
+    height: auto;
 }
