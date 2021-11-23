@@ -58,7 +58,7 @@ permalink: /resources/
 <div>
     <ul>
         <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
     </ul>
 </div>
 <h2>Women in skating</h2>
