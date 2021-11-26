@@ -14,16 +14,17 @@ references: N/A
 lang: en
 index: 1
 ref: clstr-spe
-abstract: Evening entertainment was provided indoors and outdoors to share local culture and political messages.
+abstract: Evening entertainment was provided indoors and outdoors to share local culture and political messages. But joining indoors was for a privileged few. 
 ---
 <body>
   <div class="infotext">
     <h1  id="title">{{ page.title }}</h1>
     <div class="grid-item" id="exhibit-image"><img src="../media/torch_woodcut.jpg" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
-    <p>Free events were open to everyone. One of the most notable was the so-called Fackelzug (torch parade). As night fell, athletes and organisers moved in a parade through the town, ending their walk at the Ganzsteinschanze, illuminating the area with torches (Hüttenegger, 1931, p.1). Simultaneously, fires were light on the mountaintops across, creating an impressive sight. The following night, the audience was entertained by special athletic performances of the figure skaters at the ice-skating rink.</p>
+    <p>Free outdoor events were open to everyone. One of the most notable was the so-called <a href="#" class="translation" data-toggle="tooltip" title="torch parade">Fackelzug</a>. As night fell, athletes and organisers joined a parade through the town on Saturday, February 7th, at 6pm. They were accompanied by three music bands and ended their walk at the ski jump Ganzsteinschanze, illuminating the area with torches (Hüttenegger, 1931, p.1). While the masses chanted socialist songs and paroles in chorus, fires were lit on the mountaintops across the valley, creating an impressive sight. On the following day, the last day of the Olympiad, the audience was entertained by special athletic performances of the figure skaters at the ice-skating rink and a final rally at the Ganzsteinschanze. </p>
     <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_120732.jpg" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
-    <p>Most people came for the sports, and there was sufficient space in brochures to note down the results of the competitions. Some people even placed bets on winning teams. In addition, there was a need to create sufficient after-competition-events that would appeal to a culturally interested audience. However, only a fraction of the 8000 spectators (Das Kleine Blatt, 7 Feb 1931, p.6) was able to participate in these events if they were held indoors. Everyone who wanted to enjoy the concerts, acts and presentations needed tickets. Those who had an event pass could participate in one of the evening events, depending on capacity. This was included in the ticket price of 1.50 or 3.50 Shillings. The opening ceremony and the closing ceremony were invitation-only.</p>  
-    <p>Nevertheless, the event programme was a showcase of the working class cultural efforts, ranging from concerts, to political cabaret and other art performances. But, was it affordable for the general public? Please refer to the price list below!</p>
+    <p>Most people came for the sports, and there was sufficient space in brochures to note down the results of the competitions. Some people even placed bets on winning teams. If you had a ticket for the Olympiad, you could enjoy as many competitions as you wanted and watch your favourite athletes cross the finishing line.</p>
+    <p>Visitors could join culturally interesting events in the evenings. However, only a fraction of the 8000 spectators (<span class="quote">Das Kleine Blatt</span>, 7 Feb 1931, p.6) was able to participate in these events that were mostly held indoors. Everyone who wanted to enjoy the concerts, acts and presentations needed tickets. Those who had an event pass could participate in one of the evening events, depending on capacity. This was included in the ticket price of 1.50 or 3.50 Shillings. The opening ceremony and the closing ceremony were invitation-only, and most spectators were, despite the democratic social democratic perspective, excluded from these events.</p>  
+    <p>Nevertheless, the event programme was a showcase of the working class cultural efforts, ranging from concerts, to political cabaret and other art performances. Was it affordable for the general public? Please refer to the price list below!</p>
     <section class="vh-30" style="background-color: #eee;">
       <div class="container py-sm-5 h-40">
         <div class="row d-flex align-items-center h-20">
@@ -34,14 +35,15 @@ abstract: Evening entertainment was provided indoors and outdoors to share local
                     <h2 id="quotetitle">Eintrittspreise</h2>
                     <ul>
                         <li>A.	Die Inhaber von Teilnehmerkarten haben zu den sportlichen Veranstaltungen und zu den Festabenden freien Zutritt</li>
-                       <li>B.	Dauerkarten zu allen sportlichen Veranstaltungen (Ganzsten und Eislaufplatz) S 2–.</li>
+                       <li>B.	Dauerkarten zu allen sportlichen Veranstaltungen (Ganzstein und Eislaufplatz) S 2–.</li>
                         <li>C.	Tageskarte für die Festplätze S 1–.</li>
-                        <li>D.	Eintritt zu einer der festlichen Veranstaltungen S1 – (nur nach Maßgabe der vorhandenen Plätze).</li>
+                        <li>D.	Eintritt zu einer der festlichen Veranstaltungen S 1– (nur nach Maßgabe der vorhandenen Plätze).</li>
+                        <li><a href="#" class="translation" data-toggle="tooltip" title="Ticket prices: A. The ticket owners may enjoy the sport events and evening events free of charge. B. Tickets for all sport events (Ganzstein and ice rink) S 2-. C. Day ticket for tribunes S 1-. D. Tickets for evening events S 1- (availability depending on capacity)."> Translation</a></li>
                     </ul>
                 </p>
               </blockquote>
               <figcaption class="blockquote-footer mb-0 font-italic">
-                <span class="source">Festführer, 1931, p.6</span>, 1931
+                <span class="source"><span class="quote">Festführer</span>, 1931, p. 6</span>, 1931.
               </figcaption>
             </figure>
           </div>

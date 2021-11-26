@@ -75,3 +75,20 @@ p {
 li {
     font-size: 1.2em;
 }
+/*adding in-line informative popups*/
+.link-info {
+    color: darkgreen;
+    font-weight: 600;
+    text-decoration-line: none;
+}
+
+/*adding in-line translation popups*/
+.translation {
+    color: rgb(70, 6, 70);
+    font-weight:600;
+    text-decoration-line: none;
+}
+/*adding in-line quote*/
+.quote {
+    font-style: italic;
+}
