@@ -143,3 +143,9 @@ button {
     font-weight:600;
     text-decoration-line: none;
 }
+/*adding in-line quote*/
+/*span elements*/
+/*this is a span element that is used for in-line italics for sources that are referenced in the body*/
+.source {
+    font-style: italic;
+}

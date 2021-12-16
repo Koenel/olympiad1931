@@ -27,6 +27,7 @@ permalink: /resources/
     <ul>
         <li>Anon. 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
         <li>Anon. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
+        <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, <a href="https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search</a>, 1 March 1931, p.5</li>
     </ul>
 </div>
 <h2>A bed for everybody</h2>
@@ -58,7 +59,7 @@ permalink: /resources/
 <div>
     <ul>
         <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
     </ul>
 </div>
 <h2>Women in skating</h2>
@@ -86,7 +87,7 @@ permalink: /resources/
         <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
         <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag, Oesterreichische Arbeiter- Turn- und Sport-Zeitung, pp. 14-19.</li>
         <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 12</li>
-        <li>Gastgeb, H. Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Veinna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
+        <li>Gastgeb, H. Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Vienna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
     </ul>
 </div>
 <h2>A protective force of workers to defend democracy</h2>
@@ -96,7 +97,7 @@ permalink: /resources/
         <li>Deutsch, J., 1931. Wir grüßen euch! <span id="source">Festführer</span>, p. 5</li>
         <li>Forum Politische Bildung, 2008. Politische Entwicklung 1918-1938. <span id="source">Demokratiezentrum Wien</span>, [online] Available at: <a href="http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html">http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html</a> [Accessed 14 August 2021]</li>
         <li>Österreichische Mediathek, 2021. Das Ende der 1. Republik, <span id="source">Der erste Weltkrieg Onlineausstellung</span>, [online] Available at: <a href="https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/">https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/</a> [Accessed 14 August 2021]</li>
-        <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
     </ul>
 </div>
 <h2>Sharing knowledge</h2>
