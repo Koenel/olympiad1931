@@ -31,7 +31,6 @@ permalink: /about-politics/
     </section>
 <!-- The following includes links to the articles in the respective category from each pathway-->
 <div class="abstract-listing">{% include class-struggle-collection.html %}</div>
-
 <div class="information">
 <h1 class="category-title"> Education </h1>
 <p>Educating the working class was an essential goal of Social Democratic Politics and the working class clubs that supported their ideology. Once workers were allowed to found their own clubs at the turn of the 20th century, many people dedicated their little free time to the club. They engaged in political debate, reading clubs but also sports like cycling, football or winter sports. Clubs focused also on engaging the younger generation to ensure mental and physical fitness as well as a strong sense of community in which the Social Democratic ideals could be passed on.</p>
@@ -53,7 +52,6 @@ permalink: /about-politics/
     </section>
 <!-- The following includes links to the articles in the respective category from each pathway-->
 <div class="abstract-listing">{% include education-collection.html %}</div>
-
 <div class="information">
 <h1 class="category-title"> Equality </h1>
 <p>The Linzer Programm includes a dedicated paragraph on the so-called women’s question. “Die Sozialdemokratie bekämpft die Vorurteile, die sich der Gleichberechtigung der Frauen entgegenstellen. Sie fordert auch für die Frauen volle Möglichkeit der Entfaltung der Persönlichkeit“ (Linzer Programm 4, p. 391). Women should not only be treated equally, but also have the same changes to develop their talents.  In addition, women should not be overwhelmed by their dual burden of handling childcare and having a job which could potentially harm their health. Instead, their caring duties should be valued and supported by community facilities like childcare facilities. Furthermore, they should be able to take on any job they like, for equal pay as men.</p>
