@@ -27,6 +27,7 @@ permalink: /resources/
     <ul>
         <li>Anon. 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
         <li>Anon. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
+        <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, <a href="https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search</a>, 1 March 1931, p.5</li>
     </ul>
 </div>
 <h2>A bed for everybody</h2>
