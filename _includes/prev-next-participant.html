@@ -1,11 +1,7 @@
+<!--These buttons allow to navigate in the pathways from one article to the next. The order depends on the index number that has been assigned to each article.-->
 <!--try this:https://dmitryrogozhny.com/blog/adding-previous-next-post-navigation
-<h1>something is here</h1>
-taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid
-{% assign sorted_pages = site.spectator | sort:"name" %}
-{% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
-{% endfor %}-->
-<!--<div class="navigation"></div>-->
+taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid-->
+
 {% for object in site.participant %}
     {% assign next = page.index | plus: 1 %}
     {% assign prev = page.index | minus: 1 %}

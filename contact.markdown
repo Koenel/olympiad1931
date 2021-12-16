@@ -3,102 +3,11 @@ layout: aboutpages
 title: Contact
 permalink: /contact/
 ---
-<h1> About this project</h1>
-This digital artefact was created as apart of a practical master thesis to obtain a master's degree in Digital Humanities at King's College London. The purpose of this digital archive is to provide visitors and those who cannot physically visit the Winter!Sport!Museum! in Mürzzuschlag, Austria, with the opportunity to explore one element of their expansive collection in more detail. The chosen aspect of the collection, the 2nd Workers Winter Olympics, features in the museum itself where its local and sportive importance is highlighted. In this virtual exhibition, the focus is on providing an alternative socio-political context and allow users to explore the archival content in more depth as this cannot be featured in the physical exhibition.
-<h1> Thank you for visiting this website </h1>
+<h1 class="h1-responsive font-weight-bold text-center my-4"> About this project</h1>
+<div class="grid-item" id="exhibit-image"><img src="../media/1634292929902_cut.jpg" class="img-fluid" alt="Winter in Mürzzuschlag">Winter in Mürzzuschlag, 1931</div>
+<p class="text-center w-responsive mx-auto mb-5">This digital artefact was created as apart of a practical master thesis to obtain a master's degree in Digital Humanities at King's College London. The purpose of this digital archive is to provide visitors and those who cannot physically visit the Winter!Sport!Museum! in Mürzzuschlag, Austria, with the opportunity to explore one element of their expansive collection in more detail. The chosen aspect of the collection, the 2nd Workers Winter Olympics, features in the museum itself where its local and sportive importance is highlighted. In this virtual exhibition, the focus is on providing an alternative socio-political context and allow users to explore the archival content in more depth as this cannot be featured in the physical exhibition.</p>
+<h1 class="h1-responsive font-weight-bold text-center my-4">Contact us</h1>
+<p class="text-center w-responsive mx-auto mb-5">Thank you for visiting this digital artefact! If you have any questions about this project or suggestions how we can improve our content, please email us!
+If you have any further information about the Workers' Winter Olympiad, please contact <b>the Winter!Sport!Museum! office@wintersportmuseum.com</b> or visit their <a href="https://www.wintersportmuseum.com/at/">website</a>.
+If you have any suggestions on how to improve this digital artefact, please contact the creator: <b>k20111151@kcl.ac.uk</b>. The code for this project can be viewed on <a href="https://github.com/Koenel/olympiad1931">GitHub</a>.</p>
 <!--code taken from: https://mdbootstrap.com/docs/b4/jquery/forms/contact/-->
-<!--Section: Contact v.2-->
-<section class="mb-4">
-
-    <!--Section heading-->
-    <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
-    <!--Section description-->
-    <p class="text-center w-responsive mx-auto mb-5">Thank you for visiting! If you have any questions about this project or suggestions how we can improve our content, please email us!</p>
-
-    <div class="row">
-
-        <!--Grid column-->
-        <div class="col-md-9 mb-md-0 mb-5">
-            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
-
-                <!--Grid row-->
-                <div class="row">
-
-                    <!--Grid column-->
-                    <div class="col-md-6">
-                        <div class="md-form mb-0">
-                            <input type="text" id="name" name="name" class="form-control">
-                            <label for="name" class="">Your name</label>
-                        </div>
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-md-6">
-                        <div class="md-form mb-0">
-                            <input type="text" id="email" name="email" class="form-control">
-                            <label for="email" class="">Your email</label>
-                        </div>
-                    </div>
-                    <!--Grid column-->
-
-                </div>
-                <!--Grid row-->
-
-                <!--Grid row-->
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="md-form mb-0">
-                            <input type="text" id="subject" name="subject" class="form-control">
-                            <label for="subject" class="">Subject</label>
-                        </div>
-                    </div>
-                </div>
-                <!--Grid row-->
-
-                <!--Grid row-->
-                <div class="row">
-
-                    <!--Grid column-->
-                    <div class="col-md-12">
-
-                        <div class="md-form">
-                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                            <label for="message">Your message</label>
-                        </div>
-
-                    </div>
-                </div>
-                <!--Grid row-->
-
-            </form>
-
-            <div class="text-center text-md-left">
-                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
-            </div>
-            <div class="status"></div>
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-md-3 text-center">
-            <ul class="list-unstyled mb-0">
-                <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                    <p>Digital Humanities, Kings College London</p>
-                </li>
-
-                <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                    <p>Winter!Sport!Museum! +4338522556</p>
-                </li>
-
-                <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                    <p>k20111151@kcl.ac.uk</p>
-                </li>
-            </ul>
-        </div>
-        <!--Grid column-->
-
-    </div>
-
-</section>
-<!--Section: Contact v.2-->

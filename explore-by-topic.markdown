@@ -13,13 +13,7 @@ permalink: /explore-by-topic/
 
 {% assign groups = site.participant | group_by: "category" | sort: "name" %}
 
-<!--This for-loop displays the groups that have been assigned above, however, displaying the title does not work yet-->
-<!--{% for group in groups %}
-    {{ group.name }}
-    {% for item in groups.item %}
-        {{item.title}}
-    {% endfor %}
-{% endfor %}-->
+<!--This for-loop displays the groups that have been assigned above-->
 
 <h1 class="category-title"> Class struggle </h1>
 <div class="abstract-listing">{% include education-collection.html %}</div>
