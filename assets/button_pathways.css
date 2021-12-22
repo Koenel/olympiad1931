@@ -11,10 +11,9 @@ nav ul {
     position: relative;
     background-color: rgb(91,134,123);
     border: thin;
-    font-size: 23px;
+    font-size: 1.2em;
     color: #32034d;
     padding: 15px;
-    width: 180px;
     margin-left: 20px;
     margin-right: 20px;
     align-items: center;
