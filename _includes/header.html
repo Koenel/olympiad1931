@@ -39,40 +39,43 @@ but labels for pages are not created automatically from the information given in
 </nav>
 <body>
 </header>-->
-
-<nav class="navbar sticky-top navbar-expand-lg navbar-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" aria-current="page" href="/home">{{ site.title }}</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+<div class="container">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
+<!--the meta tag ensures that the website content is scaled to device width-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <div class="container-fluid">
+      <a class="navbar-brand" aria-current="page" href="/home">{{ site.title }}</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
         <!--<li class="navbar-nav">
           <a class="nav-link active" aria-current="page" href="/home">{{ site.title }}</a>
         </li>-->
-        <li class="nav-item">
-          <a class="nav-link" href="/about-venue">The venue</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/about-politics">The political background</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/fixtures-and-results">Fixtures and Results</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/resources">Resources</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contact">About & Contact</a>
-        </li>
-      </ul>
+          <li class="nav-item">
+            <a class="nav-link" href="/about-venue">The venue</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/about-politics">The political background</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/fixtures-and-results">Fixtures and Results</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/resources">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">About & Contact</a>
+          </li>
+        </ul>
       <!--<form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="searchbutton">Search</button>
       </form>-->
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
 <body>
 </header>
