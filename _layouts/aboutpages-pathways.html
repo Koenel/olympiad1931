@@ -1,6 +1,9 @@
 <!--This layout defines what is presented on the top navigation bar items-->
 <!DOCTYPE html>
     <hmtl>
+        <!--the meta tag ensures that the website content is scaled to device width-->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--<div id="homescreen"> test taking this out because homescreen is not responsive-->
         <div id="homescreen">
             {% include head.html %}</div>
     <link href="../assets/header.css" rel="stylesheet">
@@ -8,8 +11,6 @@
     <link href="../assets/backbutton.css" rel="stylesheet">
     <link href="../assets/aboutpages.css" rel="stylesheet">
     <link href="../assets/button_pathways.css" rel="stylesheet">
-    <!--the meta tag ensures that the website content is scaled to device width-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
         <body>
     {{ content }}
     {% include navigation.html %}
