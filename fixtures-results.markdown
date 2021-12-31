@@ -21,7 +21,9 @@ permalink: /fixtures-and-results/
 <h2>Results</h2>
 <div class="information">
     <p>Not all of the 21 competitions were considered international events. For international events, competitors from at least three different countries had to compete in the discipline. In some of the competitions,only athletes from Austria competed, like the women's figure skating competition. Nevertheless, the competitions were very popular and attracted huge crowds.</p>
-    <p>Overall, Finnish athletes were the most successful in the whole event. Austrian athletes competed in all disciplines but despite their majority, they only won very few of the competitions. The 30km skiing race on 7th February 1931 had to be cancelled due to bad weather conditions. All other competitions can be found in the list below.</p>
+    <p>Overall, Finnish athletes were the most successful in the whole event. Austrian athletes competed in all disciplines but despite their majority, they only won very few of the competitions. The 30km skiing race on 7th February 1931 had to be cancelled due to bad weather conditions. All other competitions can be found in the list below.</p></div>
+<div class="table-responsive-sm">
+<!--class="table-responsive-sm" ensures that the table behaves responsibly across all devices.-->
     <table class="table">
         <thead>
             <tr>

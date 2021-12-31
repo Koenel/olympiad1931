@@ -10,12 +10,10 @@ nav ul {
 .btn {
     position: relative;
     background-color: rgb(91,134,123);
-    border: thin;
+    border: none;
     font-size: 1.2em;
     color: #32034d;
     padding: 15px;
-    margin-left: 20px;
-    margin-right: 20px;
     align-items: center;
     text-align: center;
     -webkit-transition-duration: 0.4s; /* Safari */
