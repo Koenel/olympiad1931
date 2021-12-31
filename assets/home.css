@@ -62,7 +62,4 @@ main{
 
 .navbar-brand {
     display: inline-flex;
-    /* vw sizes are dependent on the output device. 4vw displays the website title that doubles as a home button differently on different devices but ensures the text is fully displayed.
-    This solution is not ideal but it serves the purpose.*/
-    font-size: 4vw;
 }
