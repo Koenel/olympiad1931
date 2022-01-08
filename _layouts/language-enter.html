@@ -1,0 +1,13 @@
+<!--This layout defines what is presented on the top navigation bar items-->
+<!DOCTYPE html>
+    <hmtl>
+            <div id="homescreen">
+            {% include head.html %}</div>
+    <!--<link href="../assets/header.css" rel="stylesheet">-->
+    <link href="../assets/languagepage.css" rel="stylesheet">
+    <!--the meta tag ensures that the website content is scaled to device width-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <body>
+    {{ content }}
+    {% include language-choice.html %}
+        </body>

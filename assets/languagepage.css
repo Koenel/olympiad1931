@@ -1,0 +1,31 @@
+/*style text body*/
+body{
+    background-color: rgba(238, 255, 236, 0.4);
+}
+/*style headlines and buttons*/
+#languagepagetitle{
+    font-family: sans-serif;
+    font-size: 3em;
+    color: rgb(127,50,97);
+    text-align: center;
+    padding: 0.5em;
+}
+#languageversion {
+    color: rgb(0,102,0);
+    text-decoration-line: none;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+#langbutton {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    margin: 0.8em;
+}
+
+/*Image on welcome page is display small enough*/
+#start-image {
+    display: flex;
+    max-width: auto;
+    height: auto;
+}

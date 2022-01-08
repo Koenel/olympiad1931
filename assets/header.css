@@ -10,6 +10,16 @@
     justify-content: space-around;
     align-items: center;
 }
+#homescreen{
+    background-color: rgb(28,36,32);
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .page-heading {
     color: rgb(118, 50, 63);
     text-align: right;
