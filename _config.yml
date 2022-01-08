@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Second Workers' Winter Olympiad 1931
+title: Second Workers' Winter Olympiad 1931
 email: k20111151@kcl.ac.uk
 description: This project provides a digital archive for the 1931 Worker's Winter Olympiad that took place in Mürzzuschlag, Austria.
 # >-this means to ignore newlines until "baseurl:" 
@@ -32,7 +32,6 @@ github_username:  Koenel
 theme: minima
 plugins:
   - jekyll-feed
-  # _pages includes my pages and makes them visible on the website
 include: [_pages]
 collections:
   organiser:
