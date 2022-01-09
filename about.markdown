@@ -3,6 +3,7 @@ layout: aboutpages
 title: About the event and its socio-political background
 permalink: /about-venue/
 language: en
+finder: venue
 ---
 
 <h1>The Olympiad and its venue </h1>

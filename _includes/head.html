@@ -12,5 +12,9 @@
 
     </head>
     <body class="container-fluid">
-        {% include header.html %}
+    <!-- the following ensures that the language landing page is presented without the header, so that visitors choose a language version-->
+            {% if page.title != "hello" %} 
+                {% include header.html %}
+            {% endif %}
+        
 

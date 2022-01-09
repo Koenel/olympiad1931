@@ -3,6 +3,7 @@ layout: aboutpages-enter-de
 title: home
 permalink: /welcome-de/
 language: de
+finder: welcome
 ---
 <div class="mx-auto">
     <div class="row">
