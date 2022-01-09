@@ -3,7 +3,7 @@ layout: aboutpages-pathways
 # instead of startpage
 title: home
 permalink: /home/
-language: en
+language: e
 finder: home
 ---
 <div class="home-content" class="mx-auto">
