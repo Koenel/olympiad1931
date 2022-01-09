@@ -3,6 +3,7 @@ layout: aboutpages-de
 title: Über das Ereignis und seinen sozio-politischen Hintergrund
 permalink: /about-venue-de/
 language: de
+finder: venue
 ---
 
 <h1>Die Olympiade und ihr Austragungsort</h1>

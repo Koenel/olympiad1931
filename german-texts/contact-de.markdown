@@ -3,6 +3,7 @@ layout: aboutpages-de
 title: Contact
 permalink: /contact-de/
 language: de
+finder: contact
 ---
 <h1 class="h1-responsive font-weight-bold text-center my-4">Über dieses Projekt</h1>
 <div class="grid-item" id="exhibit-image"><img src="../media/1634292929902_cut.jpg" class="img-fluid" alt="Winter in Mürzzuschlag">Winter in Mürzzuschlag, 1931</div>

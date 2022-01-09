@@ -3,7 +3,8 @@
 <div class="p-4 bg-dark" class="container-fluid" id="header-container">
   <nav class="navbar sticky-top navbar-expand-md navbar-dark">
     <div class="container-fluid" id="top-navigation">
-      <a class="navbar-brand" aria-current="page" href="/home-de">{{ site.title }}</a>
+      <a class="navbar-brand" aria-current="page" href="/home-de"> {{ site.title-de }} </a><!--in the German version, a different site title must be defined in the yml-file-->
+    
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -23,6 +24,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/contact-de">Kontakt & Projekt</a>
+          </li>
+          <li class="nav-item">
+            {% include language-toeng.html %}
           </li>
         </ul>
       </div>

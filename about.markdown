@@ -3,8 +3,7 @@ layout: aboutpages
 title: About the event and its socio-political background
 permalink: /about-venue/
 language: en
----
-
+finder: venue
 <h1>The Olympiad and its venue </h1>
 <div class="grid-item" id="exhibit-image"><img src="/../media/Festfuehrer_Uebersicht_S22.jpg" class="img-fluid" alt="Map of Austria with Mürzzuschlag as a central point of reference. This map was used to illustrate the tourist trips that visitors could undertake, following the Winter Olympiad">Map of Austria with Mürzzuschlag as a central point of reference. This map was used to illustrate the tourist trips that visitors could undertake, following the Winter Olympiad. </div>
 <p><span class="information">Following the first Olympiads, the second Winter and Summer Olympiad was set to take place in Austria. The Winter Olympiad in Mürzzuschlag was the first of two major sports events that were held in Austria in 1931. Both, the Winter and the Summer Olympiad, were significant events of the demonstration of the strength of social democracy and the working class as well as sports as a mass movement. The Summer Olympiad, that took place in Vienna, was larger than the event in Mürzzuschlag, attracting more athletes and spectators. It’s better documented, too, in various books and websites, and the main stadium in Vienna is still in use to this day as a sports and event location.</span></p>

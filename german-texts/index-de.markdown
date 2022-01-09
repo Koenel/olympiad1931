@@ -4,6 +4,7 @@ layout: aboutpages-pathways-de
 title: home
 permalink: /home-de/
 language: de
+finder: home
 ---
 <div class="home-content" class="mx-auto">
     <div class="d-flex flex-row">
