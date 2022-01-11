@@ -1,6 +1,6 @@
 ---
 layout: aboutpages-de
-title: Über das Ereignis und seinen sozio-politischen Hintergrund
+title: Über den Austragungsort und das Ereignis
 permalink: /about-venue-de/
 language: de
 finder: venue
