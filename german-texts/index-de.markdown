@@ -1,6 +1,5 @@
 ---
 layout: aboutpages-pathways-de
-# instead of startpage
 title: home
 permalink: /home-de/
 language: de

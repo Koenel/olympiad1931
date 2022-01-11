@@ -1,29 +1,29 @@
 ---
-layout: aboutpages
-title: Fixtures and Results of the 2nd Workers Winter Olympics
-permalink: /fixtures-and-results/
-language: en
+layout: aboutpages-de
+title: Wettbewerbe und Ergebnisse der Arbeiterwintersport-Olympiade
+permalink: /fixtures-and-results-de/
+language: de
 finder: results
 ---
 <h1>{{page.title}}</h1>
-<h2>The competitions</h2>
+<h2>Die Wettbewerbe</h2>
 <div class="information">
-    <p>Overall, 21 competitions were held from <b>5th February</b> until <b>8th February 1931</b>. Athletes from six nations, Finland, Latvia, Germany, Austria, Hungary, Czechoslovakia, competed against each other. In addition, non-sportive events like concerts, parades and public speeches were added to the programme.</p>
-    <p>Men and women competed in the Olympics, but not all disciplines were open to both sexes. Also, not every nation competed in every discipline because some nations did not send athletes who were skilled enough to participate in the discipline. There were five different kinds of sports and combined disciplines.</p>
+    <p>Insgesamt wurden 21 Wettbewerbe zwischen <b>5. Februar</b> und <b>8. Februar 1931</b> ausgetragen. Athleten aus sechs Nationen, Finnland, Lettland, Deutschland, Österreich, Ungarn und zwei Teams aus der Tschechoslowakei kämpften gegeneinander. Zusätzlich gab es eine Reihe nicht-sportlicher Veranstaltungen wie Konzerte, Paraden und öffentliche Reden, die das Programm abrundeten.</p>
+    <p>Männer und Frauen nahmen an der Olympiade teil, aber nicht alle Disziplinen wurden von beiden Geschlechtern bestritten. Außerdem schickte nicht jede Nation für jede Sportart Athleten, die stark genug gewesen wären um am Wettbewerb teilzunehmen. Es gab fünf verschiedene Sportarten und kombinierte Disziplinen.</p>
 </div>
 <div class="facts-list">
     <ul>
-        <li>Skiing</li>
-        <li>Ice hockey</li>
-        <li>Ski Jumping</li>
-        <li>Ice skating</li>
-        <li>Luge</li>
+        <li>Schifahren</li>
+        <li>Eishockey</li>
+        <li>Schispringen</li>
+        <li>Eislaufen</li>
+        <li>Rodeln</li>
     </ul>
 </div>
-<h2>Results</h2>
+<h2>Ergebnisse</h2>
 <div class="information">
-    <p>Not all of the 21 competitions were considered international events. For international events, competitors from at least three different countries had to compete in the discipline. In some of the competitions,only athletes from Austria competed, like the women's figure skating competition. Nevertheless, the competitions were very popular and attracted huge crowds.</p>
-    <p>Overall, Finnish athletes were the most successful in the whole event. Austrian athletes competed in all disciplines but despite their majority, they only won very few of the competitions. The 30km skiing race on 7th February 1931 had to be cancelled due to bad weather conditions. All other competitions can be found in the list below.</p></div>
+    <p>Nicht alle 21 Wettbewerbe waren internationale Wettbewerbe, denn dafür mussten Wettkämpfer aus mindestens drei Nationen gegeneinander antreten. In manchen Wettbewerben traten nur Athleten aus Österreich an, zum Beispiel im Kunsteislauf der Damen. Trotzdem waren die Wettbewerbe sehr beliebt und lockten ein großes Publikum an.</p>
+    <p>Insgesamt waren die finnischen Athleten am erfolgreichsten während der gesamten Olympiade. Die Gastgebernation Österreich nahm an allen Disziplinen teil, aber trotz ihrer zahlenmäßigen Überlegenheit, gewannen sie nur wenige Wettbewerbe. verall, Finnish athletes were the most successful in the whole event. Austrian athletes competed in all disciplines but despite their majority, they only won very few of the competitions. The 30km skiing race on 7th February 1931 had to be cancelled due to bad weather conditions. All other competitions can be found in the list below.</p></div>
 <div class="table-responsive-sm">
 <!--class="table-responsive-sm" ensures that the table behaves responsibly across all devices.-->
     <table class="table">

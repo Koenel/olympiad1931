@@ -1,13 +1,13 @@
 ---
 layout: aboutpages
-title: Resources
-permalink: /resources/
-language: en
+title: Quellen
+permalink: /resources-de/
+language: de
 finder: resources
 ---
 
-<h1> Resources </h1>
-<p>Resources can be found below each text or here, in alphabetical order.</p>
+<h1> Quellen </h1>
+<p>Unten finden Sie die Quellen zu den Website-Texten in alphabetischer Reihenfolge.</p>
 <h2>Paramilitary presence at the Olympics</h2>
 <div>
     <ul>
