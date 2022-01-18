@@ -1,39 +1,39 @@
 ---
 layout: organiser-grid
-title: Sharing knowledge
+title: Wissen teilen
 category: education
 guide: organiser
 tag: Ski jump
 year: 1932
 medium: photograph
 image-path: /../media/oatsz_ski_jump_pic3-libelle.png
-image-descr: A so-called Libelle was used to measure the angle of ascend and descent. Aligning the wooden beams was labourious and required a lot of accuracy.
+image-descr: Die sogenannte Libelle wurde zum Messen der Winkeln und der Steigung benutzt. Das Fluchten der Holzbalken war mühselig und erforderte viel Fingerspitzengefühl.
 image-path2: /../media/oatsz_ski_jump_pic4-clinometer.png
-image-descr2: The beams needed to be levelled and cut in the correct angles. Hüttenegger's team used a clinometer to ensure the accuracy of their work.
-lang: en
+image-descr2: Die Balken mussten ebenmäßig sein und im richtigen Winkel geschnitten. Hütteneggers Team benutzte einen Neigungsmesser um genauer arbeiten zu können.
+lang: de
 ref: edu-org
 index: 2
-abstract: Following the Olympics, Theodor Hüttenegger shared his experience and knowledge on building a ski jump to international standards with a wider audience in the magazine Oesterreichische Arbeiter-Turn- und Sportzeitschrift
+abstract: Nach der Olympiade teilte Theodor Hüttenegger seine Erfahrungen und sein Wissen über den Bau von Schisprungschanzen für ein internationales Wettkampfniveau mit einer breitere Öffentlichkeit in der Oesterreichischen Arbeiter-Turn- und Sportzeitschrift
 ---
 <body>
     <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
         <div class="grid-item" id="exhibit-image"><img src="/../media/oatsz_ski_jump_pic3-libelle.png" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
-        <p>Sharing knowledge and educating the working class was one of the vital components of the social democratic cause. <a href="#" class="link-info" data-toggle="tooltip" title="Austrian politician and leading theoretical thinker of the social democrats. He was highly influential in designing the Linzer Programm">Otto Bauer</a> and his followers believed that the working class needed to educate themselves in science and arts to create their own take on culture, an alternative to the bourgeoise. Mediums like their own newspapers served as an outlet to share and increase knowledge among the working class.</p>
-        <p>Theodor "Thurl" Hüttenegger, local organiser of the Winter Olympics, was a passionate winter sport advocate and keen to elaborate on the details and requirements that made the event possible. Therefore, he wrote two in-depth articles on the calculations and requirements of building a ski jump. This way, he could share his experience and expertise with other clubs in Austria through one of their magazines, the <span class="source"><a href="#" class="translation" data-toggle="tooltip" title="Austrian workers gymnastics and sports newspaper">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</a></span>.</p>
-        <h2>How to build a ski jump</h2>
+        <p>Wissen zu Teilen und der Arbeiterschicht Bildung zukommen zu lassen waren zentrale Anliegen der Sozialdemokratie. <a href="#" class="link-info" data-toggle="tooltip" title="Österreichischer Politiker und führender Theoretiker der Sozialdemokraten. Er hatte großen Einfluss auf den Inhalt des Linzer Programms">Otto Bauer</a> und seine Anhänger glaubten, dass sich die Arbeiterschicht selbst Bildung in den Bereichen Wissenschaft und Kunst zukommen lassen müsse, um ihre eigenen Kultur zu entwickeln, eine Alternative zum Bürgertum. Medien wie ihre eigenen Zeitschriften und Zeitungen wurden genutzt um Wissen unter den Arbeitern zu teilen und zu verbreiten.</p>
+        <p>Theodor "Thurl" Hüttenegger, der ortsansässige Organisator der Winterolympiade, war ein leidenschaftlicher Wintersportadvokat und daran interessiert die Arbeit und Voraussetzungen der Olympiade detailgenau zu dokumentieren und sein Wissen weiter zu geben. Deshalb schrieb er zwei lange Artikel zur Berechnung und Erbauung einer Sprungschanze. So konnte er seinen Erfahrungen und Expertise mit anderen Vereinen in Österreich in der <span class="source"><a href="#" class="translation" data-toggle="tooltip" title="Austrian workers gymnastics and sports newspaper">Oesterreichischen Arbeiter-Turn- und Sport-Zeitung</a></span> teilen.</p>
+        <h2>Wie man eine Sprungschanze erbaut</h2>
         <div class="grid-item" id="exhibit-image"><img src="/../media/oatsz_ski_jump_pic4-clinometer.png" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
-        <p> Back in the early 1930s, Hüttenegger and his team aimed to build a ski jump that would allow athletes to jump a distance of 40 metres. So, at a height of 60 metres, and a declension of 25 to 30 degrees, it is possible to build an adequate ski jump. However, the length needs to be four times the distance that athletes should be able to jump. Another issue is the terrain, an arboreous area was difficult to use, as the ski jump needed to be as straight as possible and trees obstructed the complex measuring process. In Mürzzuschlag, Hüttenegger and his team started to build their ski jump at Ganzstein. There had already been a less professional ski jump at that site but the team upgraded it to international standards. The team worked tirelessly throughout summer to complete their work before the cold weather complicated their enterprise.</p>
-        <p>The building process did not only require precision, but also the use of approprieate measuring instruments like <a href="#" class="link-info" data-toggle="tooltip" title="it was used to measure the angles of the slope">clinometers</a> and spirit levels. This manual process was tedious and required frequent readjustments to ensure that the volunteers' work was not in vain. </p>
+        <p> In den frühen 1930ern wollten Hüttenegger und sein Team eine Sprungschanze von internationalem Standard bauen, auf der Athleten bis zu 40 Meter weit springen konnten. Auf einer Länge von 60 Metern, mit einer Neigung von 25 bis 30 Grad ist es möglich eine entsprechende Schanze zu erbauen. Allerdings musste der Auslauf viermal so lange sein wie der zu erwartende weiteste Sprung der Athleten. Zudem kam das schwierige Terrain, denn die bewaldeten Hänge waren schwierig zu nutzen, da die Schanze ja möglichst gerade verlaufen musste und Bäume vor dem Fällen eine Vermessung schwieriger machten. In Mürzzuschlag begannen Hüttenegger und sein Team die Schanze am Ganzstein zu bauen. Dort war bereits eine wenig professionelle Schisprungschanze vorhanden, die das Team zu den gegebenen Standards verbessern musste. Über die Sommermonate 1930 hinweg arbeitete das Team emsig an der Fertigstellung um dem kalten Wetter und gefrorenen Böden zuvor zu kommen, die die Arbeit unmöglich gemacht hätten.</p>
+        <p>Die Bauarbeiten erforderten nicht nur Präzision, sondern auch die Verwendung passender Messwerkzeuge wie <a href="#" class="link-info" data-toggle="tooltip" title="Damit wurden die Neigungswinkel der Schanze und des Auslaufs gemessen">Neigungsmesser</a> und Wasserwaagen. Dieser händische Prozess war mühsam und verlangte häufige Nachjustierungen um sicher zu stellen, dass die Freiwilligenarbeit nicht umsonst war. </p>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">Quellen:</div>
                 <ul>
                     <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
                     <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">Bilder:</div>
                 <ul>
                     <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
                     <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
