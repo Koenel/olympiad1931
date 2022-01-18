@@ -38,7 +38,7 @@ abstract: Unfortunately, athlete Otto Schwarz lost his life after an unexpected 
           </div>
         </div>
     </section>
-        <p>Otto Schwarz, who suffered from various injuries including frostbite at his feet from the transport, died shortly after the accident in hospital. His parents showed particular gratitude for the support they received from local organisations when they arrived in Mürzzuschlag to transport their son back to Aussig. The organisers support showed a solidarity with strangers who were connected by their common values and goals as part of the international socialist and working-class movement.</p>
+        <p>Otto Schwarz, who suffered from various injuries including frostbite at his feet from the transport, died shortly after the accident in hospital. His parents showed particular gratitude for the support they received from local organisations when they arrived in Mürzzuschlag to transport their son back to Aussig. The organisers' support showed a solidarity with strangers who were connected by their common values and goals as part of the international socialist and working-class movement.</p>
         <div class="resources">
             <div class="resource-title">Resources:</div>
                 <ul>

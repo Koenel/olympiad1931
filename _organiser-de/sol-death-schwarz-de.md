@@ -1,6 +1,6 @@
 ---
 layout: organiser-grid
-title: The Death of Otto Schwarz
+title: Der Tod des Otto Schwarz
 category: solidarity
 guide: organiser
 tag: death
@@ -8,21 +8,21 @@ year: 1931
 medium: photograph
 image-path: /../media/Volkssport_15-Feb-31_S4.jpg
 image-path2: /../media/Festfuehrer_Umgebung_S23.jpg
-image-descr: The death of athlete Otto Schwarz was largely due to averse weather conditions, but the community supported the deceased's parents
-image-descr2: Area around Mürzzuschlag. Area where Otto Schwarz had his accident in red (Sonnwendstein), hospital area in Mürzzuschlag in green
+image-descr: Der Tod des Sportlers Otto Schwarz war vor allem schlechten Witterungsbedingungen geschuldet. Die Sportlergemeinschaft unterstützte die Eltern des Verstorbenen
+image-descr2: Das Gebiet um Mürzzuschlag. Die Umgebung, wo Otto Schwarz verunglückte in rot (Sonnwendstein), das Krankenhaus Mürzzuschlag in grün
 references: N/A
-lang: en
+lang: de
 ref: sol-org
 index: 5
-abstract: Unfortunately, athlete Otto Schwarz lost his life after an unexpected accident, due to averse weather conditions.
+abstract: Unglücklicherweise verlor der Sportler Otto Schwarz sein Leben nach einem unerwartet schweren Unfall, der den schlechten Witterungsbedingungen geschuldet war
 ---
 <body>
     <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
-        <div class="grid-item" id="exhibit-image"><img src="/../media/Volkssport_15-Feb-31_S4.jpg" class="img-fluid" alt="The death of athlete Otto Schwarz was largely due to averse weather conditions, but the community supported the deceased's parents.">{{ page.image-descr }} <a href="#" class="translation" data-toggle="tooltip" title="By a tragic coincidence, the Olympic fighter Otto Schwarz, sent by the Aussig Workers' Gymnastics and Sports Association, had an accident in the first part of the 30-kilometre course and succumbed to his injuries in hospital. It is with great sadness that we all mourn his memory and will always honour his memory as fellow fighters and comrades-in-arms, not only in the Workers' Olympics, but in our great struggle for the better position of the working class. Condolences go to the parents and relatives as well as the Aussiger Arbeiter-Turn- und Sportverband.">Translation</a></div>
-        <p>The Olympiad could be considered a success for the socialist movement, showcasing their international solidarity, Austria’s hospitality and sporting integrity. However, the Olympiad was overshadowed by Otto Schwarz’ accident which proved to showcase the working classes communal support. Schwarz, an athlete from <a href="#" class="link-info" data-toggle="tooltip" title="now Ústí nad Labem, Czechoslovakia">Aussig</a> participated in the 30km race. Josef Fischer’s eyewitness account <span class="source"><a href="#" class="translation" data-toggle="tooltip" title="Fighting against snow and storm">Im Kampf mit Schnee und Sturm</a></span> explains that the weather conditions on Friday made it effectively impossible to race the next day. Volunteer teams who prepared the slopes and laid the <a href="#" class="link-info" data-toggle="tooltip" title="telephones were used to report from the race course and immediately inform the audience on the information board at the finishing">telephone cables</a> struggled with masses of new snow that impeded their progress throughout the day. Fischer, one of the team leaders, recounts that the ascend to the mountain hut where the skiers would sleep the night before the race, took three hours because they had to bring red and blue flags to mark the slopes the next morning. On Friday, Fischer considered foregoing the first half kilometre because cornices obstructed the race course. Still, the teams completed their signposting, slope preparations and telephone lines in the early hours of Saturday morning (1931, p.28).</p>
+        <div class="grid-item" id="exhibit-image"><img src="/../media/Volkssport_15-Feb-31_S4.jpg" class="img-fluid" alt="The death of athlete Otto Schwarz was largely due to averse weather conditions, but the community supported the deceased's parents.">{{ page.image-descr }}</div>
+        <p>Die Olympiade konnte als Erfolg für die sozialistische Bewegung gewertet werden, die ihre internationale Solidarität, österreichische Gastfreundschaft und sportliche Integrität zur Schau stellte. Jedoch wurde die Olympiade vom Unfall des Athleten Otto Schwarz überschattet, der aber den Zusammenhalt der Arbeiterschaft zeigte. Schwarz, ein Sportler aus <a href="#" class="link-info" data-toggle="tooltip" title="heute Ústí nad Labem, Tschechien">Aussig</a> nahm am 30km Schirennen teil. Josef Fischers Augenzeugenbericht <span class="source">Im Kampf mit Schnee und Sturm</span> beschreibt, dass die Witterungsbedingungen a am Freitag es eigentlich unmöglich machten am nächsten Morgen ein Schirennen abzuhalten. Ein Team Freiwilliger,die die Pisten präparierten und die <a href="#" class="link-info" data-toggle="tooltip" title="telephones were used to report from the race course and immediately inform the audience on the information board at the finishing">Telefonleitungen</a> legten, kämpften mit Neuschneemassen, die ihren Fortschritt den ganzen Tag lang behinderten. Fischer, einer der Teamleiter, erzählt, dass der Aufstieg auf die Berghütte, wo die Schiläufer die Nacht vor dem Rennen verbringen würden, drei Stunden dauerte, weil man zusätzlich rote und blauen Fähnchen mitbringen musste um die Strecke am nächsten Morgen abzustecken. Am Freitag überlegte Fischer den ersten halben Kilometer der Strecke zu streichen, weil Schneewächten die Strecke versperrten. Trotzdem konnte die Teams die Markierung der Strecke vollenden, die Piste präparieren und die Telefonleitungen bis zum Morgengrauen am Samstag fertig legen (1931, S.28).</p>
         <div class="grid-item" id="exhibit-image"><img src="/../media/Festfuehrer_Umgebung_S23.jpg" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
-        <p>Shortly after the start, Finnish skiers returned to the hut, unwilling and unable to complete the race because there had been too much fresh snow.  Conditions were much better after the first kilometre, but many had to give up before making it to kilometre 29. For Schwarz, the race would find a lethal end at that mark: Two other athletes from Ternitz, Austria, whose skis had broken, were on their way back to the hut on foot, when they found Schwarz unconscious in the deep snow.  They were able to alert Fischer’s team at the hut and although a large number of volunteers and paramedics did their best to rescue Schwarz, it took them three hours to bring the injured athlete down into the valley from where he was taken to the hospital in Mürzzuschlag. How the accident happened was a mystery to Fischer who considered the location unremarkable: 
+        <p>Kurz nach dem Start des Rennens kehrten finnische Sportler zurück zur Berghütte und weigerten sich das Rennen zu beenden weil zu viel Neuschnee auf der Strecke war. Die Bedingungen wären nach dem ersten Streckenkilometer bereits viel besser gewesen, aber die meisten hatten schon vor Kilometer 29 aufgegeben. Für Schwarz sollte dort das Rennen tödlich enden: zwei andere Sportler aus Trnitz, Österreich, deren Schier brachen, waren zu Fuß auf dem Weg zurück zur Berghütte, als sie Schwarz bewusstlos im Tiefschnee fanden. Sie konnten Fischers Team in der Hütte alarmieren und obwohl viele Freiwillige und Rettungssanitäter das Möglichste taten um Schwarz zu retten, brauchten sie drei Stunden um den Verletzten ins Tal zu bringen, von wo er ins Krankenhaus Mürzzuschlag gebracht wurde. Wie es zum Unfall kam, bleibt Fischer ein Rätsel, der die Unfallstelle als unauffällig beschrieb: 
     <section class="vh-50" style="background-color: #eee;">
         <div class="container py-sm-5 h-50">
          <div class="row d-flex align-items-center h-20">
@@ -31,21 +31,19 @@ abstract: Unfortunately, athlete Otto Schwarz lost his life after an unexpected 
                 <blockquote class="blockquote pb-2">
                     <p class="inlinequote">Der Unfall Schwarz’ ist an einer ganz harmlosen Stelle geschehen, wo wir nie daran dachten, daß dort etwas passieren könnte. Genau beim Kilometer 29, Ende der Schußfahrt, befindet sich ein zirka drei Meter breites Gatter, durch das die Laufstrecke führt. Und dieses Gatter muß Schwarz im Schneesturm verfehlt haben oder er hatte die Herrschaft für die Brettel überhaupt verloren. Es kann ihn auch beim Uebergang vom Schuß ins Flache, was ungefähr vor dem Gatter zutrifft, ausgehoben haben, so daß er mit voller Geschwindigkeit in den Zaun hineinfuhr. Gesehen hat es niemand. Der nächste Posten stand etwas weiter vorne und konnte im Schneesturm nichts bemerken, da man manchmal auf 20 Meter nichts mehr unterscheiden konnte.</p>
                 </blockquote>
-                <figcaption class="blockquote-footer mb-0 font-italic">Oesterreichische Arbeiter-Turn- und Sport-Zeitung, March 1931, p.29.<a href="#" class="translation" data-toggle="tooltip" title="Schwarz's accident happened in a very harmless place where we never thought that anything could happen there. Exactly at kilometre 29, at the end of the shot ride, there is a gate about three meters wide through which the running track leads. And Schwarz must have missed this gate in the snowstorm or he had lost control of the skis. He could have fallen when passing from the shot to the flat, which is approximately in front of the gate, so that he went into the fence at full speed. Nobody saw it. The next post was a little further along the way and could not notice anything in the snowstorm, because sometimes you could not make out anything that was more than 20 metres away">Translation</a>
-                </figcaption>
             </figure>
            </div>
           </div>
         </div>
     </section>
-        <p>Otto Schwarz, who suffered from various injuries including frostbite at his feet from the transport, died shortly after the accident in hospital. His parents showed particular gratitude for the support they received from local organisations when they arrived in Mürzzuschlag to transport their son back to Aussig. The organisers support showed a solidarity with strangers who were connected by their common values and goals as part of the international socialist and working-class movement.</p>
+        <p>Otto Schwarz, der mehrere Verletzungen, unter anderen Frostbeulen an den Beinen vom Transport, erlitten hatte, verstarb kurz nach dem Unfall im Spital. Seine Eltern zeigten sich besonders dankbar für die Unterstützung, die sie von den ortsansässigen Organisatoren in Mürzzuschlag erhalten hatten, als sie ankamen um ihren Sohn nach Aussig zu überstellen. Die Unterstützung der Organisatoren verdeutlicht die Solidarität gegenüber Fremden, mit denen man durch gemeinsame Werte und Ziele als Teil der internationalen sozialistischen Arbeiterbewegung verbunden war.</p>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">Quellen:</div>
                 <ul>
                     <li>Fischer, J., 1931. Im Kampf mit Schnee und Sturm. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 3/ 8th year, March 1931, pp.28-29.</li>
                     <li>Anon, 1931. Ein gigantisches Sportfest. <span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, pp.1-4.</li>
                 </ul>
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">Bilder:</div>
                 <ul>
                     <li>Arbeiterbund für Sport und Körperkultur in Österreich, 1931. Otto Schwarz orbituary.(<span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, p.4)</li>
                     <li>Anon, 1931. Umgebung von Mürzzuschlag. (<span id="source">Festführer</span>, Winter!Sport!Museum!, Mürzzuschlag)</li>

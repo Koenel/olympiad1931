@@ -2,7 +2,7 @@
 layout: aboutpages-pathways
 title: home
 permalink: /home/
-language: e
+language: en
 finder: home
 ---
 <div class="home-content" class="mx-auto">
