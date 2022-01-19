@@ -10,6 +10,6 @@ finder: collection-organiser
 <p><span class="information">Unten können Sie durch die Sammlung klicken.</span>
 <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_121654_long.jpg" class="img-fluid" alt="Sprungrichter an der Ganzsteinschanze">Sprungrichter an der Ganzsteinschanze. Organisatoren waren für den reibungslosen Ablauf der Veranstaltung verantwortlich. Sie versorgten Zuschauer, Athleten und Richter.</div>
 <!--This adds the collection's objects.-->
-{% for object in site.organiser %}
+{% for object in site.organiser-de %}
     {% include collection-button.html %}
 {% endfor %}

@@ -11,6 +11,6 @@ finder: collection-participant
 <p><span class="information">Unten können Sie durch die Sammlung klicken.</span></p>
 <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_112333_long.jpg" class="img-fluid" alt="Medaillen für die Sieger">Sieger und Siegerinnen erhielten einen Medaille mit dem Logo der Arbeiterwintersport-Olympiade.</div>
 <!--This adds the collection's objects.-->
-{% for object in site.participant %}
+{% for object in site.participant-de %}
     {% include collection-button.html %}
 {% endfor %}

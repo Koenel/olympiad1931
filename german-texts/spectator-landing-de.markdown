@@ -11,6 +11,6 @@ finder: collection-spectator
 <p><span class="information"> Unten können Sie durch die Sammlung klicken.</span></p>
 <div class="grid-item" id="exhibit-image"><img src="../media/bets-dneueblatt130206_long.png" class="img-fluid" alt="Zuschauer studieren den Streckenverlauf des Schirennens und wetten auf das Siegerteam">Zuschauer studieren den Streckenverlauf des Schirennens und wetten auf das Siegerteam.</div>
 <!--This adds the collection's objects.-->
-{% for object in site.spectator %}
+{% for object in site.spectator-de %}
     {% include collection-button.html %}
 {% endfor %}
