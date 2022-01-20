@@ -10,3 +10,10 @@ sources:
 pics:
   en: Pictures
   de: Bilder
+# snippets for collections
+cls-str:
+  en: class struggle
+  de: Klassenkampf
+edu:
+  en: education
+  de: Bildung

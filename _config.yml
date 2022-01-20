@@ -37,9 +37,15 @@ include: [_pages]
 collections:
   organiser:
     output: true
+  organiser-de:
+    output: true
   participant:
     output: true
+  participant-de:
+      output: true
   spectator:
+    output: true
+  spectator-de:
     output: true
 # The next 2 steps are taken from https://www.taniarascia.com/make-a-static-website-with-jekyll/
 # add Sass as css folder -  individual components will be compiled into css -- not sure if I will need this
