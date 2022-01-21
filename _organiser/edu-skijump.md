@@ -26,14 +26,14 @@ abstract: Following the Olympics, Theodor Hüttenegger shared his experience and
         <p> Back in the early 1930s, Hüttenegger and his team aimed to build a ski jump that would allow athletes to jump a distance of 40 metres. So, at a height of 60 metres, and a declension of 25 to 30 degrees, it is possible to build an adequate ski jump. However, the length needs to be four times the distance that athletes should be able to jump. Another issue is the terrain, an arboreous area was difficult to use, as the ski jump needed to be as straight as possible and trees obstructed the complex measuring process. In Mürzzuschlag, Hüttenegger and his team started to build their ski jump at Ganzstein. There had already been a less professional ski jump at that site but the team upgraded it to international standards. The team worked tirelessly throughout summer to complete their work before the cold weather complicated their enterprise.</p>
         <p>The building process did not only require precision, but also the use of approprieate measuring instruments like <a href="#" class="link-info" data-toggle="tooltip" title="it was used to measure the angles of the slope">clinometers</a> and spirit levels. This manual process was tedious and required frequent readjustments to ensure that the volunteers' work was not in vain. </p>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
                     <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
                     <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>

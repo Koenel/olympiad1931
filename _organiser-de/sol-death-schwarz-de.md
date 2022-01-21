@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
 title: Der Tod des Otto Schwarz
-category: solidarity
+category: Solidarität
 guide: organiser
 tag: death
 year: 1931
@@ -10,7 +10,6 @@ image-path: /../media/Volkssport_15-Feb-31_S4.jpg
 image-path2: /../media/Festfuehrer_Umgebung_S23.jpg
 image-descr: Der Tod des Sportlers Otto Schwarz war vor allem schlechten Witterungsbedingungen geschuldet. Die Sportlergemeinschaft unterstützte die Eltern des Verstorbenen
 image-descr2: Das Gebiet um Mürzzuschlag. Die Umgebung, wo Otto Schwarz verunglückte in rot (Sonnwendstein), das Krankenhaus Mürzzuschlag in grün
-references: N/A
 lang: de
 ref: sol-org
 index: 5
@@ -38,12 +37,12 @@ abstract: Unglücklicherweise verlor der Sportler Otto Schwarz sein Leben nach e
     </section>
         <p>Otto Schwarz, der mehrere Verletzungen, unter anderen Frostbeulen an den Beinen vom Transport, erlitten hatte, verstarb kurz nach dem Unfall im Spital. Seine Eltern zeigten sich besonders dankbar für die Unterstützung, die sie von den ortsansässigen Organisatoren in Mürzzuschlag erhalten hatten, als sie ankamen um ihren Sohn nach Aussig zu überstellen. Die Unterstützung der Organisatoren verdeutlicht die Solidarität gegenüber Fremden, mit denen man durch gemeinsame Werte und Ziele als Teil der internationalen sozialistischen Arbeiterbewegung verbunden war.</p>
         <div class="resources">
-            <div class="resource-title">Quellen:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Fischer, J., 1931. Im Kampf mit Schnee und Sturm. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 3/ 8th year, March 1931, pp.28-29.</li>
                     <li>Anon, 1931. Ein gigantisches Sportfest. <span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, pp.1-4.</li>
                 </ul>
-            <div class="resource-title">Bilder:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Arbeiterbund für Sport und Körperkultur in Österreich, 1931. Otto Schwarz orbituary.(<span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, p.4)</li>
                     <li>Anon, 1931. Umgebung von Mürzzuschlag. (<span id="source">Festführer</span>, Winter!Sport!Museum!, Mürzzuschlag)</li>

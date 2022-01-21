@@ -27,78 +27,78 @@ abstract: Tickets were reasonably priced but access was still limited. Those wit
         <table class="table">
             <thead>
                 <tr>
-                    <th scope="col">Date</th>
-                    <th scope="col">Venue</th>
-                    <th scope="col">Entertainment</th>
+                    <th scope="col">{{ site.data.snippets.date[page.lang] }}</th>
+                    <th scope="col">{{ site.data.snippets.venue[page.lang] }}</th>
+                    <th scope="col">{{ site.data.snippets.entert[page.lang] }}</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">5th February, 6pm</th>
+                    <th scope="row">{{ site.data.snippets.feb5[page.lang] }}, {{ site.data.snippets.pm6[page.lang] }}</th>
                     <td><b>Opening Evening</b> at the <a href="#" class="translation" data-toggle="tooltip" title="regional representation hall">Bezirksvertretungssaal</a></td>
                     <td>Speeches by official representatives of international socialist movement and organisers. Orchestra recitation by various local music and singing clubs: Richard Wagner's <span class="quote">Rienzi Ouverture</span>, G. Ad. Uthmann's <span class="quote">Der Freiheit mein Lied</span>, <span class="quote"><a href="#" class="link-info" data-toggle="tooltip" title="Song of Work, official hymn of the Social Democrats">Lied der Arbeit</a></span>.</td>
                 </tr>
                 <tr>
-                    <th scope="row">6th February, 7pm</th>
+                    <th scope="row">{{ site.data.snippets.feb6[page.lang] }}, {{ site.data.snippets.pm7[page.lang] }}</th>
                     <td><a href="#" class="translation" data-toggle="tooltip" title="regional representation hall">Bezirksvertretungssaal</a></td>
                     <td>Orchestra recitation by the union music club Mürzzuschlag-Hönigsberg, by the singing group <span class="quote">Liederkranz</span>, poetry in dialect by <a href="#" class="link-info" data-toggle="tooltip" title="local entrepreneur, author and skiing enthusiast">Toni Schruf</a>. Political cabaret.</td>
                 </tr>
                 <tr>
-                    <th scope="row">6th February, 7pm</th>
+                    <th scope="row">{{ site.data.snippets.feb6[page.lang] }}, {{ site.data.snippets.pm7[page.lang] }}</th>
                     <td>Koburger House hall</td>
                     <td>Orchestra recitation by the railroad workers' music club Mürzzuschlag, music recitation by the men's singing club <span class="quote">Südbahnbund Mürzzuschlag</span>. Performance by male and female gymnasts. Poetry in dialect by <a href="#" class="link-info" data-toggle="tooltip" title="local entrepreneur, author and skiing enthusiast">Toni Schruf</a>.</td>
                 </tr>
                 <tr>
-                    <th scope="row">6th February, 7pm</th>
+                    <th scope="row">{{ site.data.snippets.feb6[page.lang] }}, {{ site.data.snippets.pm7[page.lang] }}</th>
                     <td>Brewery hall</td>
                     <td>Orchestra recitation by workers music club <span class="quote"><a href="#" class="translation" data-toggle="tooltip" title="unity">Einigkeit</a></span> Krieglach, by women's workers club Mürzzuschlag. Performance by male and female gymnasts. Political cabaret.</td>
                 </tr>
                 <tr>
-                    <th scope="row">7th Febrary, 4pm</th>
+                    <th scope="row">{{ site.data.snippets.feb7[page.lang] }}, {{ site.data.snippets.pm4[page.lang] }}</th>
                     <td>Bezirksvertretungssaal</td>
-                    <td>Choir concert by workers' children's choir Mürzzuschlag and the <span class="quote">Klein.</span></td>
+                    <td>Choir concert by workers' children's choir Mürzzuschlag and the <span class="quote">salon orchestra Klein.</span></td>
                 </tr>
                 <tr>
-                    <th scope="row">7th Febrary, 6pm</th>
+                    <th scope="row">{{ site.data.snippets.feb7[page.lang] }}, {{ site.data.snippets.pm6[page.lang] }}</th>
                     <td>Ganzsteinschanze</td>
                     <td>Torch parade and speeches, supported by a flourish of trumpets, chants and three bands.</td>
                 </tr>
                 <tr>
-                    <th scope="row">7th February, 8pm</th>
+                    <th scope="row">{{ site.data.snippets.feb7[page.lang] }}, {{ site.data.snippets.pm8[page.lang] }}</th>
                     <td>Bezirksvertretungssaal</td>
                     <td>Orchestra recitation by workers music club <span class="quote"><a href="#" class="translation" data-toggle="tooltip" title="unity">Einigkeit</a></span> Krieglach, by women's workers club Mürzzuschlag. Poetry in dialect by <a href="#" class="link-info" data-toggle="tooltip" title="local entrepreneur, author and skiing enthusiast">Toni Schruf</a>. Political cabaret.</td>
                 </tr>
                 <tr>
-                   <th scope="row">7th February, 8pm</th>
+                   <th scope="row">{{ site.data.snippets.feb7[page.lang] }}, {{ site.data.snippets.pm8[page.lang] }}</th>
                     <td>Koburger House hall</td>
                     <td>Orchestra recitation by the union music club Mürzzuschlag-Hönigsberg, by the singing group <span class="quote">Liederkranz</span>. Performance by male and female gymnasts. Poetry in dialect by <a href="#" class="link-info" data-toggle="tooltip" title="local entrepreneur, author and skiing enthusiast">Toni Schruf</a>.</td>
                 </tr>
                 <tr>
-                    <th scope="row">7th February, 8pm</th>
+                    <th scope="row">{{ site.data.snippets.feb7[page.lang] }}, {{ site.data.snippets.pm8[page.lang] }}</th>
                     <td>Brewery hall</td>
                     <td>Orchestra recitation by the railroad workers' music club Mürzzuschlag, music recitation by the men's singing club <span class="quote">Südbahnbund Mürzzuschlag</span>. Performance by male and female gymnasts. Political cabaret.</td>              
                 </tr>
                 <tr>
-                    <th scope="row">8th February, after the main ski jump event</th>
+                    <th scope="row">{{ site.data.snippets.feb8[page.lang] }}, after the main ski jump event</th>
                     <td>Ganzsteinschanze</td>
                     <td>Flourish of trumpets, speeches, collective recitation of <span class="quote"><a href="#" class="link-info" data-toggle="tooltip" title="a left-wing anthem">The Internationale</a></span>.</td>
                 </tr>
                 <tr>
-                    <th scope="row">8th February, 7pm</th>
+                    <th scope="row">{{ site.data.snippets.feb8[page.lang] }}, {{ site.data.snippets.pm7[page.lang] }}</th>
                     <td><b>Offical closing rally</b> in the Bezirksvertretungssaal</td>
                     <td>Eduard Grieg's <span class="quote">Triumphal March</span>, H.Schoof's<span class="quote"><a href="#" class="translation" data-toggle="tooltip" title="To arms"> Zum Kampf</a></span>, speeches,collective recitation of <span class="quote"><a href="#" class="link-info" data-toggle="tooltip" title="France's national anthem, workers' movement anthem">Marseillaise</a></span>. Performances by union music club Mürzzuschlag-Hönigsberg, workers' choir Mürzzuschlag.</td>
                 </tr>
             </tbody>
         </table>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
                     <li>Zotter, S., 1996.<span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
                     <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>

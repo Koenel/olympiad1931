@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
 title: Wissen teilen
-category: education
+category: Bildung
 guide: organiser
 tag: Ski jump
 year: 1932
@@ -26,14 +26,14 @@ abstract: Nach der Olympiade teilte Theodor Hüttenegger seine Erfahrungen und s
         <p> In den frühen 1930ern wollten Hüttenegger und sein Team eine Sprungschanze von internationalem Standard bauen, auf der Athleten bis zu 40 Meter weit springen konnten. Auf einer Länge von 60 Metern, mit einer Neigung von 25 bis 30 Grad ist es möglich eine entsprechende Schanze zu erbauen. Allerdings musste der Auslauf viermal so lange sein wie der zu erwartende weiteste Sprung der Athleten. Zudem kam das schwierige Terrain, denn die bewaldeten Hänge waren schwierig zu nutzen, da die Schanze ja möglichst gerade verlaufen musste und Bäume vor dem Fällen eine Vermessung schwieriger machten. In Mürzzuschlag begannen Hüttenegger und sein Team die Schanze am Ganzstein zu bauen. Dort war bereits eine wenig professionelle Schisprungschanze vorhanden, die das Team zu den gegebenen Standards verbessern musste. Über die Sommermonate 1930 hinweg arbeitete das Team emsig an der Fertigstellung um dem kalten Wetter und gefrorenen Böden zuvor zu kommen, die die Arbeit unmöglich gemacht hätten.</p>
         <p>Die Bauarbeiten erforderten nicht nur Präzision, sondern auch die Verwendung passender Messwerkzeuge wie <a href="#" class="link-info" data-toggle="tooltip" title="Damit wurden die Neigungswinkel der Schanze und des Auslaufs gemessen">Neigungsmesser</a> und Wasserwaagen. Dieser händische Prozess war mühsam und verlangte häufige Nachjustierungen um sicher zu stellen, dass die Freiwilligenarbeit nicht umsonst war. </p>
         <div class="resources">
-            <div class="resource-title">Quellen:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
                     <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Bilder:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
                     <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>

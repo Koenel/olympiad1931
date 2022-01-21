@@ -21,7 +21,7 @@ abstract: In a town of 8000 people, it was difficult to find a place to sleep fo
     <p>Initially, the national rail services had promised to provide sleeper train carriages to host visitors but <a href="#" class="link-info" data-toggle="tooltip" title="The organisers considered this move an act of sabotage by the conservative government.">they backed out at short notice</a> (Der Abend, 1931, p.6). Therefore, simple mass quarters, where athletes slept on straw and rough woollen blankets were arranged in the school building. The school was closed during the Olympiad (Zotter, 1996, pp.45-46; Der Abend 3rd February 1931, p.6). 
     The masses had to be fed, too. Again, the organisers resorted to a centralised arrangement that offered coupons for lunch and dinner at designated pubs and restaurants. Lunch cost 3 Schillings, dinner 2 Schillings. Again, organisation was key and interested parties had to sign up at least one day in advance (Festführer, 1931, p.19).</p>
     <div class="resources">
-        <div class="resource-title">Resources:</div>
+        <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3rd February 1931, p.6</li>
                 <li>Anon, 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3</li>
@@ -30,7 +30,7 @@ abstract: In a town of 8000 people, it was difficult to find a place to sleep fo
             </ul>
     </div>
     <div class="resources">
-        <div class="resource-title">Resources:</div>
+        <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
                 <li>Photo Ingbro, 1931. Wie die Gäste untergebracht sind: Die Ungarn in ihrem Quartier (<span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3)</li>
             </ul>

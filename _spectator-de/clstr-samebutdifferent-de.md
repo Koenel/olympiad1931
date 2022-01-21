@@ -1,7 +1,7 @@
 ---
 layout: spectator
 title: Same but different
-category: class-struggle
+category: Klassenkampf
 guide: spectator
 tag: entertainment
 year: 1931
@@ -10,7 +10,6 @@ image-path: /../media/IMG_20210624_120732.jpg
 image-descr: Die Öffentlichkeit besucht einen Wettbewerb. Viele bringen Programmhefte mit, wo sie die Rennresultate eintragen konnten.
 image-path2: /../media/torch_woodcut.jpg
 image-descr2: Theodor Hüttenegger und Püchler veröffentlichten einen Holzschnitt des Fackelzugs um ihren Eröffnungsbeitrag in der Oesterreichische Arbeiter-Turn- und Sport-Zeitung im Jänner 1931 zu illustrieren. 
-references: N/A
 lang: de
 index: 1
 ref: clstr-spe
@@ -50,7 +49,7 @@ abstract: Abendveranstaltungen wurden drinnen und draußen abgehalten, um region
       </div>
     </section>
     <div class="resources">
-      <div class="resource-title">Quellen:</div>
+      <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
           <ul>
               <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
               <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1</li>
@@ -58,7 +57,7 @@ abstract: Abendveranstaltungen wurden drinnen und draußen abgehalten, um region
           </ul>
     </div>
     <div class="resources">
-      <div class="resource-title">Bilder:</div>
+      <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
           <ul>
             <li>Hüttenegger, T., Püchler, 1931. Torchparade Woodcut (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1)</li>
             <li>Anon, 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>

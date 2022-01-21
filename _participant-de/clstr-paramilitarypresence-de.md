@@ -1,7 +1,7 @@
 ---
 layout: participant
 title: Paramilitärische Präsenz bei der Olympiade
-category: class-struggle
+category: Klassenkampf
 guide: participant
 tag: Republikanischer Schutzbund
 year: 1931
@@ -21,7 +21,7 @@ abstract: 1931 gab es bereits paramilitärische Gruppen wie den Republikanischen
         <p>Diese paramilitärische Arbeiterorganisation, der Republikanische Schutzbund, wurde von <a href="#" class="link-info" data-toggle="tooltip" title="Österreichischer Autor und Politiker, 1884-1968">Julius Deutsch</a> geleitet und in den späten 1920ern hatten sie etwa 80 000 Mitlgieder, die vo allem Sicherheit und Ordnung auf Veranstaltungen der Arbeiter garantierten (<span class="quote">Das Rote Wien</span>). Allerdings hatten häufige Zusammenstöße von Republikanischem Schutzbund und Heimwehr bereits zu Straßenschlachten und sogar Toten geführt (<span class="quote">Geschichtewiki</span>). Die Mitgliederzahlen sanken in den frühen 1930ern und schließlich verbot <a href="#" class="link-info" data-toggle="tooltip" title="Austrian fascist regime"> das Dollfuß-Regime</a> den Republikanischen Schutzbund 1933.</p> 
         <p>1931 war der Bürgerkriegt noch drei Jahre entfernt und der Republikanischer Schutzbund war noch stark in den Industriezentren wie Mürzzuschlag vertreten. Deshalb ist es nicht überrasched, dass der Republikanische Schutzbund auch auf der Arbeiter-Wintersport-Olympiade in Mürzzuschlag zugegen war. Wie aber im Bild zu sehen ist, kümmerte er sich nicht nur um den Schutz der Anwesenden, sondern seien Mitglieder spielten auch Fanfaren vor dem letzten Sprungwettbewerb. So bekam die Sportveranstaltung politisches Gewicht. Der Leiter des Schutzbunds, Julius Duetsch, war ein Ehrengast auf der Olympiade und hielt mehrere Reden um die Arbeiterschaft zu motivieren.</p>
         <div class="resources">
-            <div class="resource-title">Quellen:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Anon (verified by K. Glaubauf, 2013). 2019. Linzer Programm (Sozialdemokratie). <span id="source">Austria Forum</span> [online] Available at: <a href="https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie)">https://austria-forum.org/af/AustriaWiki/Linzer_Programm_(Sozialdemokratie)</a>, [Accessed 07 August 2021]</li>
                     <li>Anon, n.d. Republikanischer Schutzbund. <span id="source">Das rote Wien</span>[online] Available at: <a href="http://www.dasrotewien.at/seite/republikanischer-schutzbund">http://www.dasrotewien.at/seite/republikanischer-schutzbund</a> [Accessed 07 August 2021]</li>
@@ -30,7 +30,7 @@ abstract: 1931 gab es bereits paramilitärische Gruppen wie den Republikanischen
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Bilder:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Photo Ingbro, 1931. Republikanischer Schutzbund at the Olympics [photograph] (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul>

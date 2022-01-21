@@ -1,36 +1,35 @@
 ---
 layout: spectator
 title: An international spectacle
-category: solidarity
+category: Solidarität
 guide: spectator
 tag: ski jump
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_122920.jpg
-image-descr: Finnish athlete Arvo Talsi won the combined skiing competition (ski jump and cross-country skiing) competition, jumping 43.5 metres at his widest jump. Germany's Häußler jumped further (44.5m), but Talsi scored more style points and therefore won the competition by points. Häußler came third.
+image-descr: Der finnische Athlet Arvo Talsi gewann die Nordische Kombination (Schisprung und Langlauf) und sprang 43,5m weit bei seinem weitesten Sprung. Der Deutsche Häußler sprang zwar weiter (44,5m), aber Talsi gewann nach Punkten und sicherte sich so den Gesamtsieg. Häußler wurde im Wettbewerb Dritter. Karikatur Talsis bei Telemark.
 image-path2: ../media/IMG_20210624_121340.jpg
-image-descr2: Final parade on Saturday, political figures lead the way. Dr Karl Renner, Julius Deutsch, Dr Eldersch (from left to right)
-references: N/A
+image-descr2: Der letzte Umzug am Samstag, politische Figuren führen den Zug an - Dr Karl Renner, Julius Deutsch, Dr Eldersch (von links nach rechts)
 lang: de
 ref: sol-spe
 index: 5
-abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the community of workers across countries, languages and cultures.
+abstract: Arbeiter aus ganz Europa nahmen an den Wettkämpfen in Mürzzuschlag teinl und zeigten sich als länder- und sprachübergreifende Gemeinschaft.
 ---
 <body>
     <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
         <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_121340.jpg" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
         <div class="grid-item">
-            <p>Next to competing and winning for their respective areas, there was a strong understanding that the international solidarity of the working-class movement should be visible. Therefore, the athletes took part in two parades through town on 7th February 1931, and 8th February 1931, the last day of the competition. The first parade was a so-called “Fackelzug”, a torchlight parade that would illuminate the whole town and predominantly served a symbolic purpose. Its destination was the ski jump where the masses could celebrate. According to the <span class="quote">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span> (2/1931), <a href="#" class="link-info" data-toggle="tooltip" title="Athletes, organisers, volunteers and working class members">3000 torchbearers</a> were watched by a 6000-strong crowd. When Julius Deutsch held his speech on solidarity and the struggles of the working class, the mountaintops around the town were illuminated by fires that could be seen from afar. The combination of fire, snow and ice must have been truly impressive on everybody who was present at the event.</p>
-            <p>The parade on 8th February 1931 took the competitors straight to the last event of the Olympiad at the Ganzsteinschanze, the ski jump. There was a strict order for all participants, and everyone had to be ready to leave by 12pm, stewards with red ribbons oversaw the order was kept. When the parade started, the children were followed by the honorary guests. Then followed the athletes from abroad and the parade was closed by the large group of <a href="#" class="link-info" data-toggle="tooltip" title="Athletes walked in order of their county, ranging from the one furthest away from Mürzzuschlag to the closest one. Austrian athletes outnumbered other nations by far.">participants from Austria</a> <span id="source">(Gastgeb 1931, p.13)</span>.</p>
+            <p>Neben dem Wettkampf und dem Sieg für die eigene Region sollte auch ein starkes Gefühl internationaler Solidarität innerhalb der Arbeiterbewegung zur Schau gestellt werden. Deshalb nahmen die Sportler und Sportlerinnen an zwei Umzügen durch die Stadt am 7. Frebruar 1931 und am 8. Februar 1931, dem letzten Wettkampftag, teil. Der erste Umzug war ein sogenannter “Fackelzug”, der die ganze Stadt erhellen würdne udn vor allem symbolische Tragkraft hatte. Ziel der Parade war die Sprungschanze am Ganzstein, wo die Massen feiern konnten. Laut der <span class="quote">Oesterreichischen Arbeiter-Turn- und Sport-Zeitung</span> (2/1931), marschierten <a href="#" class="link-info" data-toggle="tooltip" title="Athleten, Veranstalter, Freiwillige und weitere angehörige der Arbeiterschaft">3000 Fackelträger</a> utner den Augen eines 6000-Personen starken Publikums. Als Julius Deutsch seine Rede über Solidarität und die Mühen der Arbeiterschaft hielt, wurden auf den Berggipfeln um die Stadt von weitem sichtbare Feuer entzunden. Die Mischung aus Feuer, Schnee und Eis muss wirklich beeindruckend gewesen sein.</p>
+            <p>Die Parade am 8. Februar 1931 führte die Teilnehmer und Teilnehmerinnen direkt zum Abschlussbewerb auf der Ganzsteinschanze. Für die Teilnehmenden gab es eine strikte Aufstellung und alle mussten um 12 Uhr zum Abmarsch bereit sein. Ordner mit roten Armbinden sorgten für einen geordneten Ablauf. Als der Umzug begann, liefen zuerst die Kinder, gefolgt von den Ehrengästen. Danach kamen die Athelten aus dem Ausland, nach ihnen die große Gruppe <a href="#" class="link-info" data-toggle="tooltip" title="Die Sportlerinnen und Sportler marschierten in Bundeslandgruppen, von jenem, dass von Mürzzuschlag am weitesten entfernt war bus zum nahesten. Zahlenmäßig war Österreich den anderen Nationen weit überlegen.">österreichischer Teilnehmer</a> <span id="source">(Gastgeb 1931, S.13)</span>.</p>
         </div>
         <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_122920.jpg" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
-        <div class="grid-item" id="exhibit-image"><img src="../media/dkb_19310209_talsi.png" class="img-fluid" alt="Talsi lands, caricature"> Caricature of Talsi finishing his jump. <span id="source">Das Kleine Blatt, 9 February 1931</span></div>
+        <div class="grid-item" id="exhibit-image"><img src="../media/dkb_19310209_talsi.png" class="img-fluid" alt="Talsi lands, caricature"> {{ page.image-descr }}<span id="source">Das Kleine Blatt, 9. Februar 1931</span></div>
         <div class="grid-item">
-        <p>The athletes who competed in the final ski jump too their equipment with them, others carried socialist red flag or flags that represented their countries. Reports of the day state that up to 8000 people joined the parade and at least the same amount of people watched the athletes on their way to the ski jump where <a href="#" class="link-info" data-toggle="tooltip" title="Politician, author, founder of the social democratic defence force Republikanischer Schutzbund.">Julius Deutsch</a> would mark final words on the event (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 17-18). <span class="quote">Das Kleine Blatt</span> speaks of 12.000 people in Mürzzuschlag <span id="source">(<span class="quote">Das Kleine Blatt</span>, 9 February 1931, p. 12)</span> Finnish athlete Arvo Talsi won the final combined competition by points, even though he didn't win either race.</p>
+        <p>Die Sportler, die am letzten Wettbewerb teilnahmen, trugen ihre Ausrüstung mit sich, andere dagegen hielten sozialistische rote Fahnen oder Fahnen, die ihre Länder repräsentierten. Tagesberichte behaupten, dass bis zu 8000 Menschen am Umzug teilnahmen und zumindest genauso viele Personen die Sportler auf ihrem Weg zur Schisprungschanze bewunderten, wo <a href="#" class="link-info" data-toggle="tooltip" title="Politiker, Autor, Gründer des sozialdemokratischen Verteidigung Republikanischer Schutzbund.">Julius Deutsch</a> die letze Rede der Veranstaltung hielt (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, S. 17-18). <span class="quote">Das Kleine Blatt</span> spricht von 12 000 Personen in Mürzzuschlag <span id="source">(<span class="quote">Das Kleine Blatt</span>, 9.Februar 1931, S. 12)</span>. Der Finne Arvo Talsi gewann den letzten Kombinationswettbewerb nach Punkten, obwohl er weder das Schirennen noch den Schisprung gewann.</p>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Resources</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
                     <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag,<span id="source">Oesterreichische Arbeiter- Turn- und Sport-Zeitung</span>, pp. 14-19.</li>
@@ -39,7 +38,7 @@ abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the c
                 </ul>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Pictures</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
                     <li>Anon, 1931. Talsi jumps to victory. (Winter!Sport!Museum!, Mürzzuschlag)</li>

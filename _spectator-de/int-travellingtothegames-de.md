@@ -1,33 +1,32 @@
 ---
 layout: spectator
-title: Travelling to the games and showcasing internationality
-category: international
+title: Die Anreise zu den Spieln und ein Symbol der Solidarität
+category: Internationale
 guide: spectator
 tag: ticket
 year: 1931
 medium: photograph
 image-path: 
-image-descr: The national rail service banned decorating the train station in Mürzzuschlag
+image-descr: Die Bundenbahnen verboten den Veranstaltern die Zugstation in Mürzzuschlag zu dekorieren.
 image-path2: /../media/IMG_20210624_111808.jpg
-image-descr2: The national rail services offered discounted tickets to visit the Winter and the Summer Olympiad.Ticket for Paul Wetterich from Mürzzuschlag, to visit the Summer Olympiad in Vienna.
-references: N/A
+image-descr2: Die Bundesbahnen boten vergünstigte Karten an um die Winter- und Sommerolympiade. Ermäßigungsfahrkarte für Paul Wetterich aus Mürzzuschlag, für die Sommerolympiade in Wien.
 lang: de
 ref: int-spe
 index: 4
-abstract: Although national rail services eventually supported the games by offering additional services, travelling to and from Mürzzuschlag remained challenging.
+abstract: Obwohl die Bundesbahnen letztendlich die Spiele unterstützten indem sie zusätzliche Verbindungen und Vergünstigungen anboten, blieb die Anreise nach Mürzzuschlag eine Herausforderung.
 ---
 <body>
     <div class="infotext">
         <h1  id="title">{{ page.title }}</h1>
         <div class="grid-item" id="exhibit-image"><img src="../media/Volkssport_15-Feb-31_S2.jpg" class="img-fluid" alt="{{ page.image-descr }}"> {{ page.image-descr }}</div>
-        <p>Despite relatively high costs, an agreement with the national train service ÖBB allowed travellers to enjoy cheaper prices on their trains and other smaller train service providers (<span class="quote">Arbeiterwille</span> 1930, p. 4). Participants enjoyed 25% off regular ticket prices. This price reduction was applicable for two weeks: Any trip to Mürzzuschlag could start on February 1st the earliest and the destination had to be reached by February 8th 12pm the latest. The return trip could not be taken before February 5th 12pm and had to be completed by February 15th midnight, if the traveller’s destination was a stop in Austria (<span class="quote">Gastgeb</span> 1931, p. 28). If one was travelling from abroad, the organisers recommended booking tickets through a certified travel agency. Furthermore, young people who travelled in groups received 50% discount. The same was true for those who did not stay in Mürzzuschlag but wanted to travel from nearby areas to the competition grounds every day. Reduced prices also required passengers to show their valid spectator tickets (<span class="quote">Gastgeb</span> 1931, p. 28).</p>
-        <p>Nevertheless, the Bundesbahnen were not fond of the games. In a last minute decision, they allowed the train station to be decorated, but only in red-white-red (colours of the Austrian flag) and green-white (colours of Styria); red for the socialists was forbidden. Likewise, they did not allow the waiting area for second class passengers to be turned into a welcoming area for national and international guests. Following these decisions, the event committee decided to renounce decorating the train station altogether (<span class="quote">Der Abend</span>, 3rd February 1931, p. 6).</p>
-        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_111808.jpg" class="img-fluid" alt="{{ page.image-descr2 }}"> {{ page.image-descr2 }}<a href="#" class="translation" data-toggle="tooltip" title="2nd Workers Olympiad. Train Stamp for trip to the event. Participant Card 70131 for Paul Wetterich from Mürzzuschlag, Styria. Following order no. 4840/1930 and 4387/1931 of the Austrian national rail service's general office, of Aspang-trains, Graz-Köflacher trains, Zillertaler trains and Danube Steam Ship Association, the ticket holder is entitled to 25% discount when travelling alone, they are entitled to festive batch and entry to all olympic sport events on 26th July where not seats are allocated. Seats must be paid extra.">Translation</a></div>
-        <p>For competitors from abroad, it was particularly difficult to gather the financial means to join the event. For example, the German team did still not know how much financial support they could expect from the state to join the (Winter and Summer) Olympiads by January 1931. Apparently workers’ sports were largely ignored because by then the bourgeoise Olympic committee had already received 50.000 RM (Reichsmark) for the Olympic Games in Los Angeles 1932, and was expecting another <a href="#" class="link-info" data-toggle="tooltip" title="The average worker earned 192RM a month">100.000 Reichsmark</a> to support gymnastics. </p>
-        <p>The situation was less dire in other countries. For example, the Finish workers team had received a generous lump sum of 300.000 Finnish mark to finance their enterprise. Then again, the Hungarian team had boasted to send a delegation of 60 athletes, but only a few could join the games in Mürzzuschlag, due to financial constraints (<span class="quote">Oesterreichische Arbeiter-Turn- und Sport-Zeitung January</span> 1931, p. 10).
-        Clearly, next to taking time off work to join the games, many workers faced costs which they and their clubs could not defray. The need to rely on communal finance to participate restricted the clubs in sending their athletes to international events like the Olympiads in Mürzzuschlag and Vienna, ranging in costs for <a href="#" class="link-info" data-toggle="tooltip" title="Only few athlete could afford to take up expensive sports like skiing. Sports like running, swimming and gymnastics were much more common.">equipment</a> to travel expenses.</p>
+        <p>Trotz der relativ hohen Kosten ermöglichte ein Abkommen mit den Bundesbahnen ÖBB den Anreisenden von billigeren Preisen auf deren Zugverbindungen, aber auch auf Ermäßigungen auf einigen Regionalbahnen zu profitieren (<span class="quote">Arbeiterwille</span> 1930, S. 4). Teilnehmer erhielten 25% auf den regulären Fahrkartenpreis. Diese Vergünstigung galt für zwei Wochen: Jede Fahrt nach Mürzzuschlag konnte frühestens am 1. Februar angetreten werden, und das Ziel musste spätestens am 8. Februar um Mitternacht erreicht werden. Die Rückfahrt konnte nicht vor dem 5. Februar um Mitternacht angetreten werden und musste am 15. Februar um Mitternacht beendet worden sein, sofern das Reiseziel in Österreich lag (<span class="quote">Gastgeb</span> 1931, S. 28). Wenn man aus dem Ausland anreiste, empfahlen die Veranstalter Fahrkarten über Reisebüros zu kaufen. Darüber hinaus konnten sich Reisegruppen junger Leute über 50% Ermäßigung freuen. Das gleich galt für jene, die nicht in Mürzzuschlag nächtigten, sondern aus der näheren Umgebung jeden Tag zu den Wettbewerben anreisten. Eine gültige Zuschauerkarte für die Spiele war Voraussetzung für die ermäßigten Preise (<span class="quote">Gastgeb</span> 1931, S. 28).</p>
+        <p>Allerdings waren die Bundesbahnen von den Spielen nicht angetan. Nach einer Absage entschieden sie kurzfristig, dass der Bahnhof Mürzzuschlag doch geschmückt werden dürfe, aber nur in rot-weiß-rot (die österreichischen Nationalfarben) und grün-weiß (die Farbe der Steiermark); rot für die Sozialisten war verboten. Außerdem war es nicht erlaubt den Wartebereich für die Zugreisenden zweiter Klasse als einen Empfangsraum für nationale und internationale Gäste zu nutzen. Aufgrund dieser Entscheidungen der ÖBB entschieden sich die Veranstalter schließlich, auf jede Dekoration zu verzichten (<span class="quote">Der Abend</span>, 3. Februar 1931, S. 6).</p>
+        <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_111808.jpg" class="img-fluid" alt="{{ page.image-descr2 }}"> {{ page.image-descr2 }}</div>
+        <p>Für Teilnehmer aus dem Ausland war es besonders schwierig das Geld aufzutreiben um an den Wettbewerben teilzunehmen. Zum Beispiel wusste das deutsche Team im Jänner 1931 immer noch nicht, wie viel finanzielle Unterstützung sie vom Staat für die Teilnahme an der Winter- und Sommerolympiade bekommen würden. Scheinbar wurde der Arbeitersport weitgehend ignoriert, denn das bürgerliche Olympische Komitee hatte bereits 50.000 RM (Reichsmark) für die Olympischen Spiele in Los Angeles 1932 erhalten, und rechnete mit weiteren <a href="#" class="link-info" data-toggle="tooltip" title="Der durchschnittliche Arbeiter verdiente 192RM im Monat">100.000 Reichsmark</a> für die Unterstützung der Turner. </p>
+        <p>Die Situation war in anderen Ländern besser. Zum Beispiel hatte das finnische Team die großzügige Summe von 300000 finnischen Mark für ihr Vorhaben erhalten. Dann wiederum hatte das ungarische Team geprahlt mindestens 60 Athleten zu schicken, aber nur ein Bruchteil konnte tatsächlich nach Mürzzuschlag kommen aufgrund fehlender finanzieller Mittel (<span class="quote">Oesterreichische Arbeiter-Turn- und Sport-Zeitung January</span> 1931, S. 10).
+        Wie man sieht war es nicht nur schwierig, Zeit für die Teilnahme zu haben, sondern auch die Kosten schränkten die Teilnehmer und ihre Verein ein. Man musste sich auf die Finanzierung durch die Gemeinschaft verlassen, was die Zahl derer, die man zu Wettbewerben aussenden konnte, einschränkte. Davon waren besonders internationale Wettbewerbe wie die Olypiaden in Mürzzuschlag und Wien betroffen, die mit hohen Reise- und <a href="#" class="link-info" data-toggle="tooltip" title="Nur wenige Sportler konnten sich teuere Sportarten wie Schifahren leisten. Sportarten wie Laufen, Schwimmen oder Turnen waren viel häufiger.">Ausrüstungskosten</a> verbunden waren.</p>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Resources</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Rundschau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport_Zeitung</span>, January 1931, p. 10</li>
                 <li>Gastgeb, H., 1931. Wichtige Bestimmungen für Fahrbegünstigungen auf den Österreich. Bundesbahnen, Aspangbahn, Graz-Köflacher und Zillertaler Bahn. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna. p. 28</li>
@@ -37,7 +36,7 @@ abstract: Although national rail services eventually supported the games by offe
             </ul>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Pictures</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Train station in Mürzzuschlag. (<span id="source">Volkssport</span>, 15 February 1931, p. 2)</li>
                 <li>Aktionsausschuss, 1931. Festteilnehmerkarte. (Winter!Sport!Museum!, Mürzzuschlag)</li>

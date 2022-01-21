@@ -27,10 +27,10 @@ abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the c
         <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_122920.jpg" class="img-fluid" alt="{{ page.image-descr }}">{{ page.image-descr }}</div>
         <div class="grid-item" id="exhibit-image"><img src="../media/dkb_19310209_talsi.png" class="img-fluid" alt="Talsi lands, caricature"> Caricature of Talsi finishing his jump. <span id="source">Das Kleine Blatt, 9 February 1931</span></div>
         <div class="grid-item">
-        <p>The athletes who competed in the final ski jump too their equipment with them, others carried socialist red flag or flags that represented their countries. Reports of the day state that up to 8000 people joined the parade and at least the same amount of people watched the athletes on their way to the ski jump where <a href="#" class="link-info" data-toggle="tooltip" title="Politician, author, founder of the social democratic defence force Republikanischer Schutzbund.">Julius Deutsch</a> would mark final words on the event (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 17-18). <span class="quote">Das Kleine Blatt</span> speaks of 12.000 people in Mürzzuschlag <span id="source">(<span class="quote">Das Kleine Blatt</span>, 9 February 1931, p. 12)</span> Finnish athlete Arvo Talsi won the final combined competition by points, even though he didn't win either race.</p>
+        <p>The athletes who competed in the final ski jump took their equipment with them, others carried socialist red flag or flags that represented their countries. Reports of the day state that up to 8000 people joined the parade and at least the same amount of people watched the athletes on their way to the ski jump where <a href="#" class="link-info" data-toggle="tooltip" title="Politician, author, founder of the social democratic defence force Republikanischer Schutzbund.">Julius Deutsch</a> would mark final words on the event (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 17-18). <span class="quote">Das Kleine Blatt</span> speaks of 12.000 people in Mürzzuschlag <span id="source">(<span class="quote">Das Kleine Blatt</span>, 9 February 1931, p. 12)</span> Finnish athlete Arvo Talsi won the final combined competition by points, even though he didn't win either race.</p>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Resources</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
                     <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag,<span id="source">Oesterreichische Arbeiter- Turn- und Sport-Zeitung</span>, pp. 14-19.</li>
@@ -39,7 +39,7 @@ abstract: Workers from across Europe competed in Mürzzuschlag, showcasing the c
                 </ul>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Pictures</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
                     <li>Anon, 1931. Talsi jumps to victory. (Winter!Sport!Museum!, Mürzzuschlag)</li>

@@ -1,7 +1,7 @@
 ---
 layout: participant
 title: Für jeden ein Bett
-category: international
+category: Internationale
 guide: participant
 tag: Ski jump
 year: 1931
@@ -21,7 +21,7 @@ abstract: In einer 8000-Seelen-Stadt war es schwierig für alle Personen Schlafm
     <p>Anfangs hatten die Österreichischen Bundesbahnen Schlafwagen als Unterkünfte zugesichert, aber im letzten Moment <a href="#" class="link-info" data-toggle="tooltip" title="Die Organisatoren sahen dies als Sabotage der Veranstaltung durch die konservative Regierung an.">zogen sie die Zusage zurück</a> (Der Abend, 1931, S.6). Deshalb wurden einfachste Massenquartere, wo Sportler auf Stroh und groben Wolldecken schliefen, im Schulgebäude organisiert. Für den Unterricht war die Schule während der Olympiade geschlossen (Zotter, 1996, S.45-46; Der Abend 3rd February 1931, S.6). 
     Die Menschenmassen mussten auch versorgt werden. Wieder organisierten die Veranstalter eine zentrale Ausspeisung: Gäste konnte Essensmarken für Mittag- und Abendessen kaufen, die sie in örtlichen Restaurants und Imbissen einlösen konnten. Mittagessen kostete 3 Schilling, das Abendessen 2 Schilling. Eine gute Organisation war wichtig und Interessierte mussten sich am Vortag zum Essen anmelden, damit genug zur Verfügung stand (Festführer, 1931, S.19).</p>
     <div class="resources">
-        <div class="resource-title">Quellen:</div>
+        <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3rd February 1931, p.6</li>
                 <li>Anon, 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3</li>
@@ -30,7 +30,7 @@ abstract: In einer 8000-Seelen-Stadt war es schwierig für alle Personen Schlafm
             </ul>
     </div>
     <div class="resources">
-        <div class="resource-title">Bilder:</div>
+        <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
                 <li>Photo Ingbro, 1931. Wie die Gäste untergebracht sind: Die Ungarn in ihrem Quartier (<span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3)</li>
             </ul>

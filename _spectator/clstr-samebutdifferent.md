@@ -1,7 +1,7 @@
 ---
 layout: spectator
 title: Same but different
-category: class-struggle
+category: class struggle
 guide: spectator
 tag: entertainment
 year: 1931
@@ -51,7 +51,7 @@ abstract: Evening entertainment was provided indoors and outdoors to share local
       </div>
     </section>
     <div class="resources">
-      <div class="resource-title">Resources:</div>
+      <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
           <ul>
               <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
               <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1</li>
@@ -59,7 +59,7 @@ abstract: Evening entertainment was provided indoors and outdoors to share local
           </ul>
     </div>
     <div class="resources">
-      <div class="resource-title">Pictures:</div>
+      <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
           <ul>
             <li>Hüttenegger, T., Püchler, 1931. Torchparade Woodcut (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1)</li>
             <li>Anon, 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
