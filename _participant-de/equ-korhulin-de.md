@@ -1,7 +1,7 @@
 ---
 layout: participant
 title: Frauen greifen nach Gold
-category: equality
+category: Gleichberechtigung
 guide: participant
 tag: Ski jump
 year: 1931
@@ -43,13 +43,13 @@ abstract: Die Winterolympiade 1931 war eine der ersten Veranstaltungen, wo Fraue
     <p>Nach ihren beiden Siegen versuchte ein Reporter der Boulevardzeitung <span class="quote">Kronen Zeitung</span> sie zu interviewen. Jedoch sprach er kein Finnisch und musste sich auf seinen Pantomimekünste verlassen, um mehr über Latinen zu erfahren. Mit viel Aufwand konnte er ihr entlocken, dass sie verheiratet war und seit ihrer Jugend Schi fuhr. Dazu konnte der Reporter ausführen, dass die finnischen Athletinnen für sich selbst kochten und bevorzugt Haferbrei in ihrer Unterkunft aßen während der Olympiade, und das Latinen gerne nähte. Diese Informationen, wenn auch wenig sportlicher Natur, schienen dem Anspruch des Journalisten und der üblichen Leserschaft der Zeitschrift zu genügen um einen großen Artikel zu drucken (Kronen Zeitung 8.Februar 1931, S.7).</p>
     <p>Ester Korholin wurde als Favoritin für den Sieg im 4km Rennen am Freitag, 6. Februar 1931, gehandelt, und ihr Sieg erfüllte die Erwartungen des Publikums. Zeitgleich zu diesem Wettbewerb fand das Kinderrodeln statt (Das Kleine Blatt, 6 Feb 1931, S. 14).</p>
     <div class="resources">
-        <div class="resource-title">Quellen:</div>
+        <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
                 <li>Anon, 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
                 <li>Anon, 1931. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
                 <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, 1 March 1931, p.5</li>
             </ul>
-        <div class="resource-title">Bilder:</div>
+        <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
                 <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
                 <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Norovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8 February 1931, p.11)</li>

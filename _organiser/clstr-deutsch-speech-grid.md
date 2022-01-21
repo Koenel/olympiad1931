@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
 title: A protective force of workers to defend democracy
-category: class-struggle
+category: class struggle
 guide: organiser
 tag: Julius Deutsch
 year: 1931
@@ -45,7 +45,7 @@ abstract: Julius Deutsch and the social democrats were aware of the difficult po
         <p>In his speech, Deutsch highlights the working class’ effort to defend democracy and that they had been successful in pushing back the fascist groups. Deutsch refers to the <a href="#" class="link-info" data-toggle="tooltip" title="The most influential ones were the 'Schlacht auf dem Exelberg'(1923), the Justizpalastbrand, and the July Revolt following the Schattendorf process">troublesome events during the 1920s</a>. A significant event was the confrontation in Schattendorf, Burgenland, in January 1927. In the court case, the defendants were not found guilty and the workers cried for justice. During their demonstrations in Vienna, the <a href="#" class="translation" data-toggle="tooltip" title="palace of justice, court">Justizpalast</a> burnt down and members of the working class and socialist democratic party were falsely blamed, adding further to the tense political situation in the country. At the time of the Olympiad, preparations for a change to Austrofascism were already under way. In the last free election that the First Republic would see in November 1930, the Social Democrats had gained the most votes, but they lacked a coalition partner and so a coalition was formed by the other parties, effectively excluding the voice of the socialist democratic voters (<span class="source">Österreichische Mediathek</span>, 2021). Furthermore, the <a href="#" class="link-info" data-toggle="tooltip" title="Christan socialist paramilitary force">Heimwehr</a> had already sworn their <a href="#" class="link-info" data-toggle="tooltip" title="The oath was called 'Korneuburger Eid', after the place where it was sworn.">oath</a> to support an authoritarian corporative state, paving the way for further oppressive structures. Eventually, the early 1930s would see the rise of Austrofascism and Engelbert Dollfuß to dictator, the working class losing their battle for rights and democracy.</p>
         <p>Still, in February 1931, Deutsch’s speech is hopeful and motivational. He addresses the youth as a driving force for change and highlights that the difficulties which the working-class faces, are not unique to the Austrian context. As an international phenomenon, solidarity with other countries, who fight against the same oppression and for a better quality of life, his speech emphasises that the Austrian working class is not alone, their effort not in vain. Even a remote place like the quiet valley of the river Mürz can be a centre of friendship, solidarity and combative spirit.</p>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Czeike, F., 2021. Julius Deutsch. <span id="source">Wien Geschichte Wiki</span>, [online] Available at: <a href="https://www.geschichtewiki.wien.gv.at/Julius_Deutsch">https://www.geschichtewiki.wien.gv.at/Julius_Deutsch</a> [Accessed 13 August 2021]</li>
                     <li>Deutsch, J., 1931. Wir grüßen euch! <span id="source">Festführer</span>, p. 5</li>
@@ -55,7 +55,7 @@ abstract: Julius Deutsch and the social democrats were aware of the difficult po
                 </ul>
         </div>
         <div class="resources">
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Julius Deutsch. Filmstill (Wiener Filmarchiv der Arbeiterbewegung, Wien)</li>
                 </ul>

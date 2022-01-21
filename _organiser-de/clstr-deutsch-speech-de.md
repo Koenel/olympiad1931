@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
 title: Eine starke Arbeiterplattform zum Schutze der Demokratie
-category: class-struggle
+category: Klassenkampf
 guide: organiser
 tag: Julius Deutsch
 year: 1931

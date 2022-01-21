@@ -14,7 +14,7 @@ references: N/A
 lang: en
 ref: int-spe
 index: 4
-abstract: Although national rail services eventually supported the games by offering additional services, travelling to and from Mürzzuschlag remained challenging.
+abstract: Although national rail services eventually supported the games by offering additional services and ticket discounts, travelling to and from Mürzzuschlag remained challenging.
 ---
 <body>
     <div class="infotext">
@@ -27,7 +27,7 @@ abstract: Although national rail services eventually supported the games by offe
         <p>The situation was less dire in other countries. For example, the Finish workers team had received a generous lump sum of 300.000 Finnish mark to finance their enterprise. Then again, the Hungarian team had boasted to send a delegation of 60 athletes, but only a few could join the games in Mürzzuschlag, due to financial constraints (<span class="quote">Oesterreichische Arbeiter-Turn- und Sport-Zeitung January</span> 1931, p. 10).
         Clearly, next to taking time off work to join the games, many workers faced costs which they and their clubs could not defray. The need to rely on communal finance to participate restricted the clubs in sending their athletes to international events like the Olympiads in Mürzzuschlag and Vienna, ranging in costs for <a href="#" class="link-info" data-toggle="tooltip" title="Only few athlete could afford to take up expensive sports like skiing. Sports like running, swimming and gymnastics were much more common.">equipment</a> to travel expenses.</p>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Resources</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Rundschau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport_Zeitung</span>, January 1931, p. 10</li>
                 <li>Gastgeb, H., 1931. Wichtige Bestimmungen für Fahrbegünstigungen auf den Österreich. Bundesbahnen, Aspangbahn, Graz-Köflacher und Zillertaler Bahn. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna. p. 28</li>
@@ -37,7 +37,7 @@ abstract: Although national rail services eventually supported the games by offe
             </ul>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Pictures</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
                 <li>Anon, 1931. Train station in Mürzzuschlag. (<span id="source">Volkssport</span>, 15 February 1931, p. 2)</li>
                 <li>Aktionsausschuss, 1931. Festteilnehmerkarte. (Winter!Sport!Museum!, Mürzzuschlag)</li>

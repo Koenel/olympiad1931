@@ -1,7 +1,7 @@
 ---
 layout: organiser-grid
-title: Esperanto, a common language
-category: international
+title: Esperanto, eine gemeinsame Sprache
+category: Internationale
 guide: organiser
 tag: esperanto
 year: 1931
@@ -51,13 +51,13 @@ abstract: Die Arbeiterschicht wollte für ihre gemeinsamen Anliegen mit ihren Sc
         </div>
     </section>
         <div class="resources">
-            <div class="resource-title">Quellen:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Karlander, D., 2020. “Ideological indeterminacy: Worker Esperantism in 1920s Sweden“ <span id="source">Language and Communication</span> 71, pp.95-107 [online] Available at: <a href="https://doi.org/10.1016/j.langcom.2019.12.004">https://doi.org/10.1016/j.langcom.2019.12.004</a> [Accessed 10 September 2021]</li>
                     <li>Diez, R., 1931. Esperanto und wir Arbeiterturner. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, pp.8-9</li>
                     <li>Deutsch, J., 1931. Ni salutas vin! <span id="source">Festführer</span>, p.6</li>
                 </ul>
-            <div class="resource-title">Bilder:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Harnisch, W., Meiselmann, A., 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII (Winter!Sport!Museum!, Mürzzuschlag).</li> 
                     <li>Anon, 1931. Identification card, back (Winter!Sport!Museum!, Mürzzuschlag).</li>

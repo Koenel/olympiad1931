@@ -59,7 +59,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
     </div>
   </section>
   <div class="resources">
-    <div class="resource-title">Resources:</div>
+    <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
       <ul class="resources-list">
         <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
         <li>Hüttenegger, T., 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
@@ -67,7 +67,7 @@ abstract: The success of the Olympiad in 1931 largely dependent on the support a
       </ul>
   </div>
   <div class="resources">
-    <div class="resource-title">Pictures:</div>
+    <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
       <ul class="resources-list">
         <li>Anon, 1930. Idealisten beim Bau der Olympiaschanze (Ganzstein) (Winter!Sport!Museum!, Mürzzuschlag)</li>
       </ul>

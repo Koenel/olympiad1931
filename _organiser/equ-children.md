@@ -24,13 +24,13 @@ abstract: Children were important for sustaining recruitment for the social demo
         <div class="grid-item" id="exhibit-image"><img src="/../media/IMG_20210624_115718.jpg" class="img-fluid" alt="Local children competed in their own sledge competition">{{ page.image-descr2 }}</div>
         <p>Franz Czerny notes in his <a href="#" class="link-info" data-toggle="tooltip" title="The article was featured in the Austrian workers gymnastics and sports newspaper, Österreichische Arbeiter Turn- und Sport-Zeitung">article</a> <span class="source"><a href="#" class="translation" data-toggle="tooltip" title="The youth question">Zur Jugendfrage</a></span> that many potential members of working-class youth clubs tend to choose the German national training groups which are located in bigger cities, particularly if they come from a <a href="#" class="translation" data-toggle="tooltip" title="a job that require more thinking than physical strength">“Intelligenzberuf”</a> working class background. These youngsters choose to continue their education at a commercial college instead of starting an apprenticeship locally. Other groups of teenagers and children are deemed too unruly because of their poor upbringing or too lazy to be attracted to more rigid sports clubs. Either way, Czerny points out that binding the young to club can guarantee votes in elections in the years to come (1931, p.39) because the young people are socialised in a socialist value system.</p>
         <div class="resources">
-            <div class="resource-title">Resources:</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Der Triumph der Nordländer bei der Winterolympiade. <span id="source">Der Abend</span> 9 Feb 1931, p. 10</li>
                     <li>Czery, F., 1931. Zur Jugendfrage. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span> 4/8th year, April 1931, pp.39-40.</li>
                     <li>Deutsch, J., 1931. Wir grüßen euch! <span id="source">Festführer</span>, p. 5</li>
                 </ul>
-            <div class="resource-title">Pictures:</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Peter Ganster.(Winter!Sport!Museum!, Mürzzuschlag)</li>
                     <li>Photo Ingbro, 1931. Children carrying their equipment. (Winter!Sport!Museum!, Mürzzuschlag)</li>

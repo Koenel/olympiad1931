@@ -1,7 +1,7 @@
 ---
 layout: participant
 title: Eisschießen
-category: education
+category: Bildung
 guide: participant
 tag: Ski jump
 year: 1931
@@ -40,14 +40,14 @@ abstract: Die Athleten waren eingeladen an einem ortstypischen Wettkampf, Eissch
   <h2>Mit den lokalen Traditionen in Kontakt kommen</h2>
   <p>Ein Freundschaftsspiel wurde für den letzten Tag der Olympiade geplant, um das Eisschießen vorzuführen und gemeinsam Spaß zu haben. Die Tradition in nicht-internationalen Sportarten gegeneinander anzutreten, sondern regionalen Sport zu zeigen, gibt es noch heute. Zum Beispiel traten Wettkämpfer und Wettkämpferinnen bei den (früher bürgerlichen) Olympischen Sommerspielen in Tokio 2021 im Karate gegeneinander an. <a href="#" class="link-info" data-toggle="tooltip" title="Technischer Leiter der Veranstaltung">Theodor Hüttenegger</a> stellte aber 1931 fest, dass nicht jeder von den lokalen Traditionen überzeugt war, denn sie waren oft Anlass für schamlosen Scherz, Wetten und Trinkgelage (<span class="quote">Hüttenegger, p.4,5</span>). Die sozialistische Bewegung verurteilte exzessives Verhalten als unangemessen, besonders Trinken, Rauchen und andere ausufernde Verhaltensweisen als etwas, das der gebildeten Arbeiterschaft nicht würdig ist, denn “Arbeitersportler halten bei ihren Veranstaltungen Ordnung und Disziplin" (<span class="quote"> Gastgeb, 1931, S.19</span>).</p>
     <div class="resources">
-      <div class="resource-title">Quellen:</div>
+      <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
           <ul>
               <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
               <li>Hüttenegger, T., 1931. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931, pp.4-5.</li>
           </ul>
     </div>
     <div class="resources">
-      <div class="resource-title">Bilder:</div>
+      <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
           <ul>
             <li>Anon, 1931. Siegermannschaft im Eisschießen [Winter!Sport!Museum!, Mürzzuschlag)</li>
           </ul>

@@ -40,14 +40,14 @@ abstract: The athletes were invited to partake in a local sport as a symbol of i
   <h2>Engaging with local specialities</h2>
   <p>A friendly game between the international athletes was planned for the last day of the Olympiad to showcase the sport and enjoy each other’s company. This tradition to compete in non-international, local sports can still be found today, for example Karate in the 2021 summer Olympics in Tokyo. However, <a href="#" class="link-info" data-toggle="tooltip" title="technical organiser of the event">Theodor Hüttenegger</a> notes that not everybody agrees with the tradition, as it can become ruthless and full of banter, including gambling for money and excessive drinking (<span class="quote">Hüttenegger, p.4,5</span>). The socialist movement frowned upon excessiveness, particularly in drinking, smoking and other excessive behaviour as something that is not worthy of the educated member of the working-class because <a href="#" class="translation" data-toggle="tooltip" title="worker sports men behave disciplined and orderly at their events">“Arbeitersportler halten bei ihren Veranstaltungen Ordnung und Disziplin"</a> (<span class="quote"> Gastgeb, 1931, p.19</span>).</p>
     <div class="resources">
-      <div class="resource-title">Resources:</div>
+      <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
           <ul>
               <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
               <li>Hüttenegger, T., 1931. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931, pp.4-5.</li>
           </ul>
     </div>
     <div class="resources">
-      <div class="resource-title">Pictures:</div>
+      <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
           <ul>
             <li>Anon, 1931. Siegermannschaft im Eisschießen [Winter!Sport!Museum!, Mürzzuschlag)</li>
           </ul>

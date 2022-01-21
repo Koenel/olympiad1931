@@ -1,20 +1,20 @@
 ---
 layout: spectator
-title: Women in skating
+title: Women in Skating
 category: equality
 guide: spectator
 tag: women's skating
 year: 1931
 medium: photograph
 image-path: /../media/IMG_20210624_123823.jpg
-image-descr: Elfriede Gönner figures skates to victory in the women'solo competition.
+image-descr: Elfriede Gönner won the women's figure scating competition.
 image-path2: ../media/IMG_20210624_123845.jpg
-image-descr2: Elfriede Gönner and her partner Rudolf Lang won the couple competition on Saturday, 7th February 1931.
+image-descr2: Elfriede Gönner and her partner Rudolf Lang won the couple competition on Saturay, 7th February 1931.
 references: N/A
 lang: en
 ref: equ-spe
 index: 3
-abstract: Women had only recently started to compete in major competitions. At the Olympics in Mürzzuschlag, women competeted in nordic skiing and figure skating.
+abstract: Women had only recently started to partake in major competitions. At the Olympiad in Mürzzuschlag, women competeted in nordic skiing and figure skating.
 ---
 <body>
     <div class="infotext">
@@ -25,7 +25,7 @@ abstract: Women had only recently started to compete in major competitions. At t
         <div class="grid-item" id="exhibit-image"><img src="../media/IMG_20210624_123845.jpg" class="img-fluid" alt="{{ page.image-descr2 }}">{{ page.image-descr2 }}</div>
         <p>Prior to the ice-skating competitions that would take place on Friday, 6th February, the organisers worried about the weather conditions. While it had been snowing considerably more than expected, temperatures rose, so that the ice on the rink was in danger of melting and becoming too bumpy for the competitions. Luckily, the temperatures dropped overnight and all events could take place. Visitors did not have to commute to the alternative venue in <a href="#" class="link-info" data-toggle="tooltip" title="Mödling is on the same train line as Mürzzuschlag, but much closer to Vienna and could only provide ice rinks.">Mödling</a>, roughly 90km north-east of Mürzzuschlag. (<span class="quote">Das Kleine Blatt</span>, 6 Feb 1931, p.3).</p>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Resources</div>
+            <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Tomlinson, A., 2010. Henie, Sonja. <span id="source">A Dictionary of Sports Studies</span>. Oxford, Oxford University Press. [online] Available at: <a href="https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568">https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568</a> [Accessed: 3 September 2021] </li>
                     <li>Anon, 1931. Die Eislaufwettbewerbe. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 2/8th year, February 1931, pp.16-17.</li>
@@ -34,7 +34,7 @@ abstract: Women had only recently started to compete in major competitions. At t
                 </ul>
         </div>
         <div class="grid-item" class="resources">
-            <div class="resource-title">Pictures</div>
+            <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Gönner Elfriede competes in ice scating (Winter!Sport!Museum!, Mürzzuschlag)</li>
                     <li>Anon, 1931. Pair skating on 7th February 1931, winners Gönner Elfriede and Lang Rudolf (Winter!Sport!Museum!, Mürzzuschlag)</li>

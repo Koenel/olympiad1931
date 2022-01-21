@@ -11,9 +11,48 @@ pics:
   en: Pictures
   de: Bilder
 # snippets for collections
-cls-str:
-  en: class struggle
-  de: Klassenkampf
-edu:
-  en: education
-  de: Bildung
+date:
+  en: Date
+  de: Datum
+venue:
+  en: Venue
+  de: Veranstaltungsort
+entert:
+  en: Entertainment
+  de: Programm
+# dates
+feb5:
+  en: 5th February
+  de: 5. Februar
+feb6:
+  en: 6th February
+  de: 6. Februar
+feb7:
+  en: 7th February
+  de: 7. Februar
+feb8:
+  en: 8th February
+  de: 8. Februar
+# time
+pm8:
+  en: 8pm
+  de: 20 Uhr
+pm7:
+  en: 7pm
+  de: 19 Uhr
+pm6:
+  en: 6pm
+  de: 18 Uhr
+pm4:
+  en: 4pm
+  de: 16 Uhr
+  #snippets for pathways
+view:
+  en: You're viewing the topic
+  de: Sie befinden sich im Thema
+in:
+  en: in the
+  de: im
+guide:
+  en: guide pathway
+  de: Leitfaden
