@@ -46,7 +46,7 @@ pm6:
 pm4:
   en: 4pm
   de: 16 Uhr
-  #snippets for pathways
+#snippets for pathways
 view:
   en: You're viewing the topic
   de: Sie befinden sich im Thema

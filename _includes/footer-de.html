@@ -1,0 +1,45 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+      <link href="../assets/footer.css" rel="stylesheet">
+      <h2 class="footer-heading">Ein KCL Abschlussprojekt, 2021</h2>
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li class="p-name">
+              {%- if site.author -%}
+                {{ site.author | escape }}
+              {%- else -%}
+                {{ site.title | escape }}
+              {%- endif -%}
+              </li>
+              {%- if site.email -%}
+              <li>Kontakt: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {%- endif -%}
+          </ul>
+        </div>
+        <div class="footer-col footer-col-3">
+          <p>{{- site.description | escape -}}</p>
+        </div>
+      </div>
+  
+    </div>
+  
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+<!--initiates popovers-->
+    <script>
+      $(document).ready(function () {
+        $('[data-toggle="popover"]').popover();
+      });
+    </script>
+    <script>
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      });
+    </script>
+  </body>
+</footer>
