@@ -1,8 +1,8 @@
 ---
-layout: spectator
-title: Evening entertainment
+layout: spectator-de
+title: Abendunterhaltung
 category: Bildung
-guide: spectator
+guide: Zuschauer
 tag: ticket
 year: 1931
 medium: photograph

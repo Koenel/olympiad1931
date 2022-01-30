@@ -1,8 +1,8 @@
 ---
-layout: participant
+layout: participant-de
 title: Eisschießen
 category: Bildung
-guide: participant
+guide: Teilnehmende
 tag: Ski jump
 year: 1931
 medium: photograph

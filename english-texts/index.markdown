@@ -5,6 +5,7 @@ permalink: /home/
 language: en
 finder: home
 ---
+<!--users return to this page to access the pathways. the "a href" links lead to topical areas that can be accessed from the header menu too.-->
 <div class="home-content" class="mx-auto">
     <div class="d-flex flex-row">
         <div class="col-sm-4">

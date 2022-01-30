@@ -1,8 +1,8 @@
 ---
-layout: spectator
+layout: spectator-de
 title: Damen im Eislauf
 category: Gleichberechtigung
-guide: spectator
+guide: Zuschauer
 tag: women's skating
 year: 1931
 medium: photograph

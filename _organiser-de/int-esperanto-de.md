@@ -1,8 +1,8 @@
 ---
-layout: organiser-grid
+layout: organiser-grid-de
 title: Esperanto, eine gemeinsame Sprache
 category: Internationale
-guide: organiser
+guide: Organisatoren
 tag: esperanto
 year: 1931
 medium: photograph

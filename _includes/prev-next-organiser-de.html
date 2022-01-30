@@ -1,7 +1,7 @@
 <!--Enables goign back and forth between the articles in the pathway. The order depends on the index number that has been assigned to each article. Taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid-->
 
 <!--<div class="navigation"></div>-->
-{% for object in site.organiser %}
+{% for object in site.organiser-de %}
     {% assign next = page.index | plus: 1 %}
     {% assign prev = page.index | minus: 1 %}
     {% if prev == object.index %}
@@ -17,7 +17,7 @@
         {% if prevpage %}
         <a href="{{ prevpage.url }}" class="prevbutton">{{ prevpage.category }}</a>
         {% else %}
-        <a href="/spectator-landing.html" class="overviewbutton">Back to Overview</a>
+        <a href="/spectator-landing.html" class="overviewbutton">Zurück zur Übersicht</a>
         {% endif %}
     </button>
 </div>
@@ -27,7 +27,7 @@
         {% if nextpage %}
         <a href="{{ nextpage.url }}" class="nextbutton">{{nextpage.category }}</a>
         {% else %}
-        <a href="/spectator-landing.html" class="overviewbutton">Back to Overview</a>
+        <a href="/spectator-landing.html" class="overviewbutton">Zurück zur Übersicht</a>
         {% endif %}
     </button>
 </div>

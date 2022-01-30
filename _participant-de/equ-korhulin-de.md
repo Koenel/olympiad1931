@@ -1,8 +1,8 @@
 ---
-layout: participant
+layout: participant-de
 title: Frauen greifen nach Gold
 category: Gleichberechtigung
-guide: participant
+guide: Teilnehmende
 tag: Ski jump
 year: 1931
 medium: photograph

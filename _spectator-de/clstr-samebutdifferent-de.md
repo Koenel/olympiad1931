@@ -1,8 +1,8 @@
 ---
-layout: spectator
-title: Same but different
+layout: spectator-de
+title: Gleicher als die anderen
 category: Klassenkampf
-guide: spectator
+guide: Zuschauer
 tag: entertainment
 year: 1931
 medium: photograph

@@ -33,21 +33,3 @@ finder: venue
 <p><span class="information">Mürzzuschlag fulfilled all the requested criteria. First, Mürzzuschlag is situated roughly 100km south of Vienna and 100km north of Graz, two major Austrian cities and on a major train line, the <a href="#" class="translation" data-toggle="tooltip" title="Southern train route">Südbahn</a>. Situated at the Eastern outskirts of the alps, the town is surrounded by mountains higher than 1000m that had very good chances to be covered snow every winter.</span></p> 
 <p><span class="information">Second, Mürzzuschlag had already had some experience in hosting major winter events. In 1893, Toni Schruf, who supported also the Olympiad in 1931, initiated the first winter games that were one of the first in Europe to promote skiing which was then still a novelty for the rich bourgeoise. By 1931, skiing had become a sport that the working class took an interest in too. Theodor Hüttenegger, the leader of the local technical committee, could provide sufficient knowledge of the area and infrastructure to organise and plan a major event like this.</span></p>
 <p><span class="information">Third, the town’s 8000 strong population had voted a predominantly social democratic municipal council, and many members of the public were members of the local workers’ clubs like the football, gymnastics and cycling club, or the various singing groups and music clubs that supported the Olympiad’s evening events.</span></p>
-
-
-
-
-
-
-<!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll-->

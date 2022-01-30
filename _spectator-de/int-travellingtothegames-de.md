@@ -1,8 +1,8 @@
 ---
-layout: spectator
-title: Die Anreise zu den Spieln und ein Symbol der Solidarität
+layout: spectator-de
+title: Die Anreise zu den Spielen und ein Symbol der Solidarität
 category: Internationale
-guide: spectator
+guide: Zuschauer
 tag: ticket
 year: 1931
 medium: photograph
