@@ -1,5 +1,5 @@
 ---
-layout: organiser-grid
+layout: organiser-grid-de
 title: Der Tod des Otto Schwarz
 category: Solidarität
 guide: Organisatoren

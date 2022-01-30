@@ -1,5 +1,5 @@
 ---
-layout: spectator
+layout: spectator-de
 title: Die Anreise zu den Spielen und ein Symbol der Solidarität
 category: Internationale
 guide: Zuschauer

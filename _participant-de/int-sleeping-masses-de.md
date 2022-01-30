@@ -1,5 +1,5 @@
 ---
-layout: participant
+layout: participant-de
 title: Für jeden ein Bett
 category: Internationale
 guide: Teilnehmende

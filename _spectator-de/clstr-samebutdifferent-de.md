@@ -1,5 +1,5 @@
 ---
-layout: spectator
+layout: spectator-de
 title: Gleicher als die anderen
 category: Klassenkampf
 guide: Zuschauer

@@ -7,7 +7,7 @@ finder: resources
 ---
 
 <h1> Resources </h1>
-<p>Resources can be found below each text or here, in alphabetical order.</p>
+<p>Resources can be found below each text or here.</p>
 <h2>Paramilitary presence at the Olympics</h2>
 <div>
     <ul>
@@ -183,7 +183,7 @@ finder: resources
         <li>Anon, 1931. Train station in Mürzzuschlag. (<span id="source">Volkssport</span>, 15 February 1931, p. 2)</li>
         <li><h3>Ticket to join the Summer Olympiad and discounts for train services</h3></li>
         <li>Aktionsausschuss, 1931. Festteilnehmerkarte. (Winter!Sport!Museum!, Mürzzuschlag)</li>
-        <li><h3>Caricature of competition winne Talsi</h3></li>
+        <li><h3>Caricature of competition winner Talsi</h3></li>
         <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
         <li><h3>Talsi jumps to victory</h3></li>
         <li>Anon, 1931. Talsi jumps to victory. (Winter!Sport!Museum!, Mürzzuschlag)</li>
@@ -191,4 +191,3 @@ finder: resources
         <li>Photo Ingbro, 1931. Final parade with political figures. (Winter!Sport!Museum!, Mürzzuschlag)</li>
     </ul>  
 </div>
-</body>

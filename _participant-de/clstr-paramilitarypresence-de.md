@@ -1,5 +1,5 @@
 ---
-layout: participant
+layout: participant-de
 title: Paramilitärische Präsenz bei der Olympiade
 category: Klassenkampf
 guide: Teilnehmende

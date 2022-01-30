@@ -1,5 +1,5 @@
 ---
-layout: participant
+layout: participant-de
 title: Idealismus und Einsatz
 category: Solidarität
 guide: Teilnehmende

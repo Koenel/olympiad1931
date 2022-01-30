@@ -1,5 +1,5 @@
 ---
-layout: spectator
+layout: spectator-de
 title: Damen im Eislauf
 category: Gleichberechtigung
 guide: Zuschauer

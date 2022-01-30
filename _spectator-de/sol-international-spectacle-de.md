@@ -1,5 +1,5 @@
 ---
-layout: spectator
+layout: spectator-de
 title: Ein internationales Spektakel
 category: Solidarität
 guide: Zuschauer

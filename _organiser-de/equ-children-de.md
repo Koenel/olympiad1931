@@ -1,5 +1,5 @@
 ---
-layout: organiser-grid
+layout: organiser-grid-de
 title: Kinder bei der Olympiade
 category: Gleichberechtigung
 guide: Organisatoren

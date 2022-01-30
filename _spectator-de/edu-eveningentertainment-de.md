@@ -1,6 +1,6 @@
 ---
-layout: spectator
-title: Evening entertainment
+layout: spectator-de
+title: Abendunterhaltung
 category: Bildung
 guide: Zuschauer
 tag: ticket

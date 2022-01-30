@@ -1,6 +1,6 @@
 ---
-layout: organiser-grid
-title: Eine starke Arbeiterplattform zum Schutze der Demokratie
+layout: organiser-grid-de
+title: Eine starke Arbeiterschaft zum Schutze der Demokratie
 category: Klassenkampf
 guide: Organisatoren
 tag: Julius Deutsch

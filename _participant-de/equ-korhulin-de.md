@@ -1,5 +1,5 @@
 ---
-layout: participant
+layout: participant-de
 title: Frauen greifen nach Gold
 category: Gleichberechtigung
 guide: Teilnehmende

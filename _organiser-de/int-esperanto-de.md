@@ -1,5 +1,5 @@
 ---
-layout: organiser-grid
+layout: organiser-grid-de
 title: Esperanto, eine gemeinsame Sprache
 category: Internationale
 guide: Organisatoren

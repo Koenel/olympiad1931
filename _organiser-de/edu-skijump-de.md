@@ -1,6 +1,6 @@
 ---
-layout: organiser-grid
-title: Wissen teilen
+layout: organiser-grid-de
+title: Wissen weitergeben
 category: Bildung
 guide: Organisatoren
 tag: Ski jump
