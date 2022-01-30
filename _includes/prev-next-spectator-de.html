@@ -1,0 +1,35 @@
+<!--These buttons allow to navigate in the pathways from one article to the next. The order depends on the index number that has been assigned to each article.
+taken from: https://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid-->
+<!--<div class="navigation"></div>-->
+{% for object in site.spectator %}
+    {% assign next = page.index | plus: 1 %}
+    {% assign prev = page.index | minus: 1 %}
+    {% if prev == object.index %}
+        {% assign prevpage = object %}
+    {% endif %}
+    {% if next == object.index %}
+        {% assign nextpage = object %}
+    {% endif %}
+{% endfor %}
+
+<div class="button-nav-collection">
+    <div class="button-prevpage">
+        <button type="button" class="btn btn-md">
+            {% if prevpage %}
+            <a href="{{ prevpage.url }}" class="prevbutton">{{ prevpage.category }}</a>
+            {% else %}
+            <a href="/spectator-landing.html" class="overviewbutton">Zurück zur Übersicht</a>
+            {% endif %}
+        </button>
+    </div>
+
+    <div class="button-nextpage">
+        <button type="button" class="btn btn-md">
+            {% if nextpage %}
+            <a href="{{ nextpage.url }}" class="nextbutton">{{nextpage.category }}</a>
+            {% else %}
+            <a href="/spectator-landing.html" class="overviewbutton">Zurück zur Übersicht</a>
+            {% endif %}
+        </button>
+    </div>
+</div>
