@@ -7,7 +7,7 @@
     Candidate number: AC 58174
 
 
-    (if applicable) URL of webpage: https://workerswinterolympiad1931.netlify.app/hello/
+    URL of webpage: https://workerswinterolympiad1931.netlify.app/hello/
 
 
     Submission date: 30th January 2022
