@@ -2,7 +2,7 @@
 layout: participant
 title: Idealismus und Einsatz
 category: Solidarität
-guide: participant
+guide: Teilnehmende
 tag: Ski jump
 year: 1930
 medium: photograph

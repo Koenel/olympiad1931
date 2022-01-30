@@ -1,21 +1,21 @@
 <!--code for creating thumbnail cards for objects. These are ordered by categories that were allocated to each text in every collection-->
 <div class="row-collection">
-    <div class="column-collection">{% assign edus = site.participant | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/IMG_20210624_122209.jpg" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.participant-de | where: "category", "Gleichberechtigung" %}
+        <div class="img"><img src="../media/ester_korholin_autographs_for_austrian_ice_hockey.png" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
-    <div class="column-collection">{% assign edus = site.spectator | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/IMG_20210624_120732.jpg" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.spectator-de | where: "category", "Gleichberechtigung" %}
+        <div class="img"><img src="../media/IMG_20210624_123845.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
-    <div class="column-collection">{% assign edus = site.organiser | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/julius_deutsch_filmstill_10.11.png" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.organiser-de | where: "category", "Gleichberechtigung" %}
+        <div class="img"><img src="../media/IMG_20210624_115728.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>

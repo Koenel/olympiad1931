@@ -1,21 +1,21 @@
 <!--code for creating thumbnail cards for objects. These are ordered by categories that were allocated to each text in every collection-->
 <div class="row-collection">
-    <div class="column-collection">{% assign edus = site.participant | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/IMG_20210624_122209.jpg" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.participant-de | where: "category", "Bildung" %}
+        <div class="img"><img src="../media/eisstock.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
-    <div class="column-collection">{% assign edus = site.spectator | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/IMG_20210624_120732.jpg" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.spectator-de | where: "category", "Bildung" %}
+        <div class="img"><img src="../media/IMG_20210624_113052.jpg" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>
         {% endfor %}</div>
 
-    <div class="column-collection">{% assign edus = site.organiser | where: "category", "class struggle" %}
-        <div class="img"><img src="../media/julius_deutsch_filmstill_10.11.png" class="img-thumbnail" width="60%"></div>
+    <div class="column-collection">{% assign edus = site.organiser-de | where: "category", "Bildung" %}
+        <div class="img"><img src="../media/oatsz_ski_jump_pic4-clinometer.png" class="img-thumbnail" width="60%"></div>
         {% for object in edus %}
             <a href="{{ object.url }}">{{ object.title }}</a>
             <div class="abstract-text">{{ object.abstract }}</div>

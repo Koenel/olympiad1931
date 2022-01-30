@@ -2,7 +2,7 @@
 layout: organiser-grid
 title: Der Tod des Otto Schwarz
 category: Solidarität
-guide: organiser
+guide: Organisatoren
 tag: death
 year: 1931
 medium: photograph
@@ -13,7 +13,7 @@ image-descr2: Das Gebiet um Mürzzuschlag. Die Umgebung, wo Otto Schwarz verungl
 lang: de
 ref: sol-org
 index: 5
-abstract: Unglücklicherweise verlor der Sportler Otto Schwarz sein Leben nach einem unerwartet schweren Unfall, der den schlechten Witterungsbedingungen geschuldet war
+abstract: Unglücklicherweise verlor der Sportler Otto Schwarz sein Leben nach einem unerwartet schweren Unfall, der den schlechten Witterungsbedingungen geschuldet war.
 ---
 <body>
     <div class="infotext">

@@ -2,7 +2,7 @@
 layout: organiser-grid
 title: Wissen teilen
 category: Bildung
-guide: organiser
+guide: Organisatoren
 tag: Ski jump
 year: 1932
 medium: photograph

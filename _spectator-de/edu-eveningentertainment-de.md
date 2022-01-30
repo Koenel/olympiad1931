@@ -2,7 +2,7 @@
 layout: spectator
 title: Evening entertainment
 category: Bildung
-guide: spectator
+guide: Zuschauer
 tag: ticket
 year: 1931
 medium: photograph

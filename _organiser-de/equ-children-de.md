@@ -2,7 +2,7 @@
 layout: organiser-grid
 title: Kinder bei der Olympiade
 category: Gleichberechtigung
-guide: organiser
+guide: Organisatoren
 tag: children
 year: 1931
 medium: photograph

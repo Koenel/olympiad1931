@@ -1,8 +1,8 @@
 ---
 layout: spectator
-title: An international spectacle
+title: Ein internationales Spektakel
 category: Solidarität
-guide: spectator
+guide: Zuschauer
 tag: ski jump
 year: 1931
 medium: photograph

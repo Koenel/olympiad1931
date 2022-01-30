@@ -2,7 +2,7 @@
 layout: organiser-grid
 title: Eine starke Arbeiterplattform zum Schutze der Demokratie
 category: Klassenkampf
-guide: organiser
+guide: Organisatoren
 tag: Julius Deutsch
 year: 1931
 medium: photograph

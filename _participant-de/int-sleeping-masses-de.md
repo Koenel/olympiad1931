@@ -2,7 +2,7 @@
 layout: participant
 title: Für jeden ein Bett
 category: Internationale
-guide: participant
+guide: Teilnehmende
 tag: Ski jump
 year: 1931
 medium: photograph
