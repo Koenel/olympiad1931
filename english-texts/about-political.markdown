@@ -5,6 +5,7 @@ permalink: /about-politics/
 language: en
 finder: politics
 ---
+<!--the "collection"-includes take the user to the respective articles in each category-->
 <h1>The Political Background</h1>
 <div class="information">
 <h2>The interwar period</h2>

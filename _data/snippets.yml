@@ -46,6 +46,25 @@ pm6:
 pm4:
   en: 4pm
   de: 16 Uhr
+pm3:
+  en: 3pm
+  de: 15 Uhr
+pm2:
+  en: 2pm
+  de: 14 Uhr
+pm12:
+  en: 12pm
+  de: 12 Uhr
+am11:
+  en: 11am
+  de: 11 Uhr
+am10:
+  en: 10am
+  de: 10 Uhr
+am9:
+  en: 9am
+  de: 9 Uhr
+
 #snippets for pathways
 view:
   en: You're viewing the topic
@@ -56,3 +75,64 @@ in:
 guide:
   en: guide pathway
   de: Leitfaden
+#snippets for topical pages
+available:
+  en: Available at
+  de: Verfügbar unter
+pp:
+  en: p.
+  de: S.
+ski:
+  en: Skiing
+  de: Schifahren
+jump:
+  en: Ski jump
+  de: Schispringen
+nordic:
+  en: Nordic combined
+  de: Nordische Kombination
+ice:
+  en: Ice skating
+  de: Eislauf
+luge:
+  en: Luge
+  de: Rodeln
+curl:
+  en: Alpine curling
+  de: Eisschießen
+hockey:
+  en: Ice hockey
+  de: Eishockey
+speed:
+  en: speed skating
+  de: Eisschnelllauf
+cross:
+  en: cross-country skiing
+  de: Langlauf
+fig:
+  en: solo figure skating
+  de: Eiskunstlauf Einzel
+pair:
+  en: pair skating
+  de: Paarlauf
+ger:
+  en: Germany
+  de: Deutschland
+aut:
+  en: Austria
+  de: Österreich
+fin:
+  en: Finland
+  de: Finnland
+lat:
+  en: Latvia
+  de: Lettland
+hun:
+  en: Hungary
+  de: Ungarn
+men:
+  en: Men's
+  de: Männer
+women:
+  en: Women's
+  de: Frauen

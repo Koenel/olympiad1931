@@ -5,6 +5,7 @@ permalink: /about-politics-de/
 language: de
 finder: politics
 ---
+<!--the "collection"-includes take the user to the respective articles in each category-->
 <h1>Der politische Hintergrund</h1>
 <div class="information">
 <h2>Die Zwischenkriegszeit</h2>

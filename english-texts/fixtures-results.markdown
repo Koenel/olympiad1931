@@ -11,13 +11,14 @@ finder: results
     <p>Overall, 21 competitions were held from <b>5th February</b> until <b>8th February 1931</b>. Athletes from six nations, Finland, Latvia, Germany, Austria, Hungary, Czechoslovakia, competed against each other. In addition, non-sportive events like concerts, parades and public speeches were added to the programme.</p>
     <p>Men and women competed in the Olympics, but not all disciplines were open to both sexes. Also, not every nation competed in every discipline because some nations did not send athletes who were skilled enough to participate in the discipline. There were five different kinds of sports and combined disciplines.</p>
 </div>
+<!--this results table uses the data from snippets.yml-->
 <div class="facts-list">
     <ul>
-        <li>Skiing</li>
-        <li>Ice hockey</li>
-        <li>Ski Jumping</li>
-        <li>Ice skating</li>
-        <li>Luge</li>
+        <li>{{ site.data.snippets.ski[page.language] }}</li>
+        <li>{{ site.data.snippets.hockey[page.language] }}</li>
+        <li>{{ site.data.snippets.jump[page.language] }}</li>
+        <li>{{ site.data.snippets.ice[page.language] }}</li>
+        <li>{{ site.data.snippets.luge[page.language] }}</li>
     </ul>
 </div>
 <h2>Results</h2>
@@ -39,178 +40,178 @@ finder: results
         </thead>
         <tbody>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>5th February 1931, 11am</td>
-                <td><b>15km men's cross-country skiing</b></td>
-                <td>Norojäroi Hejki, Finland</td>
-                <td>Salminen Matti, Finland</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb5[page.language] }} 1931, {{ site.data.snippets.am11[page.language] }}</td>
+                <td><b>15km {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.cross[page.language] }}</b></td>
+                <td>Norojäroi Hejki, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Salminen Matti, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>5th February 21931, 11am</td>
-                <td><b>15km men's cross country skiing for nordic combined</b></td>
-                <td>Heß Max, Germany</td>
-                <td>Talsi Arbo, Finland</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb5[page.language] }} 1931, {{ site.data.snippets.am11[page.language] }}</td>
+                <td><b>15km {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.cross[page.language] }} for {{ site.data.snippets.nordic[page.language] }}</b></td>
+                <td>Heß Max, {{ site.data.snippets.ger[page.language] }}</td>
+                <td>Talsi Arbo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ski jump</th>
-                <td>7th February 1931, 2pm</td>
-                <td><b>Men's ski jump for nordic combined</b></td>
+                <th scope="row">{{ site.data.snippets.jump[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>{{ site.data.snippets.men[page.language] }} {{ site.data.snippets.jump[page.language] }} for {{ site.data.snippets.nordic[page.language] }}</b></td>
                 <td>Häusler Gustav, Germany</td>
-                <td>Talsi Arbo, Finland</td>
+                <td>Talsi Arbo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
                         <tr>
-                <th scope="row">Nordic combined</th>
-                <td>8th February 1931, 2pm</td>
-                <td><b>Final result nordic combined</b></td>
-                <td>Talsi Arbo, Finland</td>
-                <td>Heß Max, Germany</td>
+                <th scope="row">{{ site.data.snippets.nordic[page.language] }}</th>
+                <td>{{ site.data.snippets.feb8[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>Final result {{ site.data.snippets.nordic[page.language] }}</b></td>
+                <td>Talsi Arbo, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Heß Max, {{ site.data.snippets.ger[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>8th February 1931, 10am</td>
-                <td><b>10km men's group cross-country skiing</b></td>
-                <td>Koskelainen A., Koskelainen M., Koskelainen V., Finland</td>
-                <td>Viherieletto, Vakarri, Salminen, Finland</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb8[page.language] }} 1931, {{ site.data.snippets.am10[page.language] }}</td>
+                <td><b>10km {{ site.data.snippets.men[page.language] }} group cross-country skiing</b></td>
+                <td>Koskelainen A., Koskelainen M., Koskelainen V., {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Viherieletto, Vakarri, Salminen, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>6th February 1931, 12pm</td>
-                <td><b>10km men's downhill race</b></td>
-                <td>Manhardt Karl, Germany</td>
-                <td>Berner Franz, Austria</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.pm12[page.language] }}</td>
+                <td><b>10km {{ site.data.snippets.men[page.language] }} downhill race</b></td>
+                <td>Manhardt Karl, {{ site.data.snippets.ger[page.language] }}</td>
+                <td>Berner Franz, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>5th February 1931, 2pm</td>
-                <td><b>3km men's obstacle race</b></td>
-                <td>Salminen Matti, Finland</td>
-                <td>Manhardt Karl, Germany</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb5[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>3km {{ site.data.snippets.men[page.language] }} obstacle race</b></td>
+                <td>Salminen Matti, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Manhardt Karl, {{ site.data.snippets.ger[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ski jump</th>
-                <td>8th February 1931, 2pm</td>
-                <td><b>Men's main ski jump</b></td>
-                <td>Häusler Gustav, Germany</td>
-                <td>Talsi Arbo, Finland</td>
+                <th scope="row">{{ site.data.snippets.jump[page.language] }}</th>
+                <td>{{ site.data.snippets.feb8[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>{{ site.data.snippets.men[page.language] }} main ski jump</b></td>
+                <td>Häusler Gustav, {{ site.data.snippets.ger[page.language] }}</td>
+                <td>Talsi Arbo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>7th February 1931, 10am</td>
-                <td><b>8km men's group competition for military sportsmen (Wehrturner) with luggage</b></td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.am10[page.language] }}</td>
+                <td><b>8km {{ site.data.snippets.men[page.language] }} group competition for military sportsmen (Wehrturner) with luggage</b></td>
                 <td>Wehrturner Innsbruck</td>
                 <td>Wehrturner Mürzzuschlag</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>7th February 1931, 9am</td>
-                <td><b>6km women's cross-country skiing</b></td>
-                <td>Latinen Impi, Finland</td>
-                <td>Korholin Ester, Finland</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>6km {{ site.data.snippets.women[page.language] }} {{ site.data.snippets.cross[page.language] }}</b></td>
+                <td>Latinen Impi, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Korholin Ester, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Skiing</th>
-                <td>6th February 1931, 10am</td>
-                <td><b>4km women's cross-country skiing</b></td>
-                <td>Latinen Impi, Finland </td>
-                <td>Korholin Ester, Finland</td>
+                <th scope="row">{{ site.data.snippets.ski[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.am10[page.language] }}</td>
+                <td><b>4km {{ site.data.snippets.women[page.language] }} {{ site.data.snippets.cross[page.language] }}</b></td>
+                <td>Latinen Impi, {{ site.data.snippets.fin[page.language] }} </td>
+                <td>Korholin Ester, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>6th February 1931, 9am</td>
-                <td><b>500m men's speed skating</b></td>
-                <td>Virtanen Pavo, Finland</td>
-                <td>Pihl Viljo, Finland</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>500m {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.speed[page.language] }}</b></td>
+                <td>Virtanen Pavo, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Pihl Viljo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>7th February 1931, 10am</td>
-                <td><b>1500m men's speed skating</b></td>
-                <td>Virtanen Pavo, Finland</td>
-                <td>Pihl Viljo, Finland</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.am10[page.language] }}</td>
+                <td><b>1500m {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.speed[page.language] }}</b></td>
+                <td>Virtanen Pavo, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Pihl Viljo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>6th February 1931, 9am</td>
-                <td><b>5000m men's speed skating</b></td>
-                <td>Pihl Viljo, Finland</td>
-                <td>Virtanen Pavo, Finland</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>5000m {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.speed[page.language] }}</b></td>
+                <td>Pihl Viljo, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Virtanen Pavo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>7th February 1931, 10am</td>
-                <td><b>10000m men's speed skating</b></td>
-                <td>Pihl Viljo, Finland</td>
-                <td>Virtanen Pavo, Finland</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.am10[page.language] }}</td>
+                <td><b>10000m {{ site.data.snippets.men[page.language] }} {{ site.data.snippets.speed[page.language] }}</b></td>
+                <td>Pihl Viljo, {{ site.data.snippets.fin[page.language] }}</td>
+                <td>Virtanen Pavo, {{ site.data.snippets.fin[page.language] }}</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>6th February 1931, 9am</td>
-                <td><b>Men's solo figure skating</b></td>
-                <td>Schlichtinger, Austria</td>
-                <td>Vielniek, Latvia</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>{{ site.data.snippets.men[page.language] }} {{ site.data.snippets.fig[page.language] }}</b></td>
+                <td>Schlichtinger, {{ site.data.snippets.aut[page.language] }}</td>
+                <td>Vielniek, {{ site.data.snippets.lat[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>6th February 1931, 9am</td>
-                <td><b>Women's solo figure skating</b></td>
-                <td>Gönner, Austria</td>
-                <td>Ronay, Austria</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>{{ site.data.snippets.women[page.language] }} {{ site.data.snippets.fig[page.language] }}</b></td>
+                <td>Gönner, {{ site.data.snippets.aut[page.language] }}</td>
+                <td>Ronay, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>7th February 1931, 9am</td>
-                <td><b>Pair skating</b></td>
-                <td>Gönner-Lang, Austria</td>
-                <td>Trimmel-Scherikirs, Austria</td>
+                <th scope="row">{{ site.data.snippets.ice[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.am9[page.language] }}</td>
+                <td><b>{{ site.data.snippets.pair[page.language] }}</b></td>
+                <td>Gönner-Lang, {{ site.data.snippets.aut[page.language] }}</td>
+                <td>Trimmel-Scherikirs, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Ice skating</th>
-                <td>6th February 1931, 2pm and 7th February 1931, 3pm</td>
-                <td><b>Ice hockey</b></td>
-                <td>Austria</td>
-                <td>Latvia</td>
+                <th scope="row">{{ site.data.snippets.hockey[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }} und {{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.pm3[page.language] }}</td>
+                <td><b>{{ site.data.snippets.hockey[page.language] }}</b></td>
+                <td>{{ site.data.snippets.aut[page.language] }}</td>
+                <td>{{ site.data.snippets.lat[page.language] }}</td>
                 <td>Yes</td>
             </tr>
             <tr>
-                <th scope="row">Luge</th>
-                <td>6th February 1931, 2pm</td>
-                <td><b>Men's solo luge</b></td>
-                <td>Brunner Hubert, Austria</td>
-                <td>Hintermüller Franz, Austria</td>
+                <th scope="row">{{ site.data.snippets.luge[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>{{ site.data.snippets.men[page.language] }} solo luge</b></td>
+                <td>Brunner Hubert, {{ site.data.snippets.aut[page.language] }}</td>
+                <td>Hintermüller Franz, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Luge</th>
-                <td>6th February 1931, 2pm</td>
-                <td><b>Women's solo luge</b></td>
-                <td>Greier Gusti, Austria</td>
-                <td>Stanek Elise, Austria</td>
+                <th scope="row">{{ site.data.snippets.luge[page.language] }}</th>
+                <td>{{ site.data.snippets.feb6[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>{{ site.data.snippets.women[page.language] }} solo luge</b></td>
+                <td>Greier Gusti, {{ site.data.snippets.aut[page.language] }}</td>
+                <td>Stanek Elise, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>No</td>
             </tr>
             <tr>
-                <th scope="row">Alpine curling</th>
-                <td>7th February 1931, 2pm</td>
-                <td><b>Alpine curling</b></td>
-                <td>Club Wartberg, Austria</td>
+                <th scope="row">{{ site.data.snippets.curl[page.language] }}</th>
+                <td>{{ site.data.snippets.feb7[page.language] }} 1931, {{ site.data.snippets.pm2[page.language] }}</td>
+                <td><b>{{ site.data.snippets.curl[page.language] }}</b></td>
+                <td>Club Wartberg, {{ site.data.snippets.aut[page.language] }}</td>
                 <td>friendly games</td>
                 <td>No</td>
             </tr>

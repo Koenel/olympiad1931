@@ -5,6 +5,7 @@ permalink: /welcome/
 language: en
 finder: welcome
 ---
+<!--users find general information about the olympiad here, when they start into the exhibition-->
 <div class="mx-auto">
     <div class="row">
         <h1 class="start-heading">{{"Welcome to the virtual Second International Workers' Winter Olympiad!" | uppercase}}</h1>
