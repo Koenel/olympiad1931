@@ -21,5 +21,5 @@ finder: home
     </div>
 </div>
 <div class="choose-path">
-    <h2 class="homeh2">Bitte wählen Sie Ihren Leitpfad</h2>
+    <h2 class="homeh2">Bitte wählen Sie Ihren Leitfaden</h2>
 </div>

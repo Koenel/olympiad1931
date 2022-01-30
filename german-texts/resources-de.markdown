@@ -20,32 +20,32 @@ finder: resources
 <h2>Eisschießen</h2>
 <div>
     <ul>
-        <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-        <li>Hüttenegger, T. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931, pp.4-5.</li>
+        <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Wien.</li>
+        <li>Hüttenegger, T. Das Eisschießen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, Januar 1931, pp.4-5.</li>
     </ul>
 </div>
 <h2>Frauen greifen nach Gold</h2>
 <div>
     <ul>
-        <li>Anon. 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
+        <li>Anon. 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 Februar 1931, p.7</li>
         <li>Anon. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
-        <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, {{ site.data.snippets.available[page.language] }} <a href="https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search</a>, 1 March 1931, p.5</li>
+        <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, {{ site.data.snippets.available[page.language] }}: <a href="https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=aiz&datum=19310301&seite=5&zoom=33&query=%22m%C3%BCrzzuschlag%22&ref=anno-search</a>, 1 March 1931, p.5</li>
     </ul>
 </div>
 <h2>Für jeden ein Bett</h2>
 <div>
     <ul>
-        <li>Anon. 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3rd February 1931, p.6</li>
-        <li>Anon. 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3</li>
-        <li>Gastgeb, H. 1931. Wohnungs- und Wirtschaftswesen. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade</span>, Vienna, p.19.</li>
-        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Anon. 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3 Februar 1931, p.6</li>
+        <li>Anon. 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3. Jahr/7, 15 Februar 1931, p.3</li>
+        <li>Gastgeb, H. 1931. Wohnungs- und Wirtschaftswesen. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Wien, p.19.</li>
+        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
     </ul>
 </div>
 <h2>Idealismus und Einsatz</h2>
 <div>
     <ul>
-        <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
-        <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
+        <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9. Jahr, Oktober 1932, pp.79-81.</li>
+        <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9. Jahr, November 1932, pp.91-92.</li>
         <li>Anon. 1931. Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p.2</li>
     </ul>
 </div>
@@ -61,35 +61,35 @@ finder: resources
 <div>
     <ul>
         <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diplomarbeit, Mainz: Johannes-Gutenberg Universität zu Mainz, Deutschland.</li>
     </ul>
 </div>
 <h2>Frauen im Eislauf</h2>
 <div>
     <ul>
         <li>Tomlinson, A., 2010. Henie, Sonja. <span id="source">A Dictionary of Sports Studies</span>. Oxford, Oxford University Press. [online] {{ site.data.snippets.available[page.language] }}: <a href="https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568">https://www.oxfordreference.com/view/10.1093/acref/9780199213818.001.0001/acref-9780199213818-e-568</a> [Accessed: 3 September 2021] </li>
-        <li>Anon, 1931. Die Eislaufwettbewerbe. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 2/8th year, February 1931, pp.16-17.</li>
-        <li>Anon. 1931. Ein Triumpf der Finnen! <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, p.14</li>
-        <li>Anon, 1931. Sieben Nationen im friedlichen Wettkampf. <span id="source">Das Kleine Blatt</span>. 37/5th year, 6 February 11931, pp.2-3</li>
+        <li>Anon, 1931. Die Eislaufwettbewerbe. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 2/8. Jahr, Februar 1931, pp.16-17.</li>
+        <li>Anon. 1931. Ein Triumpf der Finnen! <span id="source">Das Kleine Blatt</span>. 37/5. Jahr, 6 Februar 11931, p.14</li>
+        <li>Anon, 1931. Sieben Nationen im friedlichen Wettkampf. <span id="source">Das Kleine Blatt</span>. 37/5. Jahr, 6 Februar 1931, pp.2-3</li>
     </ul>
 </div>
 <h2>Die Anreise zu den Spielen und ein Symbol der Solidarität</h2>
 <div>
     <ul>
-        <li>Anon, 1931. Rundschau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport_Zeitung</span>, January 1931, p. 10</li>
-        <li>Gastgeb, H. 1931. Wichtige Bestimmungen für Fahrbegünstigungen auf den Österreich. Bundesbahnen, Aspangbahn, Graz-Köflacher und Zillertaler Bahn. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna. p. 28</li>
-        <li>Anon, 1930. Weitere Fahrbegünstigungen und Besuche der Winterolympiade.<span id="source">Der Arbeiterwille</span>, Nr 344, Graz, 15 Dec 1930, p. 4, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search</a> [accessed 29 August 2021]</li>
-        <li>Mars. 1931. Das heiß Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, No 27, 17th year, 3rd Feb 1931, p. 6, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search</a> [accessed 29 August 2021]</li>
+        <li>Anon, 1931. Rundschau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport_Zeitung</span>, Januar 1931, p. 10</li>
+        <li>Gastgeb, H. 1931. Wichtige Bestimmungen für Fahrbegünstigungen auf den Österreich. Bundesbahnen, Aspangbahn, Graz-Köflacher und Zillertaler Bahn. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Wien. p. 28</li>
+        <li>Anon, 1930. Weitere Fahrbegünstigungen und Besuche der Winterolympiade.<span id="source">Der Arbeiterwille</span>, Nr 344, Graz, 15 Dez 1930, p. 4, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19301215&seite=4&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search</a> [accessed 29 August 2021]</li>
+        <li>Mars. 1931. Das heiß Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, No 27, 17. Jahr, 3 Feb 1931, p. 6, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search">https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19310203&seite=6&zoom=33&query=%22arbeiterolympiade%22%2B%22m%C3%BCrzzuschlag%22&ref=anno-search</a> [accessed 29 August 2021]</li>
         <li>Anon, n.d. Das monatliche Gehalt eines deutschen Arbeiters 1931: 192RM, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://www.was-war-wann.de/historische_werte/monatslohn.html">https://www.was-war-wann.de/historische_werte/monatslohn.html</a></li>
     </ul>
 </div>
 <h2>Ein internationales Spektakel</h2>
 <div>
     <ul>
-        <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
+        <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 Februar 1931, p. 11</li>
         <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag, Oesterreichische Arbeiter- Turn- und Sport-Zeitung, pp. 14-19.</li>
-        <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 12</li>
-        <li>Gastgeb, H. Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Vienna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
+        <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 Februar 1931, p. 12</li>
+        <li>Gastgeb, H. Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Wien: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
     </ul>
 </div>
 <h2>Eine starke Arbeiterschaft zum Schutze der Demokratie</h2>
@@ -105,7 +105,7 @@ finder: resources
 <h2>Wissen weitergeben</h2>
 <div>
     <ul>
-        <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
+        <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9.Jahr, Oktober 1932, pp.79-81.</li>
         <li>Hüttenegger, T., 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
     </ul>
 </div>
