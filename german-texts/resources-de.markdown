@@ -136,7 +136,7 @@ finder: resources
 <div>
     <ul>
         <li><h3>Dr Julius Deutsch</h3></li>
-        <li>Anon, 1927. Dr. Julius Deutsch. <span id="source">Wikicommons, public domain</span>, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg">https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg</a></li>
+        <li>Anon, 1931. Julius Deutsch. Filmstandbild (Wiener Filmarchiv der Arbeiterbewegung, Wien)</a></li>
         <li><h3>Libelle</h3></li>
         <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
         <li><h3>Klinometer</h3></li>
@@ -144,13 +144,13 @@ finder: resources
         <li><h3>Peter Ganster</h3></li>
         <li>Anon, 1931. Peter Ganster. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Kinder tragen ihre Ausrüstung</h3></li>
-        <li>Photo Ingbro, 1931. Children carrying their equipment. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Photo Ingbro, 1931. Kinder tragen ihre Ausrüstung. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Plakat der Olympiade</h3></li>
         <li>Harnisch, W., Meiselmann, A., 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Ausweiskarte für Übersetzer</h3></li>
         <li>Wintersportmuseum, 1931. Ausweiskarte für Übersetzer, Rückseite. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Ludwig Zamenhof an seinem Schreibtisch in Warschau</h3></li>
-        <li>Matuzewski, I., 1910. Ludwig Zamenhof at his desk in Warsaw. <span id="source">Wikimedia Commons</span>. {{ site.data.snippets.available[page.language] }}:<a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
+        <li>Matuzewski, I., 1910. Ludwig Zamenhof an seinem Schreibtisch in Warschau. <span id="source">Wikimedia Commons</span>. {{ site.data.snippets.available[page.language] }}:<a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
         <li><h3>Otto Schwarz Nachruf</h3></li>
         <li>Arbeiterbund für Sport und Körperkultur in Österreich, 1931. Otto Schwarz Nachruf.(<span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, p. 4)</li>
         <li><h3>Umgebung von Mürzzuschlag</h3></li>
@@ -160,21 +160,21 @@ finder: resources
         <li><h3>Siegermannschaft im Eisschießen</h3></li>
         <li>Anon, 1931. Siegermannschaft im Eisschießen [Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Esther Korholin</h3></li>
-        <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
+        <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 Februar 1931, p.3)</li>
         <li><h3>Impi Lahtinen und Partner Heikki Korovaervi</h3></li>
-        <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Korovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span> 8 February 1931, p.11)</li>
+        <li>Das Kleine Blatt, 1931. Gewinnerin des 4km Wettbewerbs Impi Lahtinen, und der Finne Heikki Norovaervi, Gewinner des 15km Wettbewerbs, sind auch abseits der Piste ein glückliches Ehepaar (<span id="source">Das Kleine Blatt</span> 8 Februar 1931, p.11)</li>
         <li><h3>Die Ungarn in ihrem Quartier</h3></li>
         <li>Photo Ingbro, 1931. Wie die Gäste untergebracht sind: Die Ungarn in ihrem Quartier (<span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3)</li>
         <li><h3>Idealisten beim Bau der Olympiaschanze Ganzstein</h3></li>
         <li>Anon, 1930. Idealisten beim Bau der Olympiaschanze (Ganzstein) (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Holzschnitt des Fackelzugs</h3></li>
-        <li>Hüttenegger, T., Püchler. 1931. Holzschnitt des Fackelzugs (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung<span>, January 1931. p.1)</li>
+        <li>Hüttenegger, T., Püchler. 1931. Holzschnitt des Fackelzugs (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung<span>, Januar 1931. p.1)</li>
         <li><h3>Wettkämpfer nr.2 überquert die Ziellinie und Zuschauer mit Programmen in der Hand</h3></li>
-        <li>Anon, 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Anon, 1931. Wettkämpfer nr.2 überquert die Ziellinie und Zuschauer mit Programmen in der Hand(Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Eröffnung der zweiten Wintersport-Olympiade</h3></li>
-        <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Anon, 1931. Eröffnung der zweiten Wintersport-Olympiade, Begrüßung im Bezirksvertretungssaal, Vertreter und Publikum am Balkon (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Legitimationskarte für Oberlehrer Albert Knotz</h3></li>
-        <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Stadtamt Mürzzuschlag, 1931. Legitimationskarte für Oberlehrer Albert Knotz. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Gönner Elfriede beim Eiskunstlaufwettbewerb</h3></li>
         <li>Anon, 1931. Gönner Elfriede competes in ice scating (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Paarlauf am 7. Februar 1931, Gewinner Gönner Elfriede und Lang Rudolf</h3></li>
@@ -184,10 +184,10 @@ finder: resources
         <li><h3>Eintrittskarten zur Sommerolympiade und Rabatt für Zugreisen</h3></li>
         <li>Aktionsausschuss, 1931. Festteilnehmerkarte. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Karikatur des Wettkampfgewinners Talsi</h3></li>
-        <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
+        <li>Anon, 1931. Talsi, Karikatur. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
         <li><h3>Talsi springt zum Sieg</h3></li>
-        <li>Anon, 1931. Talsi jumps to victory. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Anon, 1931. Talsi springt zum Sieg. (Winter!Sport!Museum!, Mürzzuschlag)</li>
         <li><h3>Umzug am 8.Februar 1931, mit Politikern Dr Karl Renner, Julius Deutsch, Dr Eldersch</h3></li>
-        <li>Photo Ingbro, 1931. Final parade with political figures. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+        <li>Photo Ingbro, 1931. Abschlussparade mit politischen Vertretern. (Winter!Sport!Museum!, Mürzzuschlag)</li>
     </ul>  
 </div>

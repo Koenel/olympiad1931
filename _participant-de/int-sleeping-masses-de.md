@@ -23,16 +23,16 @@ abstract: In einer 8000-Seelen-Stadt war es schwierig für alle Personen Schlafm
     <div class="resources">
         <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
-                <li>Anon, 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3rd February 1931, p.6</li>
-                <li>Anon, 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3</li>
+                <li>Anon, 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3 Februar 1931, p.6</li>
+                <li>Anon, 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3. Jahr/7, 15 Februar 1931, p.3</li>
                 <li>Gastgeb, H., 1931. Wohnungs- und Wirtschaftswesen. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade</span>, Vienna, p.19.</li>
-                <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+                <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diplomarbeit, Mainz: Johannes-Gutenberg Universität zu Mainz, Deutschland.</li>
             </ul>
     </div>
     <div class="resources">
         <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
-                <li>Photo Ingbro, 1931. Wie die Gäste untergebracht sind: Die Ungarn in ihrem Quartier (<span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3)</li>
+                <li>Photo Ingbro, 1931. Wie die Gäste untergebracht sind: Die Ungarn in ihrem Quartier (<span id="source">Der Kuckuck</span>, 3. Jahr/7, 15 Februar 1931, p.3)</li>
             </ul>
     </div>
 </div>

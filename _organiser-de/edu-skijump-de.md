@@ -28,15 +28,15 @@ abstract: Nach der Olympiade teilte Theodor Hüttenegger seine Erfahrungen und s
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
-                    <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
-                    <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
+                    <li>Hüttenegger, T. 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9. Jahr, Oktober 1932, pp.79-81.</li>
+                    <li>Hüttenegger, T. 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9. Jahr, November 1932, pp.91-92.</li>
                 </ul>
         </div>
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
-                    <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
-                    <li>Anon, 1932. Clinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
+                    <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung, Oktober 1932</span>, p. 80) </li>
+                    <li>Anon, 1932. Klinometer. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung, Oktober 1932</span>, p. 80) </li>
                 </ul>
         </div>
     </div>

@@ -61,7 +61,7 @@ abstract: Der Erfolg der Olympiade 1931 hing von der Unterstützung und dem Eins
   <div class="resources">
     <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
       <ul class="resources-list">
-        <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, October 1932, pp.79-81.</li>
+        <li>Hüttenegger, T., 1932. Sprungschanzenbau. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9. Jahr, Oktober 1932, pp.79-81.</li>
         <li>Hüttenegger, T., 1932. Profilierung von Schanzen. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, No. 10/ 9th year, November 1932, pp.91-92.</li>
         <li>Anon, 1931. Sieben Nationionen im friedlichen Wettkampf. Mürzzuschlag im Zeichen der Arbeiter-Olympiade. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p.2</li>
       </ul>

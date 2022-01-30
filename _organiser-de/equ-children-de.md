@@ -32,7 +32,7 @@ abstract: Kinder waren wichtig für die sozialdemokratische Nachwuchsgewinnung. 
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Peter Ganster.(Winter!Sport!Museum!, Mürzzuschlag)</li>
-                    <li>Photo Ingbro, 1931. Children carrying their equipment. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Photo Ingbro, 1931. Kinder tragen ihre Ausrüstung. (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul> 
         </div>
     </div>

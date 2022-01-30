@@ -92,15 +92,15 @@ abstract: Die Eintrittkartenpreise waren moderat, aber der Zugang dennoch einges
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
-                    <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-                    <li>Zotter, S., 1996.<span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+                    <li>Gastgeb, H., 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Wien.</li>
+                    <li>Zotter, S., 1996.<span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diplomarbeit, Mainz: Johannes-Gutenberg Universität zu Mainz, Deutschland.</li>
                 </ul>
         </div>
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
-                    <li>Anon, 1931. Opening of the 2nd worker's olympiad, welcome at the Bezirksvertretungssaal, representative and audience on a balcony (Winter!Sport!Museum!, Mürzzuschlag)</li>
-                    <li>Stadtamt Mürzzuschlag, 1931. Legitimation and entrance permission for Albert Knotz, head teacher. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Anon, 1931. Eröffnung der zweiten Wintersport-Olympiade, Begrüßung im Bezirksvertretungssaal, Vertreter und Publikum am Balkon (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Stadtamt Mürzzuschlag, 1931. Legitimationskarte für Oberlehrer Albert Knotz. (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul>
         </div>
     </div>

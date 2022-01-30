@@ -136,7 +136,7 @@ finder: resources
 <div>
     <ul>
         <li><h3>Dr Julius Deutsch</h3></li>
-        <li>Anon, 1927. Dr. Julius Deutsch. <span id="source">Wikicommons, public domain</span>, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg">https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg</a></li>
+        <li>Anon, 1931. Julius Deutsch. Filmstandbild (Wiener Filmarchiv der Arbeiterbewegung, Wien)</a></li>
         <li><h3>Libelle</h3></li>
         <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
         <li><h3>Clinometer</h3></li>
