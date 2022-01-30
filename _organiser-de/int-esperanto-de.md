@@ -53,15 +53,15 @@ abstract: Die Arbeiterschicht wollte für ihre gemeinsamen Anliegen mit ihren Sc
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
-                    <li>Karlander, D., 2020. “Ideological indeterminacy: Worker Esperantism in 1920s Sweden“ <span id="source">Language and Communication</span> 71, pp.95-107 [online] Available at: <a href="https://doi.org/10.1016/j.langcom.2019.12.004">https://doi.org/10.1016/j.langcom.2019.12.004</a> [Accessed 10 September 2021]</li>
+                    <li>Karlander, D., 2020. “Ideological indeterminacy: Worker Esperantism in 1920s Sweden“ <span id="source">Language and Communication</span> 71, pp.95-107 [online] {{ site.data.snippets.available[page.lang] }}: <a href="https://doi.org/10.1016/j.langcom.2019.12.004">https://doi.org/10.1016/j.langcom.2019.12.004</a> [Accessed 10 September 2021]</li>
                     <li>Diez, R., 1931. Esperanto und wir Arbeiterturner. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, pp.8-9</li>
                     <li>Deutsch, J., 1931. Ni salutas vin! <span id="source">Festführer</span>, p.6</li>
                 </ul>
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Harnisch, W., Meiselmann, A., 1931. Mürzzuschlag ĉe Semmering Austrio. Print: Münster & Co, Vienna XIII (Winter!Sport!Museum!, Mürzzuschlag).</li> 
-                    <li>Anon, 1931. Identification card, back (Winter!Sport!Museum!, Mürzzuschlag).</li>
-                    <li>Matuzewski, I., 1910. Ludwig Zamenhof at his desk in Warsaw. <span id="source">Wikimedia Commons</span>. <a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
+                    <li>Anon, 1931. Identifikationskarte, back (Winter!Sport!Museum!, Mürzzuschlag).</li>
+                    <li>Matuzewski, I., 1910. Ludwig Zamenhof an seinem Schreibtisch in Warschau. <span id="source">Wikimedia Commons</span>. [online] {{ site.data.snippets.available[page.lang] }}: <a href="https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg">https://en.wikipedia.org/wiki/L._L._Zamenhof#/media/File:1910-Universo-p322-llzdet.jpg</a> [Accessed 13 October 2021]</li>
                 </ul>
         </div>
     </div>

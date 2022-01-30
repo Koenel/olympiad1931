@@ -31,18 +31,18 @@ abstract: Arbeiter aus ganz Europa nahmen an den Wettkämpfen in Mürzzuschlag t
         <div class="grid-item" class="resources">
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
-                    <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 11</li>
+                    <li>Anon, 1931. Im Kampf mit Schnee und Eis. <span id="source">Das Kleine Blatt</span>, 9 Februar 1931, p. 11</li>
                     <li>Anon, 1931. Die 2. Arbeiterolympiade in Mürzzuschlag,<span id="source">Oesterreichische Arbeiter- Turn- und Sport-Zeitung</span>, pp. 14-19.</li>
-                    <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 February 1931, p. 12</li>
-                    <li>Gastgeb, H., Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Vienna: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
+                    <li>Anon, 1931. Finish in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 9 Februar 1931, p. 12</li>
+                    <li>Gastgeb, H., Aufmarschplan zum Festzug. <span id="source">Festführer</span>, Wien: Presseausschuß der Arbeiter-Olympiade, p. 13</li>
                 </ul>
         </div>
         <div class="grid-item" class="resources">
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
-                    <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 February 1931)</li>
+                    <li>Anon, 1931. Talsi, caricature. (<span id="source">Das Kleine Blatt</span>, 9 Februar 1931)</li>
                     <li>Anon, 1931. Talsi jumps to victory. (Winter!Sport!Museum!, Mürzzuschlag)</li>
-                    <li>Photo Ingbro, 1931. Final parade with political figues. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Photo Ingbro, 1931. Endparade mit politischen Vertretern. (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul>
         </div>
     </div>

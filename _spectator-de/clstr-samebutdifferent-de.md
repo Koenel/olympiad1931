@@ -51,16 +51,16 @@ abstract: Abendveranstaltungen wurden drinnen und draußen abgehalten, um region
     <div class="resources">
       <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
           <ul>
-              <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna.</li>
-              <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1</li>
-              <li>Anon, 1931. Fünftausend Gäste in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 7 February 1931, p.6</li>
+              <li>Gastgeb, H. 1931. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Wien.</li>
+              <li>Hüttenegger, T. 1931. Turngenossinnen, Turngenossen, Arbeiter-Wintersportler! <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, Januar 1931. p.1</li>
+              <li>Anon, 1931. Fünftausend Gäste in Mürzzuschlag. <span id="source">Das Kleine Blatt</span>, 7 Februar 1931, p.6</li>
           </ul>
     </div>
     <div class="resources">
       <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
           <ul>
-            <li>Hüttenegger, T., Püchler, 1931. Torchparade Woodcut (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, January 1931. p.1)</li>
-            <li>Anon, 1931. Competitor no.2 crosses the finish line and spectators watch with leaflets in hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
+            <li>Hüttenegger, T., Püchler, 1931. Holzschnitt des Fackelzugs (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, Januar 1931. p.1)</li>
+            <li>Anon, 1931. Wettkämpfer nr.2 überquert die Ziellinie und Zuschauer mit Programmen in der Hand (Winter!Sport!Museum!, Mürzzuschlag)</li>
           </ul>
     </div>
   </div>

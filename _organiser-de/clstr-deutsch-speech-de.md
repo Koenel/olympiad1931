@@ -47,15 +47,15 @@ abstract: Julius Deutsch und die Sozialdemokraten waren sich des schwierigen pol
                 <ul>
                     <li>Czeike, F., 2021. Julius Deutsch. <span id="source">Wien Geschichte Wiki</span>, [online] {{ site.data.snippets.available[page.lang] }}: <a href="https://www.geschichtewiki.wien.gv.at/Julius_Deutsch">https://www.geschichtewiki.wien.gv.at/Julius_Deutsch</a> [Accessed 13 August 2021]</li>
                     <li>Deutsch, J., 1931. Wir grüßen euch! <span id="source">Festführer</span>, p. 5</li>
-                    <li>Forum Politische Bildung, 2008. Politische Entwicklung 1918-1938. <span id="source">Demokratiezentrum Wien</span>, [online] Available at: <a href="http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html">http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html</a> [Accessed 14 August 2021]</li>
-                    <li>Österreichische Mediathek, 2021. Das Ende der 1. Republik, <span id="source">Der erste Weltkrieg Onlineausstellung</span>, [online] Available at: <a href="https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/">https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/</a> [Accessed 14 August 2021]</li>
-                    <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+                    <li>Forum Politische Bildung, 2008. Politische Entwicklung 1918-1938. <span id="source">Demokratiezentrum Wien</span>, [online] {{ site.data.snippets.available[page.lang] }}: <a href="http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html">http://demokratiezentrum.org/wissen/timelines/politische-entwicklung-in-oesterreich-1918-1938.html</a> [Accessed 14 August 2021]</li>
+                    <li>Österreichische Mediathek, 2021. Das Ende der 1. Republik, <span id="source">Der erste Weltkrieg Onlineausstellung</span>, [online] {{ site.data.snippets.available[page.lang] }}: <a href="https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/">https://www.mediathek.at/der-erste-weltkrieg/der-erste-weltkrieg-ausgabe-6/das-ende-der-1-republik/das-ende-der-ersten-republik/</a> [Accessed 14 August 2021]</li>
+                    <li>Zotter, S., 1996. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diplomarbeit, Mainz: Johannes-Gutenberg Universität zu Mainz, {{ site.data.snippets.ger[page.lang] }}.</li>
                 </ul>
         </div>
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
-                    <li>Anon, 1931. Julius Deutsch. Filmstill (Wiener Filmarchiv der Arbeiterbewegung, Wien)</li>
+                    <li>Anon, 1931. Julius Deutsch. Filmstandbild (Wiener Filmarchiv der Arbeiterbewegung, Wien)</li>
                 </ul>
         </div>
     </div>

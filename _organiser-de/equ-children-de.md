@@ -26,13 +26,13 @@ abstract: Kinder waren wichtig für die sozialdemokratische Nachwuchsgewinnung. 
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Der Triumph der Nordländer bei der Winterolympiade. <span id="source">Der Abend</span> 9 Feb 1931, p. 10</li>
-                    <li>Czery, F., 1931. Zur Jugendfrage. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span> 4/8th year, April 1931, pp.39-40.</li>
+                    <li>Czery, F., 1931. Zur Jugendfrage. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span> 4/8. Jahr, April 1931, pp.39-40.</li>
                     <li>Deutsch, J., 1931. Wir grüßen euch! <span id="source">Festführer</span>, p. 5</li>
                 </ul>
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
                     <li>Anon, 1931. Peter Ganster.(Winter!Sport!Museum!, Mürzzuschlag)</li>
-                    <li>Photo Ingbro, 1931. Children carrying their equipment. (Winter!Sport!Museum!, Mürzzuschlag)</li>
+                    <li>Photo Ingbro, 1931. Kinder tragen ihre Ausrüstung. (Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul> 
         </div>
     </div>

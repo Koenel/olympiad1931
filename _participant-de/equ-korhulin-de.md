@@ -45,14 +45,14 @@ abstract: Die Winterolympiade 1931 war eine der ersten Veranstaltungen, wo Fraue
     <div class="resources">
         <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
             <ul>
-                <li>Anon, 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 February 1931, p.7</li>
+                <li>Anon, 7 February 1931. Impi Lahtinen erzählt. <span id="source">Kronen Zeitung</span>, 8 Februar 1931, p.7</li>
                 <li>Anon, 1931. Ein Triumph der Finnen. <span id="source">Das Kleine Blatt</span>, 6 Feb 1931, p. 14</li>
-                <li>Anon, 1 March 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, 1 March 1931, p.5</li>
+                <li>Anon, 1 März 1931. Die Wintersportolympiade in Mürzzuschlag. <span id="source">Die Frau</span>, 1 März 1931, p.5</li>
             </ul>
         <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
             <ul>
-                <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3rd year/7, 15 February 1931, p.3)</li>
-                <li>Das Kleine Blatt, 1931. Winner in the 4k-competition Impi Lahtinen, and fellow Finnish Heikki Norovaervi, winner of the 15k-competition, are a happy married couple off the slopes too (<span id="source">Das Kleine Blatt</span>, 8 February 1931, p.11)</li>
+                <li>Photo Ingbro, 1931. Esther Korholin. (<span id="source">Der Kuckuck</span>, 3. Jahr/7, 15 Februar 1931, p.3)</li>
+                <li>Das Kleine Blatt, 1931. Gewinnerin des 4km Wettbewerbs Impi Lahtinen, und der Finne Heikki Norovaervi, Gewinner des 15km Wettbewerbs, sind auch abseits der Piste ein glückliches Ehepaar (<span id="source">Das Kleine Blatt</span>, 8 Februar 1931, p.11)</li>
             </ul>
     </div>
 </div>

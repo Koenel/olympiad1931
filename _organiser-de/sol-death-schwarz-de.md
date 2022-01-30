@@ -39,12 +39,12 @@ abstract: Unglücklicherweise verlor der Sportler Otto Schwarz sein Leben nach e
         <div class="resources">
             <div class="resource-title">{{ site.data.snippets.sources[page.lang] }}:</div>
                 <ul>
-                    <li>Fischer, J., 1931. Im Kampf mit Schnee und Sturm. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 3/ 8th year, March 1931, pp.28-29.</li>
-                    <li>Anon, 1931. Ein gigantisches Sportfest. <span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, pp.1-4.</li>
+                    <li>Fischer, J., 1931. Im Kampf mit Schnee und Sturm. <span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, 3/ 8. Jahr, März 1931, pp.28-29.</li>
+                    <li>Anon, 1931. Ein gigantisches Sportfest. <span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3. Jahr, 15 Februar 1931, pp.1-4.</li>
                 </ul>
             <div class="resource-title">{{ site.data.snippets.pics[page.lang] }}:</div>
                 <ul>
-                    <li>Arbeiterbund für Sport und Körperkultur in Österreich, 1931. Otto Schwarz orbituary.(<span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3rd year, 15 February 1931, p.4)</li>
+                    <li>Arbeiterbund für Sport und Körperkultur in Österreich, 1931. Otto Schwarz Nachruf.(<span id="source">Volkssport. Offizielles Organ de Arbeiterbundes für Sport und Körperkultur in Österreich</span>, 2/3. Jahr, 15 Februar 1931, p.4)</li>
                     <li>Anon, 1931. Umgebung von Mürzzuschlag. (<span id="source">Festführer</span>, Winter!Sport!Museum!, Mürzzuschlag)</li>
                 </ul>
         </div>

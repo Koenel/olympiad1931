@@ -37,8 +37,8 @@ finder: resources
     <ul>
         <li>Anon. 1931. Das heißt Förderung des Fremdenverkehrs. <span id="source">Der Abend</span>, 3rd February 1931, p.6</li>
         <li>Anon. 1931. Arbeiter-Wintersportolympiade in Mürzzuschlag. <span id="source">Der Kuckuck</span>, 3rd year/7, 15th February 1931, p.3</li>
-        <li>Gastgeb, H. 1931. Wohnungs- und Wirtschaftswesen. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade</span>, Vienna, p.19.</li>
-        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, einen unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
+        <li>Gastgeb, H. 1931. Wohnungs- und Wirtschaftswesen. <span id="source">Festführer</span>. Presseausschuß der Arbeiter-Olympiade, Vienna, p.19.</li>
+        <li>Zotter, S. <span id="source">Arbeiter-Wintersport-Olympiade 1931 in Mürzzuschlag, eine unbekannte Olympiade</span>. Diploma Thesis, Mainz: Johannes-Gutenberg Universität zu Mainz, Germany.</li>
     </ul>
 </div>
 <h2>Idealism and dedication</h2>
@@ -136,7 +136,7 @@ finder: resources
 <div>
     <ul>
         <li><h3>Dr Julius Deutsch</h3></li>
-        <li>Anon, 1927. Dr. Julius Deutsch. <span id="source">Wikicommons, public domain</span>, [online] {{ site.data.snippets.available[page.language] }}: <a href="https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg">https://commons.wikimedia.org/wiki/File:Dr._Julius_Deutsch_(cropped).jpg</a></li>
+        <li>Anon, 1931. Julius Deutsch. Filmstandbild (Wiener Filmarchiv der Arbeiterbewegung, Wien)</a></li>
         <li><h3>Libelle</h3></li>
         <li>Anon, 1932. Libelle. (<span id="source">Oesterreichische Arbeiter-Turn- und Sport-Zeitung</span>, p. 80) </li>
         <li><h3>Clinometer</h3></li>
